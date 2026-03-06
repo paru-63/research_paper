@@ -1,0 +1,1080 @@
+[
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Mandira Bairagi",
+        "target_type": "Author"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Dr. Shalini R. Lihitkar",
+        "target_type": "Author"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "(Research Scholar",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Department of Library and Information Science",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Rashtrasant Tukadoji Maharaj Nagpur University",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Nagpur",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "IEEE Access",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Artificial Intelligence Tools",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Artificial intelligence",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Artificial Intelligence Tools",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Research communication",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Scholarly publication",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Mrs. Abha Pathak",
+        "target_type": "Author"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Trupti Pawar",
+        "target_type": "Author"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Yogeshwari Pawar",
+        "target_type": "Author"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Shreya pawar",
+        "target_type": "Author"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "U.G. Student",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Computer Engineering. Dr. D. Y. Patil College of Engineering and Innovation",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Pune",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Assistant Professor",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Computer Engineering",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Dr. D. Y. Patil College of Engineering and Innovation",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Pune",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "International Journal on Advanced Computer Theory and Engineering",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Natural Language Processing (NLP)",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "NLP",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "evaluate summarization models using Python",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Divakar Yadav",
+        "target_type": "Author"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Jalpa Desai",
+        "target_type": "Author"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Arun Kumar Yadav",
+        "target_type": "Author"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "20mcs105@nith.ac.in",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "dsy99@rediffmail.com",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "ayadav@nith.ac.in",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "IEEE Access",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "NLP",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Automatic text summarization",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Natural Language Processing",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Categorization of text summarization  system",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Seema Aswani",
+        "target_type": "Author"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Kabita Choudhary",
+        "target_type": "Author"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Sujala Shetty",
+        "target_type": "Author"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Nasheen Nur",
+        "target_type": "Author"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Department of Computer Science",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Birla Institute of Technology and Science",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Dubai",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "U.A.E.",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "3 Department of Electrical Engineering and Computer Science",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Florida Institute of Technology",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Florida 32901",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "U.S.A.",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "Journal of Autonomous Intelligence",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Natural Language Processing",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "CNN",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Sanjivani Chandrashekhar Kachare",
+        "target_type": "Author"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Manali Udaykumar Sawant",
+        "target_type": "Author"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Manasi Suresh Yadav",
+        "target_type": "Author"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Ms. Priyanka Rajendra Jadhav",
+        "target_type": "Author"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "International Journal of Creative Research Thoughts (IJCRT)",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "IJCRT",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "NLP",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Open AI",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "NLP",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Text Summarization",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Text Rank",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "OCR",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Open AI",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "SUBASH VOLETI",
+        "target_type": "Author"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "CHAITAN RAJU",
+        "target_type": "Author"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "TEJA RANI",
+        "target_type": "Author"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "MUGADA SWETHA",
+        "target_type": "Author"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "DEPT OF CSE",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "VIZIANAGARM",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "International Research Journal of Engineering and Technology (IRJET)",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "GTTS(Google Text To Speech) API",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Text Summarization",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Text Rank Algorithm",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "NLTK",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "GTTS(Google Text To Speech) API",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Extractive Text Summarization",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Bhuvan Shingade",
+        "target_type": "Author"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Yash Matha",
+        "target_type": "Author"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Ved Kolambkar",
+        "target_type": "Author"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Suyash Kasar",
+        "target_type": "Author"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Prof. Rohini Palve",
+        "target_type": "Author"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Computer Engineering Department",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Terna Engineering College",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Nerul",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Navi Mumbai",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "SIRJANA JOURNAL",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Machine Learning",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Long term short memory(LSTM)",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Natural Language Processing(NLP)",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Machine Learning",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Natural Language Processing(NLP)",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Long term short memory(LSTM)",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Abstractive Summarization",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Extractive Summarization.",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Niharika Verma",
+        "target_type": "Author"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "Prof. Ashish Tiwari",
+        "target_type": "Author"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "1 Computer Science & Engineering  Department",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Rajiv Gandhi Technical University Airport Road",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Gandhi Nagar Bhopal-462 033",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "India",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "2 Vindhya Institute of Technology and Science Umrikheda",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Khandwa Road",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Indore (M.P.)",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "India",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "International Journal of Engineering Research & Technology (IJERT)",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Automatic Text Summarization",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "abstraction-predicated summary",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "automatic text summarization",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "extraction summary",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "feature extraction",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "text reduction.",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "1 G. Santhoshi",
+        "target_type": "Author"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "2 M Jyothi",
+        "target_type": "Author"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "3 Kovvuri Ramya Sri",
+        "target_type": "Author"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "4 G. Hasika",
+        "target_type": "Author"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "5 G. Varsha",
+        "target_type": "Author"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AUTHORED_BY",
+        "target": "6 R. Snigdha",
+        "target_type": "Author"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "1",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "2Assistant Professor",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Department of Information Technology",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "G. Narayanamma Institute of Technology and  Science for Women",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Hyderabad",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "India. 3Assistant Professor",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Department of Computer Science Technology",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "G.Narayanamma Institute of Technology and Science for Women",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Hyderabad",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "India.4",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "5",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "6Student Department of Information Technology",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "G. Narayanamma Institute of Technology and Science for Women",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "Hyderabad",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "AFFILIATED_WITH",
+        "target": "India.",
+        "target_type": "Institution"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "PUBLISHED_IN",
+        "target": "International Research Journal on Advanced Engineering and Management",
+        "target_type": "Journal"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "RESEARCH_IN",
+        "target": "Natural Language Toolkit (NLTK)",
+        "target_type": "Domain"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Natural Language Processing (NLP)",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Highlighting Keywords",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Read Aloud",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Plagiarism",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Images",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P09",
+        "source_type": "Paper",
+        "relationship": "HAS_KEYWORD",
+        "target": "Research.",
+        "target_type": "Keyword"
+    },
+    {
+        "source": "P01",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R001",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P02",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R002",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P03",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R003",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P04",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R004",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P05",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R005",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P06",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R006",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P07",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R007",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P08",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R008",
+        "target_type": "Reference"
+    },
+    {
+        "source": "P9",
+        "source_type": "Paper",
+        "relationship": "CITES",
+        "target": "R009",
+        "target_type": "Reference"
+    }
+]

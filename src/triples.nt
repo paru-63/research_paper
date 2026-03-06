@@ -1,0 +1,801 @@
+<http://example.org/P01> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P01> <http://example.org/has_title> "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+<http://example.org/P01> <http://example.org/published_year> "2024" .
+<http://example.org/P01> <http://example.org/has_doi> "10.1109/ACCESS.2025.3536205" .
+<http://example.org/P02> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P02> <http://example.org/has_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/P02> <http://example.org/published_year> "2025" .
+<http://example.org/P02> <http://example.org/has_doi> "ISSN: 2319-2526" .
+<http://example.org/P03> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P03> <http://example.org/has_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/P03> <http://example.org/published_year> "2024" .
+<http://example.org/P03> <http://example.org/has_doi> "10.1109/TCC.2025.3612322" .
+<http://example.org/P04> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P04> <http://example.org/has_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/P04> <http://example.org/published_year> "2024" .
+<http://example.org/P04> <http://example.org/has_doi> "10.32629/jai.v7i5.1331" .
+<http://example.org/P05> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P05> <http://example.org/has_title> "Text Summarization Using Natural Language Processing" .
+<http://example.org/P05> <http://example.org/published_year> "2024" .
+<http://example.org/P05> <http://example.org/has_doi> "ISSN: 2320-2882" .
+<http://example.org/P06> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P06> <http://example.org/has_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/P06> <http://example.org/published_year> "2020" .
+<http://example.org/P06> <http://example.org/has_doi> "e-ISSN: 2395-0056" .
+<http://example.org/P07> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P07> <http://example.org/has_title> "A Survey of Text Summarization Using NLP" .
+<http://example.org/P07> <http://example.org/published_year> "2025" .
+<http://example.org/P07> <http://example.org/has_doi> "ISSN:2455-1058" .
+<http://example.org/P08> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P08> <http://example.org/has_title> "A Survey of Automatic Text Summarization" .
+<http://example.org/P08> <http://example.org/published_year> "2014" .
+<http://example.org/P08> <http://example.org/has_doi> "ISSN: 2278-0181" .
+<http://example.org/P09> <http://example.org/rdf:type> "Paper" .
+<http://example.org/P09> <http://example.org/has_title> "Research Paper Summarizer Using AI" .
+<http://example.org/P09> <http://example.org/published_year> "2024" .
+<http://example.org/P09> <http://example.org/has_doi> "e ISSN: 2584-2854" .
+<http://example.org/Mandira_Bairagi> <http://example.org/rdf:type> "Author" .
+<http://example.org/Mandira_Bairagi> <http://example.org/has_name> "Mandira Bairagi" .
+<http://example.org/Dr._Shalini_R._Lihitkar> <http://example.org/rdf:type> "Author" .
+<http://example.org/Dr._Shalini_R._Lihitkar> <http://example.org/has_name> "Dr. Shalini R. Lihitkar" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/rdf:type> "Author" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/has_name> "Mrs. Abha Pathak" .
+<http://example.org/Trupti_Pawar> <http://example.org/rdf:type> "Author" .
+<http://example.org/Trupti_Pawar> <http://example.org/has_name> "Trupti Pawar" .
+<http://example.org/Yogeshwari_Pawar> <http://example.org/rdf:type> "Author" .
+<http://example.org/Yogeshwari_Pawar> <http://example.org/has_name> "Yogeshwari Pawar" .
+<http://example.org/Shreya_pawar> <http://example.org/rdf:type> "Author" .
+<http://example.org/Shreya_pawar> <http://example.org/has_name> "Shreya pawar" .
+<http://example.org/Divakar_Yadav> <http://example.org/rdf:type> "Author" .
+<http://example.org/Divakar_Yadav> <http://example.org/has_name> "Divakar Yadav" .
+<http://example.org/Jalpa_Desai> <http://example.org/rdf:type> "Author" .
+<http://example.org/Jalpa_Desai> <http://example.org/has_name> "Jalpa Desai" .
+<http://example.org/Arun_Kumar_Yadav> <http://example.org/rdf:type> "Author" .
+<http://example.org/Arun_Kumar_Yadav> <http://example.org/has_name> "Arun Kumar Yadav" .
+<http://example.org/Seema_Aswani> <http://example.org/rdf:type> "Author" .
+<http://example.org/Seema_Aswani> <http://example.org/has_name> "Seema Aswani" .
+<http://example.org/Kabita_Choudhary> <http://example.org/rdf:type> "Author" .
+<http://example.org/Kabita_Choudhary> <http://example.org/has_name> "Kabita Choudhary" .
+<http://example.org/Sujala_Shetty> <http://example.org/rdf:type> "Author" .
+<http://example.org/Sujala_Shetty> <http://example.org/has_name> "Sujala Shetty" .
+<http://example.org/Nasheen_Nur> <http://example.org/rdf:type> "Author" .
+<http://example.org/Nasheen_Nur> <http://example.org/has_name> "Nasheen Nur" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare> <http://example.org/rdf:type> "Author" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare> <http://example.org/has_name> "Sanjivani Chandrashekhar Kachare" .
+<http://example.org/Manali_Udaykumar_Sawant> <http://example.org/rdf:type> "Author" .
+<http://example.org/Manali_Udaykumar_Sawant> <http://example.org/has_name> "Manali Udaykumar Sawant" .
+<http://example.org/Manasi_Suresh_Yadav> <http://example.org/rdf:type> "Author" .
+<http://example.org/Manasi_Suresh_Yadav> <http://example.org/has_name> "Manasi Suresh Yadav" .
+<http://example.org/Ms._Priyanka_Rajendra_Jadhav> <http://example.org/rdf:type> "Author" .
+<http://example.org/Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_name> "Ms. Priyanka Rajendra Jadhav" .
+<http://example.org/SUBASH_VOLETI> <http://example.org/rdf:type> "Author" .
+<http://example.org/SUBASH_VOLETI> <http://example.org/has_name> "SUBASH VOLETI" .
+<http://example.org/CHAITAN_RAJU> <http://example.org/rdf:type> "Author" .
+<http://example.org/CHAITAN_RAJU> <http://example.org/has_name> "CHAITAN RAJU" .
+<http://example.org/TEJA_RANI> <http://example.org/rdf:type> "Author" .
+<http://example.org/TEJA_RANI> <http://example.org/has_name> "TEJA RANI" .
+<http://example.org/MUGADA_SWETHA> <http://example.org/rdf:type> "Author" .
+<http://example.org/MUGADA_SWETHA> <http://example.org/has_name> "MUGADA SWETHA" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/rdf:type> "Author" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/has_name> "Bhuvan Shingade" .
+<http://example.org/Yash_Matha> <http://example.org/rdf:type> "Author" .
+<http://example.org/Yash_Matha> <http://example.org/has_name> "Yash Matha" .
+<http://example.org/Ved_Kolambkar> <http://example.org/rdf:type> "Author" .
+<http://example.org/Ved_Kolambkar> <http://example.org/has_name> "Ved Kolambkar" .
+<http://example.org/Suyash_Kasar> <http://example.org/rdf:type> "Author" .
+<http://example.org/Suyash_Kasar> <http://example.org/has_name> "Suyash Kasar" .
+<http://example.org/Prof._Rohini_Palve> <http://example.org/rdf:type> "Author" .
+<http://example.org/Prof._Rohini_Palve> <http://example.org/has_name> "Prof. Rohini Palve" .
+<http://example.org/Niharika_Verma> <http://example.org/rdf:type> "Author" .
+<http://example.org/Niharika_Verma> <http://example.org/has_name> "Niharika Verma" .
+<http://example.org/Prof._Ashish_Tiwari> <http://example.org/rdf:type> "Author" .
+<http://example.org/Prof._Ashish_Tiwari> <http://example.org/has_name> "Prof. Ashish Tiwari" .
+<http://example.org/G._Santhoshi> <http://example.org/rdf:type> "Author" .
+<http://example.org/G._Santhoshi> <http://example.org/has_name> "G. Santhoshi" .
+<http://example.org/M_Jyothi> <http://example.org/rdf:type> "Author" .
+<http://example.org/M_Jyothi> <http://example.org/has_name> "M Jyothi" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/rdf:type> "Author" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/has_name> "Kovvuri Ramya Sri" .
+<http://example.org/G._Hasika> <http://example.org/rdf:type> "Author" .
+<http://example.org/G._Hasika> <http://example.org/has_name> "G. Hasika" .
+<http://example.org/G._Varsha> <http://example.org/rdf:type> "Author" .
+<http://example.org/G._Varsha> <http://example.org/has_name> "G. Varsha" .
+<http://example.org/R._Snigdha> <http://example.org/rdf:type> "Author" .
+<http://example.org/R._Snigdha> <http://example.org/has_name> "R. Snigdha" .
+<http://example.org/Rashtrasant_Tukadoji_Maharaj_Nagpur_University> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Rashtrasant_Tukadoji_Maharaj_Nagpur_University> <http://example.org/has_name> "Rashtrasant Tukadoji Maharaj Nagpur University" .
+<http://example.org/Patil_College_of_Engineering_and_Innovation> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Patil_College_of_Engineering_and_Innovation> <http://example.org/has_name> "Patil College of Engineering and Innovation" .
+<http://example.org/Birla_Institute_of_Technology_and_Science> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Birla_Institute_of_Technology_and_Science> <http://example.org/has_name> "Birla Institute of Technology and Science" .
+<http://example.org/Florida_Institute_of_Technology> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Florida_Institute_of_Technology> <http://example.org/has_name> "Florida Institute of Technology" .
+<http://example.org/LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY> <http://example.org/rdf:type> "Institution" .
+<http://example.org/LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY> <http://example.org/has_name> "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+<http://example.org/Terna_Engineering_College> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Terna_Engineering_College> <http://example.org/has_name> "Terna Engineering College" .
+<http://example.org/Rajiv_Gandhi_Technical_University_Airport_Road> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Rajiv_Gandhi_Technical_University_Airport_Road> <http://example.org/has_name> "Rajiv Gandhi Technical University Airport Road" .
+<http://example.org/2_Vindhya_Institute_of_Technology_and_Science_Umrikheda> <http://example.org/rdf:type> "Institution" .
+<http://example.org/2_Vindhya_Institute_of_Technology_and_Science_Umrikheda> <http://example.org/has_name> "2 Vindhya Institute of Technology and Science Umrikheda" .
+<http://example.org/Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/has_name> "Narayanamma Institute of Technology and  Science for Women" .
+<http://example.org/Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/rdf:type> "Institution" .
+<http://example.org/Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_name> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/IEEE_Access> <http://example.org/rdf:type> "Journal" .
+<http://example.org/IEEE_Access> <http://example.org/has_name> "IEEE Access" .
+<http://example.org/International_Journal_on_Advanced_Computer_Theory_and_Engineering> <http://example.org/rdf:type> "Journal" .
+<http://example.org/International_Journal_on_Advanced_Computer_Theory_and_Engineering> <http://example.org/has_name> "International Journal on Advanced Computer Theory and Engineering" .
+<http://example.org/Journal_of_Autonomous_Intelligence> <http://example.org/rdf:type> "Journal" .
+<http://example.org/Journal_of_Autonomous_Intelligence> <http://example.org/has_name> "Journal of Autonomous Intelligence" .
+<http://example.org/IJCRT> <http://example.org/rdf:type> "Journal" .
+<http://example.org/IJCRT> <http://example.org/has_name> "IJCRT" .
+<http://example.org/International_Research_Journal_of_Engineering_and_Technology_(IRJET)> <http://example.org/rdf:type> "Journal" .
+<http://example.org/International_Research_Journal_of_Engineering_and_Technology_(IRJET)> <http://example.org/has_name> "International Research Journal of Engineering and Technology (IRJET)" .
+<http://example.org/SIRJANA_JOURNAL> <http://example.org/rdf:type> "Journal" .
+<http://example.org/SIRJANA_JOURNAL> <http://example.org/has_name> "SIRJANA JOURNAL" .
+<http://example.org/International_Journal_of_Engineering_Research_&_Technology_(IJERT)> <http://example.org/rdf:type> "Journal" .
+<http://example.org/International_Journal_of_Engineering_Research_&_Technology_(IJERT)> <http://example.org/has_name> "International Journal of Engineering Research & Technology (IJERT)" .
+<http://example.org/International_Research_Journal_on_Advanced_Engineering_and_Management> <http://example.org/rdf:type> "Journal" .
+<http://example.org/International_Research_Journal_on_Advanced_Engineering_and_Management> <http://example.org/has_name> "International Research Journal on Advanced Engineering and Management" .
+<http://example.org/Artificial_intelligence> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Artificial_intelligence> <http://example.org/has_name> "Artificial intelligence" .
+<http://example.org/Artificial_Intelligence_Tools> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Artificial_Intelligence_Tools> <http://example.org/has_name> "Artificial Intelligence Tools" .
+<http://example.org/Research_communication> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Research_communication> <http://example.org/has_name> "Research communication" .
+<http://example.org/Scholarly_publication> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Scholarly_publication> <http://example.org/has_name> "Scholarly publication" .
+<http://example.org/NLP> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/NLP> <http://example.org/has_name> "NLP" .
+<http://example.org/evaluate_summarization_models_using_Python> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/evaluate_summarization_models_using_Python> <http://example.org/has_name> "evaluate summarization models using Python" .
+<http://example.org/Automatic_text_summarization> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Automatic_text_summarization> <http://example.org/has_name> "Automatic text summarization" .
+<http://example.org/Natural_Language_Processing> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Natural_Language_Processing> <http://example.org/has_name> "Natural Language Processing" .
+<http://example.org/Categorization_of_text_summarization__system> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Categorization_of_text_summarization__system> <http://example.org/has_name> "Categorization of text summarization  system" .
+<http://example.org/natural_language_processing;_long_document_summarization;_transformers;_multi-headed_attention;_scientific_article_summarization> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/natural_language_processing;_long_document_summarization;_transformers;_multi-headed_attention;_scientific_article_summarization> <http://example.org/has_name> "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization" .
+<http://example.org/Text_Summarization> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Text_Summarization> <http://example.org/has_name> "Text Summarization" .
+<http://example.org/Text_Rank> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Text_Rank> <http://example.org/has_name> "Text Rank" .
+<http://example.org/OCR> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/OCR> <http://example.org/has_name> "OCR" .
+<http://example.org/Open_AI> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Open_AI> <http://example.org/has_name> "Open AI" .
+<http://example.org/Text_Rank_Algorithm> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Text_Rank_Algorithm> <http://example.org/has_name> "Text Rank Algorithm" .
+<http://example.org/NLTK> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/NLTK> <http://example.org/has_name> "NLTK" .
+<http://example.org/GTTS(Google_Text_To_Speech)_API> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/GTTS(Google_Text_To_Speech)_API> <http://example.org/has_name> "GTTS(Google Text To Speech) API" .
+<http://example.org/Extractive_Text_Summarization> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Extractive_Text_Summarization> <http://example.org/has_name> "Extractive Text Summarization" .
+<http://example.org/Machine_Learning> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Machine_Learning> <http://example.org/has_name> "Machine Learning" .
+<http://example.org/Natural_Language_Processing(NLP)> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Natural_Language_Processing(NLP)> <http://example.org/has_name> "Natural Language Processing(NLP)" .
+<http://example.org/Long_term_short_memory(LSTM)> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Long_term_short_memory(LSTM)> <http://example.org/has_name> "Long term short memory(LSTM)" .
+<http://example.org/Abstractive_Summarization> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Abstractive_Summarization> <http://example.org/has_name> "Abstractive Summarization" .
+<http://example.org/Extractive_Summarization.> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Extractive_Summarization.> <http://example.org/has_name> "Extractive Summarization." .
+<http://example.org/abstraction-predicated_summary> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/abstraction-predicated_summary> <http://example.org/has_name> "abstraction-predicated summary" .
+<http://example.org/automatic_text_summarization> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/automatic_text_summarization> <http://example.org/has_name> "automatic text summarization" .
+<http://example.org/extraction_summary> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/extraction_summary> <http://example.org/has_name> "extraction summary" .
+<http://example.org/feature_extraction> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/feature_extraction> <http://example.org/has_name> "feature extraction" .
+<http://example.org/text_reduction.> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/text_reduction.> <http://example.org/has_name> "text reduction." .
+<http://example.org/Natural_Language_Processing_(NLP)> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Natural_Language_Processing_(NLP)> <http://example.org/has_name> "Natural Language Processing (NLP)" .
+<http://example.org/Highlighting_Keywords> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Highlighting_Keywords> <http://example.org/has_name> "Highlighting Keywords" .
+<http://example.org/Read_Aloud> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Read_Aloud> <http://example.org/has_name> "Read Aloud" .
+<http://example.org/Plagiarism> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Plagiarism> <http://example.org/has_name> "Plagiarism" .
+<http://example.org/Images> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Images> <http://example.org/has_name> "Images" .
+<http://example.org/Research.> <http://example.org/rdf:type> "Keyword" .
+<http://example.org/Research.> <http://example.org/has_name> "Research." .
+<http://example.org/Artificial_Intelligence_Tools> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Artificial_Intelligence_Tools> <http://example.org/has_name> "Artificial Intelligence Tools" .
+<http://example.org/Natural_Language_Processing_(NLP)> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Natural_Language_Processing_(NLP)> <http://example.org/has_name> "Natural Language Processing (NLP)" .
+<http://example.org/NLP> <http://example.org/rdf:type> "Domain" .
+<http://example.org/NLP> <http://example.org/has_name> "NLP" .
+<http://example.org/Natural_Language_Processing> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Natural_Language_Processing> <http://example.org/has_name> "Natural Language Processing" .
+<http://example.org/CNN> <http://example.org/rdf:type> "Domain" .
+<http://example.org/CNN> <http://example.org/has_name> "CNN" .
+<http://example.org/Open_AI> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Open_AI> <http://example.org/has_name> "Open AI" .
+<http://example.org/GTTS(Google_Text_To_Speech)_API> <http://example.org/rdf:type> "Domain" .
+<http://example.org/GTTS(Google_Text_To_Speech)_API> <http://example.org/has_name> "GTTS(Google Text To Speech) API" .
+<http://example.org/Machine_Learning> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Machine_Learning> <http://example.org/has_name> "Machine Learning" .
+<http://example.org/Long_term_short_memory(LSTM)> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Long_term_short_memory(LSTM)> <http://example.org/has_name> "Long term short memory(LSTM)" .
+<http://example.org/Natural_Language_Processing(NLP)> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Natural_Language_Processing(NLP)> <http://example.org/has_name> "Natural Language Processing(NLP)" .
+<http://example.org/Automatic_Text_Summarization> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Automatic_Text_Summarization> <http://example.org/has_name> "Automatic Text Summarization" .
+<http://example.org/Natural_Language_Toolkit_(NLTK)> <http://example.org/rdf:type> "Domain" .
+<http://example.org/Natural_Language_Toolkit_(NLTK)> <http://example.org/has_name> "Natural Language Toolkit (NLTK)" .
+<http://example.org/R001> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R001> <http://example.org/has_title> "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Techniques" .
+<http://example.org/R001> <http://example.org/cited_year> "2023" .
+<http://example.org/R001> <http://example.org/citation_count> "8" .
+<http://example.org/R001> <http://example.org/has_link> "https://doi.org/10.1108/ejim-02-2023-0156" .
+<http://example.org/R002> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R002> <http://example.org/has_title> "SmartNews: AI-Powered News Summarizer" .
+<http://example.org/R002> <http://example.org/cited_year> "2025" .
+<http://example.org/R002> <http://example.org/has_link> "https://journals.mriindia.com" .
+<http://example.org/R003> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R003> <http://example.org/has_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/R003> <http://example.org/cited_year> "2023" .
+<http://example.org/R003> <http://example.org/citation_count> "25" .
+<http://example.org/R003> <http://example.org/has_link> "https://orcid.org/0000-0001-6051-479X" .
+<http://example.org/R004> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R004> <http://example.org/has_title> "Automatic text summarization of scientific articles using transformers-A brief review" .
+<http://example.org/R004> <http://example.org/cited_year> "2024" .
+<http://example.org/R004> <http://example.org/citation_count> "2" .
+<http://example.org/R004> <http://example.org/has_link> "https://doi.org/10.32629/jai.v7i5.1331" .
+<http://example.org/R005> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R005> <http://example.org/has_title> "Text Summarization Using Natural Language Processing" .
+<http://example.org/R005> <http://example.org/cited_year> "2024" .
+<http://example.org/R005> <http://example.org/citation_count> "3" .
+<http://example.org/R005> <http://example.org/has_link> "https://www.ijcrt.org" .
+<http://example.org/R006> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R006> <http://example.org/has_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/R006> <http://example.org/cited_year> "2020" .
+<http://example.org/R006> <http://example.org/citation_count> "10" .
+<http://example.org/R006> <http://example.org/has_link> "https://www.irjet.net" .
+<http://example.org/R007> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R007> <http://example.org/has_title> "A Survey of Text Summarization Using NLP" .
+<http://example.org/R007> <http://example.org/cited_year> "2023" .
+<http://example.org/R007> <http://example.org/citation_count> "2" .
+<http://example.org/R007> <http://example.org/has_link> "https://sirjana.in" .
+<http://example.org/R008> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R008> <http://example.org/has_title> "A Survey of Automatic Text Summarization" .
+<http://example.org/R008> <http://example.org/cited_year> "2014" .
+<http://example.org/R008> <http://example.org/citation_count> "15" .
+<http://example.org/R008> <http://example.org/has_link> "https://www.irjet.net" .
+<http://example.org/R009> <http://example.org/rdf:type> "Reference" .
+<http://example.org/R009> <http://example.org/has_title> "Research Paper Summarizer Using AI" .
+<http://example.org/R009> <http://example.org/cited_year> "2024" .
+<http://example.org/R009> <http://example.org/citation_count> "1" .
+<http://example.org/R009> <http://example.org/has_link> "https://doi.org/10.47392/IRJAEM.2024.0374" .
+<http://example.org/Mandira_Bairagi> <http://example.org/AUTHORED> "P01" .
+<http://example.org/Mandira_Bairagi_AUTHORED_P01> <http://example.org/has_year> "2024" .
+<http://example.org/Mandira_Bairagi_AUTHORED_P01> <http://example.org/has_paper_title> "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+<http://example.org/Dr._Shalini_R._Lihitkar> <http://example.org/AUTHORED> "P01" .
+<http://example.org/Dr._Shalini_R._Lihitkar_AUTHORED_P01> <http://example.org/has_year> "2024" .
+<http://example.org/Dr._Shalini_R._Lihitkar_AUTHORED_P01> <http://example.org/has_paper_title> "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/AUTHORED> "P02" .
+<http://example.org/Mrs._Abha_Pathak_AUTHORED_P02> <http://example.org/has_year> "2025" .
+<http://example.org/Mrs._Abha_Pathak_AUTHORED_P02> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Trupti_Pawar> <http://example.org/AUTHORED> "P02" .
+<http://example.org/Trupti_Pawar_AUTHORED_P02> <http://example.org/has_year> "2025" .
+<http://example.org/Trupti_Pawar_AUTHORED_P02> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Yogeshwari_Pawar> <http://example.org/AUTHORED> "P02" .
+<http://example.org/Yogeshwari_Pawar_AUTHORED_P02> <http://example.org/has_year> "2025" .
+<http://example.org/Yogeshwari_Pawar_AUTHORED_P02> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Shreya_pawar> <http://example.org/AUTHORED> "P02" .
+<http://example.org/Shreya_pawar_AUTHORED_P02> <http://example.org/has_year> "2025" .
+<http://example.org/Shreya_pawar_AUTHORED_P02> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Divakar_Yadav> <http://example.org/AUTHORED> "P03" .
+<http://example.org/Divakar_Yadav_AUTHORED_P03> <http://example.org/has_year> "2024" .
+<http://example.org/Divakar_Yadav_AUTHORED_P03> <http://example.org/has_paper_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/Jalpa_Desai> <http://example.org/AUTHORED> "P03" .
+<http://example.org/Jalpa_Desai_AUTHORED_P03> <http://example.org/has_year> "2024" .
+<http://example.org/Jalpa_Desai_AUTHORED_P03> <http://example.org/has_paper_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/Arun_Kumar_Yadav> <http://example.org/AUTHORED> "P03" .
+<http://example.org/Arun_Kumar_Yadav_AUTHORED_P03> <http://example.org/has_year> "2024" .
+<http://example.org/Arun_Kumar_Yadav_AUTHORED_P03> <http://example.org/has_paper_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/Seema_Aswani> <http://example.org/AUTHORED> "P04" .
+<http://example.org/Seema_Aswani_AUTHORED_P04> <http://example.org/has_year> "2024" .
+<http://example.org/Seema_Aswani_AUTHORED_P04> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Kabita_Choudhary> <http://example.org/AUTHORED> "P04" .
+<http://example.org/Kabita_Choudhary_AUTHORED_P04> <http://example.org/has_year> "2024" .
+<http://example.org/Kabita_Choudhary_AUTHORED_P04> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Sujala_Shetty> <http://example.org/AUTHORED> "P04" .
+<http://example.org/Sujala_Shetty_AUTHORED_P04> <http://example.org/has_year> "2024" .
+<http://example.org/Sujala_Shetty_AUTHORED_P04> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Nasheen_Nur> <http://example.org/AUTHORED> "P04" .
+<http://example.org/Nasheen_Nur_AUTHORED_P04> <http://example.org/has_year> "2024" .
+<http://example.org/Nasheen_Nur_AUTHORED_P04> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare> <http://example.org/AUTHORED> "P05" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_AUTHORED_P05> <http://example.org/has_year> "2024" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_AUTHORED_P05> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Manali_Udaykumar_Sawant> <http://example.org/AUTHORED> "P05" .
+<http://example.org/Manali_Udaykumar_Sawant_AUTHORED_P05> <http://example.org/has_year> "2024" .
+<http://example.org/Manali_Udaykumar_Sawant_AUTHORED_P05> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Manasi_Suresh_Yadav> <http://example.org/AUTHORED> "P05" .
+<http://example.org/Manasi_Suresh_Yadav_AUTHORED_P05> <http://example.org/has_year> "2024" .
+<http://example.org/Manasi_Suresh_Yadav_AUTHORED_P05> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Ms._Priyanka_Rajendra_Jadhav> <http://example.org/AUTHORED> "P05" .
+<http://example.org/Ms._Priyanka_Rajendra_Jadhav_AUTHORED_P05> <http://example.org/has_year> "2024" .
+<http://example.org/Ms._Priyanka_Rajendra_Jadhav_AUTHORED_P05> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/SUBASH_VOLETI> <http://example.org/AUTHORED> "P06" .
+<http://example.org/SUBASH_VOLETI_AUTHORED_P06> <http://example.org/has_year> "2020" .
+<http://example.org/SUBASH_VOLETI_AUTHORED_P06> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/CHAITAN_RAJU> <http://example.org/AUTHORED> "P06" .
+<http://example.org/CHAITAN_RAJU_AUTHORED_P06> <http://example.org/has_year> "2020" .
+<http://example.org/CHAITAN_RAJU_AUTHORED_P06> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/TEJA_RANI> <http://example.org/AUTHORED> "P06" .
+<http://example.org/TEJA_RANI_AUTHORED_P06> <http://example.org/has_year> "2020" .
+<http://example.org/TEJA_RANI_AUTHORED_P06> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/MUGADA_SWETHA> <http://example.org/AUTHORED> "P06" .
+<http://example.org/MUGADA_SWETHA_AUTHORED_P06> <http://example.org/has_year> "2020" .
+<http://example.org/MUGADA_SWETHA_AUTHORED_P06> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/AUTHORED> "P07" .
+<http://example.org/Bhuvan_Shingade_AUTHORED_P07> <http://example.org/has_year> "2025" .
+<http://example.org/Bhuvan_Shingade_AUTHORED_P07> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Yash_Matha> <http://example.org/AUTHORED> "P07" .
+<http://example.org/Yash_Matha_AUTHORED_P07> <http://example.org/has_year> "2025" .
+<http://example.org/Yash_Matha_AUTHORED_P07> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Ved_Kolambkar> <http://example.org/AUTHORED> "P07" .
+<http://example.org/Ved_Kolambkar_AUTHORED_P07> <http://example.org/has_year> "2025" .
+<http://example.org/Ved_Kolambkar_AUTHORED_P07> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Suyash_Kasar> <http://example.org/AUTHORED> "P07" .
+<http://example.org/Suyash_Kasar_AUTHORED_P07> <http://example.org/has_year> "2025" .
+<http://example.org/Suyash_Kasar_AUTHORED_P07> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Prof._Rohini_Palve> <http://example.org/AUTHORED> "P07" .
+<http://example.org/Prof._Rohini_Palve_AUTHORED_P07> <http://example.org/has_year> "2025" .
+<http://example.org/Prof._Rohini_Palve_AUTHORED_P07> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Niharika_Verma> <http://example.org/AUTHORED> "P08" .
+<http://example.org/Niharika_Verma_AUTHORED_P08> <http://example.org/has_year> "2014" .
+<http://example.org/Niharika_Verma_AUTHORED_P08> <http://example.org/has_paper_title> "A Survey of Automatic Text Summarization" .
+<http://example.org/Prof._Ashish_Tiwari> <http://example.org/AUTHORED> "P08" .
+<http://example.org/Prof._Ashish_Tiwari_AUTHORED_P08> <http://example.org/has_year> "2014" .
+<http://example.org/Prof._Ashish_Tiwari_AUTHORED_P08> <http://example.org/has_paper_title> "A Survey of Automatic Text Summarization" .
+<http://example.org/G._Santhoshi> <http://example.org/AUTHORED> "P09" .
+<http://example.org/G._Santhoshi_AUTHORED_P09> <http://example.org/has_year> "2024" .
+<http://example.org/G._Santhoshi_AUTHORED_P09> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/M_Jyothi> <http://example.org/AUTHORED> "P09" .
+<http://example.org/M_Jyothi_AUTHORED_P09> <http://example.org/has_year> "2024" .
+<http://example.org/M_Jyothi_AUTHORED_P09> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/AUTHORED> "P09" .
+<http://example.org/Kovvuri_Ramya_Sri_AUTHORED_P09> <http://example.org/has_year> "2024" .
+<http://example.org/Kovvuri_Ramya_Sri_AUTHORED_P09> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Hasika> <http://example.org/AUTHORED> "P09" .
+<http://example.org/G._Hasika_AUTHORED_P09> <http://example.org/has_year> "2024" .
+<http://example.org/G._Hasika_AUTHORED_P09> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Varsha> <http://example.org/AUTHORED> "P09" .
+<http://example.org/G._Varsha_AUTHORED_P09> <http://example.org/has_year> "2024" .
+<http://example.org/G._Varsha_AUTHORED_P09> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/R._Snigdha> <http://example.org/AUTHORED> "P09" .
+<http://example.org/R._Snigdha_AUTHORED_P09> <http://example.org/has_year> "2024" .
+<http://example.org/R._Snigdha_AUTHORED_P09> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/P01> <http://example.org/PUBLISHED_IN> "IEEE Access" .
+<http://example.org/P01_PUBLISHED_IN_IEEE_Access> <http://example.org/has_year> "2024" .
+<http://example.org/P01_PUBLISHED_IN_IEEE_Access> <http://example.org/has_doi> " 10.1109/ACCESS.2025.3536205" .
+<http://example.org/P02> <http://example.org/PUBLISHED_IN> "International Journal on Advanced Computer Theory and Engineering" .
+<http://example.org/P02_PUBLISHED_IN_International_Journal_on_Advanced_Computer_Theory_and_Engineering> <http://example.org/has_year> "2025" .
+<http://example.org/P02_PUBLISHED_IN_International_Journal_on_Advanced_Computer_Theory_and_Engineering> <http://example.org/has_doi> "ISSN: 2319-2526" .
+<http://example.org/P03> <http://example.org/PUBLISHED_IN> "IEEE Access" .
+<http://example.org/P03_PUBLISHED_IN_IEEE_Access> <http://example.org/has_year> "2024" .
+<http://example.org/P03_PUBLISHED_IN_IEEE_Access> <http://example.org/has_doi> "10.1109/TCC.2025.3612322" .
+<http://example.org/P04> <http://example.org/PUBLISHED_IN> "Journal of Autonomous Intelligence" .
+<http://example.org/P04_PUBLISHED_IN_Journal_of_Autonomous_Intelligence> <http://example.org/has_year> "2024" .
+<http://example.org/P04_PUBLISHED_IN_Journal_of_Autonomous_Intelligence> <http://example.org/has_doi> " 10.32629/jai.v7i5.1331" .
+<http://example.org/P05> <http://example.org/PUBLISHED_IN> "IJCRT" .
+<http://example.org/P05_PUBLISHED_IN_IJCRT> <http://example.org/has_year> "2024" .
+<http://example.org/P05_PUBLISHED_IN_IJCRT> <http://example.org/has_doi> "ISSN: 2320-2882" .
+<http://example.org/P06> <http://example.org/PUBLISHED_IN> "International Research Journal of Engineering and Technology (IRJET)" .
+<http://example.org/P06_PUBLISHED_IN_International_Research_Journal_of_Engineering_and_Technology_(IRJET)> <http://example.org/has_year> "2020" .
+<http://example.org/P06_PUBLISHED_IN_International_Research_Journal_of_Engineering_and_Technology_(IRJET)> <http://example.org/has_doi> "e-ISSN: 2395-0056" .
+<http://example.org/P07> <http://example.org/PUBLISHED_IN> "SIRJANA JOURNAL" .
+<http://example.org/P07_PUBLISHED_IN_SIRJANA_JOURNAL> <http://example.org/has_year> "2025" .
+<http://example.org/P07_PUBLISHED_IN_SIRJANA_JOURNAL> <http://example.org/has_doi> "ISSN:2455-1058" .
+<http://example.org/P08> <http://example.org/PUBLISHED_IN> "International Journal of Engineering Research & Technology (IJERT)" .
+<http://example.org/P08_PUBLISHED_IN_International_Journal_of_Engineering_Research_&_Technology_(IJERT)> <http://example.org/has_year> "2014" .
+<http://example.org/P08_PUBLISHED_IN_International_Journal_of_Engineering_Research_&_Technology_(IJERT)> <http://example.org/has_doi> "ISSN: 2278-0181" .
+<http://example.org/P09> <http://example.org/PUBLISHED_IN> "International Research Journal on Advanced Engineering and Management" .
+<http://example.org/P09_PUBLISHED_IN_International_Research_Journal_on_Advanced_Engineering_and_Management> <http://example.org/has_year> "2024" .
+<http://example.org/P09_PUBLISHED_IN_International_Research_Journal_on_Advanced_Engineering_and_Management> <http://example.org/has_doi> "e ISSN: 2584-2854 " .
+<http://example.org/P01> <http://example.org/HAS_KEYWORD> "Artificial intelligence" .
+<http://example.org/P01> <http://example.org/HAS_KEYWORD> "Artificial Intelligence Tools" .
+<http://example.org/P01> <http://example.org/HAS_KEYWORD> "Research communication" .
+<http://example.org/P01> <http://example.org/HAS_KEYWORD> "Scholarly publication" .
+<http://example.org/P02> <http://example.org/HAS_KEYWORD> "NLP" .
+<http://example.org/P02> <http://example.org/HAS_KEYWORD> "evaluate summarization models using Python" .
+<http://example.org/P03> <http://example.org/HAS_KEYWORD> "Automatic text summarization" .
+<http://example.org/P03> <http://example.org/HAS_KEYWORD> "Natural Language Processing" .
+<http://example.org/P03> <http://example.org/HAS_KEYWORD> "Categorization of text summarization  system" .
+<http://example.org/P04> <http://example.org/HAS_KEYWORD> "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization" .
+<http://example.org/P05> <http://example.org/HAS_KEYWORD> "NLP" .
+<http://example.org/P05> <http://example.org/HAS_KEYWORD> "Text Summarization" .
+<http://example.org/P05> <http://example.org/HAS_KEYWORD> "Text Rank" .
+<http://example.org/P05> <http://example.org/HAS_KEYWORD> "OCR" .
+<http://example.org/P05> <http://example.org/HAS_KEYWORD> "Open AI" .
+<http://example.org/P06> <http://example.org/HAS_KEYWORD> "Text Summarization" .
+<http://example.org/P06> <http://example.org/HAS_KEYWORD> "Text Rank Algorithm" .
+<http://example.org/P06> <http://example.org/HAS_KEYWORD> "NLTK" .
+<http://example.org/P06> <http://example.org/HAS_KEYWORD> "GTTS(Google Text To Speech) API" .
+<http://example.org/P06> <http://example.org/HAS_KEYWORD> "Extractive Text Summarization" .
+<http://example.org/P07> <http://example.org/HAS_KEYWORD> "Machine Learning" .
+<http://example.org/P07> <http://example.org/HAS_KEYWORD> "Natural Language Processing(NLP)" .
+<http://example.org/P07> <http://example.org/HAS_KEYWORD> "Long term short memory(LSTM)" .
+<http://example.org/P07> <http://example.org/HAS_KEYWORD> "Abstractive Summarization" .
+<http://example.org/P07> <http://example.org/HAS_KEYWORD> "Extractive Summarization." .
+<http://example.org/P08> <http://example.org/HAS_KEYWORD> "abstraction-predicated summary" .
+<http://example.org/P08> <http://example.org/HAS_KEYWORD> "automatic text summarization" .
+<http://example.org/P08> <http://example.org/HAS_KEYWORD> "extraction summary" .
+<http://example.org/P08> <http://example.org/HAS_KEYWORD> "feature extraction" .
+<http://example.org/P08> <http://example.org/HAS_KEYWORD> "text reduction." .
+<http://example.org/P09> <http://example.org/HAS_KEYWORD> "Natural Language Processing (NLP)" .
+<http://example.org/P09> <http://example.org/HAS_KEYWORD> "Highlighting Keywords" .
+<http://example.org/P09> <http://example.org/HAS_KEYWORD> "Read Aloud" .
+<http://example.org/P09> <http://example.org/HAS_KEYWORD> "Plagiarism" .
+<http://example.org/P09> <http://example.org/HAS_KEYWORD> "Images" .
+<http://example.org/P09> <http://example.org/HAS_KEYWORD> "Research." .
+<http://example.org/P01> <http://example.org/BELONGS_TO_DOMAIN> "Artificial Intelligence Tools" .
+<http://example.org/P02> <http://example.org/BELONGS_TO_DOMAIN> "Natural Language Processing (NLP)" .
+<http://example.org/P03> <http://example.org/BELONGS_TO_DOMAIN> "NLP" .
+<http://example.org/P04> <http://example.org/BELONGS_TO_DOMAIN> "Natural Language Processing" .
+<http://example.org/P04> <http://example.org/BELONGS_TO_DOMAIN> "CNN" .
+<http://example.org/P05> <http://example.org/BELONGS_TO_DOMAIN> "NLP" .
+<http://example.org/P05> <http://example.org/BELONGS_TO_DOMAIN> "Open AI" .
+<http://example.org/P06> <http://example.org/BELONGS_TO_DOMAIN> "GTTS(Google Text To Speech) API" .
+<http://example.org/P07> <http://example.org/BELONGS_TO_DOMAIN> "Machine Learning" .
+<http://example.org/P07> <http://example.org/BELONGS_TO_DOMAIN> "Long term short memory(LSTM)" .
+<http://example.org/P07> <http://example.org/BELONGS_TO_DOMAIN> "Natural Language Processing(NLP)" .
+<http://example.org/P08> <http://example.org/BELONGS_TO_DOMAIN> "Automatic Text Summarization" .
+<http://example.org/P09> <http://example.org/BELONGS_TO_DOMAIN> "Natural Language Toolkit (NLTK)" .
+<http://example.org/Mandira_Bairagi> <http://example.org/AFFILIATED_WITH> "Rashtrasant Tukadoji Maharaj Nagpur University" .
+<http://example.org/Mandira_Bairagi_AFFILIATED_WITH_Rashtrasant_Tukadoji_Maharaj_Nagpur_University> <http://example.org/has_paper_id> "P01" .
+<http://example.org/Dr._Shalini_R._Lihitkar> <http://example.org/AFFILIATED_WITH> "Rashtrasant Tukadoji Maharaj Nagpur University" .
+<http://example.org/Dr._Shalini_R._Lihitkar_AFFILIATED_WITH_Rashtrasant_Tukadoji_Maharaj_Nagpur_University> <http://example.org/has_paper_id> "P01" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Mrs._Abha_Pathak_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Mrs._Abha_Pathak_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Trupti_Pawar> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Trupti_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Trupti_Pawar> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Trupti_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Yogeshwari_Pawar> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Yogeshwari_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Yogeshwari_Pawar> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Yogeshwari_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Shreya_pawar> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Shreya_pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Shreya_pawar> <http://example.org/AFFILIATED_WITH> "Patil College of Engineering and Innovation" .
+<http://example.org/Shreya_pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Seema_Aswani> <http://example.org/AFFILIATED_WITH> "Birla Institute of Technology and Science" .
+<http://example.org/Seema_Aswani_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Seema_Aswani> <http://example.org/AFFILIATED_WITH> "Florida Institute of Technology" .
+<http://example.org/Seema_Aswani_AFFILIATED_WITH_Florida_Institute_of_Technology> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Kabita_Choudhary> <http://example.org/AFFILIATED_WITH> "Birla Institute of Technology and Science" .
+<http://example.org/Kabita_Choudhary_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Kabita_Choudhary> <http://example.org/AFFILIATED_WITH> "Florida Institute of Technology" .
+<http://example.org/Kabita_Choudhary_AFFILIATED_WITH_Florida_Institute_of_Technology> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Sujala_Shetty> <http://example.org/AFFILIATED_WITH> "Birla Institute of Technology and Science" .
+<http://example.org/Sujala_Shetty_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Sujala_Shetty> <http://example.org/AFFILIATED_WITH> "Florida Institute of Technology" .
+<http://example.org/Sujala_Shetty_AFFILIATED_WITH_Florida_Institute_of_Technology> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Nasheen_Nur> <http://example.org/AFFILIATED_WITH> "Birla Institute of Technology and Science" .
+<http://example.org/Nasheen_Nur_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Nasheen_Nur> <http://example.org/AFFILIATED_WITH> "Florida Institute of Technology" .
+<http://example.org/Nasheen_Nur_AFFILIATED_WITH_Florida_Institute_of_Technology> <http://example.org/has_paper_id> "P04" .
+<http://example.org/SUBASH_VOLETI> <http://example.org/AFFILIATED_WITH> "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+<http://example.org/SUBASH_VOLETI_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY> <http://example.org/has_paper_id> "P06" .
+<http://example.org/CHAITAN_RAJU> <http://example.org/AFFILIATED_WITH> "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+<http://example.org/CHAITAN_RAJU_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY> <http://example.org/has_paper_id> "P06" .
+<http://example.org/TEJA_RANI> <http://example.org/AFFILIATED_WITH> "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+<http://example.org/TEJA_RANI_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY> <http://example.org/has_paper_id> "P06" .
+<http://example.org/MUGADA_SWETHA> <http://example.org/AFFILIATED_WITH> "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+<http://example.org/MUGADA_SWETHA_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY> <http://example.org/has_paper_id> "P06" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/AFFILIATED_WITH> "Terna Engineering College" .
+<http://example.org/Bhuvan_Shingade_AFFILIATED_WITH_Terna_Engineering_College> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Yash_Matha> <http://example.org/AFFILIATED_WITH> "Terna Engineering College" .
+<http://example.org/Yash_Matha_AFFILIATED_WITH_Terna_Engineering_College> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Ved_Kolambkar> <http://example.org/AFFILIATED_WITH> "Terna Engineering College" .
+<http://example.org/Ved_Kolambkar_AFFILIATED_WITH_Terna_Engineering_College> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Suyash_Kasar> <http://example.org/AFFILIATED_WITH> "Terna Engineering College" .
+<http://example.org/Suyash_Kasar_AFFILIATED_WITH_Terna_Engineering_College> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Prof._Rohini_Palve> <http://example.org/AFFILIATED_WITH> "Terna Engineering College" .
+<http://example.org/Prof._Rohini_Palve_AFFILIATED_WITH_Terna_Engineering_College> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Niharika_Verma> <http://example.org/AFFILIATED_WITH> "Rajiv Gandhi Technical University Airport Road" .
+<http://example.org/Niharika_Verma_AFFILIATED_WITH_Rajiv_Gandhi_Technical_University_Airport_Road> <http://example.org/has_paper_id> "P08" .
+<http://example.org/Niharika_Verma> <http://example.org/AFFILIATED_WITH> "2 Vindhya Institute of Technology and Science Umrikheda" .
+<http://example.org/Niharika_Verma_AFFILIATED_WITH_2_Vindhya_Institute_of_Technology_and_Science_Umrikheda> <http://example.org/has_paper_id> "P08" .
+<http://example.org/Prof._Ashish_Tiwari> <http://example.org/AFFILIATED_WITH> "Rajiv Gandhi Technical University Airport Road" .
+<http://example.org/Prof._Ashish_Tiwari_AFFILIATED_WITH_Rajiv_Gandhi_Technical_University_Airport_Road> <http://example.org/has_paper_id> "P08" .
+<http://example.org/Prof._Ashish_Tiwari> <http://example.org/AFFILIATED_WITH> "2 Vindhya Institute of Technology and Science Umrikheda" .
+<http://example.org/Prof._Ashish_Tiwari_AFFILIATED_WITH_2_Vindhya_Institute_of_Technology_and_Science_Umrikheda> <http://example.org/has_paper_id> "P08" .
+<http://example.org/G._Santhoshi> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and  Science for Women" .
+<http://example.org/G._Santhoshi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Santhoshi> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/G._Santhoshi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Santhoshi> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/G._Santhoshi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/M_Jyothi> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and  Science for Women" .
+<http://example.org/M_Jyothi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/M_Jyothi> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/M_Jyothi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/M_Jyothi> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/M_Jyothi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and  Science for Women" .
+<http://example.org/Kovvuri_Ramya_Sri_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/Kovvuri_Ramya_Sri_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/Kovvuri_Ramya_Sri_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Hasika> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and  Science for Women" .
+<http://example.org/G._Hasika_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Hasika> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/G._Hasika_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Hasika> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/G._Hasika_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Varsha> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and  Science for Women" .
+<http://example.org/G._Varsha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Varsha> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/G._Varsha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Varsha> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/G._Varsha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/R._Snigdha> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and  Science for Women" .
+<http://example.org/R._Snigdha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/R._Snigdha> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/R._Snigdha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/R._Snigdha> <http://example.org/AFFILIATED_WITH> "Narayanamma Institute of Technology and Science for Women" .
+<http://example.org/R._Snigdha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women> <http://example.org/has_paper_id> "P09" .
+<http://example.org/P01> <http://example.org/CITES> "R001" .
+<http://example.org/P01_CITES_R001> <http://example.org/has_citation_count> "8" .
+<http://example.org/P01_CITES_R001> <http://example.org/has_cited_year> "2023" .
+<http://example.org/P02> <http://example.org/CITES> "R002" .
+<http://example.org/P02_CITES_R002> <http://example.org/has_citation_count> "0" .
+<http://example.org/P02_CITES_R002> <http://example.org/has_cited_year> "2025" .
+<http://example.org/P03> <http://example.org/CITES> "R003" .
+<http://example.org/P03_CITES_R003> <http://example.org/has_citation_count> "25" .
+<http://example.org/P03_CITES_R003> <http://example.org/has_cited_year> "2023" .
+<http://example.org/P04> <http://example.org/CITES> "R004" .
+<http://example.org/P04_CITES_R004> <http://example.org/has_citation_count> "2" .
+<http://example.org/P04_CITES_R004> <http://example.org/has_cited_year> "2024" .
+<http://example.org/P05> <http://example.org/CITES> "R005" .
+<http://example.org/P05_CITES_R005> <http://example.org/has_citation_count> "3" .
+<http://example.org/P05_CITES_R005> <http://example.org/has_cited_year> "2024" .
+<http://example.org/P06> <http://example.org/CITES> "R006" .
+<http://example.org/P06_CITES_R006> <http://example.org/has_citation_count> "10" .
+<http://example.org/P06_CITES_R006> <http://example.org/has_cited_year> "2020" .
+<http://example.org/P07> <http://example.org/CITES> "R007" .
+<http://example.org/P07_CITES_R007> <http://example.org/has_citation_count> "2" .
+<http://example.org/P07_CITES_R007> <http://example.org/has_cited_year> "2023" .
+<http://example.org/P08> <http://example.org/CITES> "R008" .
+<http://example.org/P08_CITES_R008> <http://example.org/has_citation_count> "15" .
+<http://example.org/P08_CITES_R008> <http://example.org/has_cited_year> "2014" .
+<http://example.org/P9> <http://example.org/CITES> "R009" .
+<http://example.org/P9_CITES_R009> <http://example.org/has_citation_count> "1" .
+<http://example.org/P9_CITES_R009> <http://example.org/has_cited_year> "2024" .
+<http://example.org/P02> <http://example.org/SHARES_TOPIC> "P05" .
+<http://example.org/P02_SHARES_TOPIC_P05> <http://example.org/has_shared_keyword> "NLP" .
+<http://example.org/P05> <http://example.org/SHARES_TOPIC> "P06" .
+<http://example.org/P05_SHARES_TOPIC_P06> <http://example.org/has_shared_keyword> "Text Summarization" .
+<http://example.org/P03> <http://example.org/SHARES_DOMAIN> "P05" .
+<http://example.org/P03_SHARES_DOMAIN_P05> <http://example.org/has_shared_domain> "NLP" .
+<http://example.org/Mandira_Bairagi> <http://example.org/COLLABORATED_WITH> "Dr. Shalini R. Lihitkar" .
+<http://example.org/Mandira_Bairagi_COLLABORATED_WITH_Dr._Shalini_R._Lihitkar> <http://example.org/has_paper_id> "P01" .
+<http://example.org/Mandira_Bairagi_COLLABORATED_WITH_Dr._Shalini_R._Lihitkar> <http://example.org/has_paper_title> "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+<http://example.org/Mandira_Bairagi_COLLABORATED_WITH_Dr._Shalini_R._Lihitkar> <http://example.org/has_year> "2024" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/COLLABORATED_WITH> "Trupti Pawar" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Trupti_Pawar> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Trupti_Pawar> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Trupti_Pawar> <http://example.org/has_year> "2025" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/COLLABORATED_WITH> "Yogeshwari Pawar" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Yogeshwari_Pawar> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Yogeshwari_Pawar> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Yogeshwari_Pawar> <http://example.org/has_year> "2025" .
+<http://example.org/Mrs._Abha_Pathak> <http://example.org/COLLABORATED_WITH> "Shreya pawar" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Mrs._Abha_Pathak_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_year> "2025" .
+<http://example.org/Trupti_Pawar> <http://example.org/COLLABORATED_WITH> "Yogeshwari Pawar" .
+<http://example.org/Trupti_Pawar_COLLABORATED_WITH_Yogeshwari_Pawar> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Trupti_Pawar_COLLABORATED_WITH_Yogeshwari_Pawar> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Trupti_Pawar_COLLABORATED_WITH_Yogeshwari_Pawar> <http://example.org/has_year> "2025" .
+<http://example.org/Trupti_Pawar> <http://example.org/COLLABORATED_WITH> "Shreya pawar" .
+<http://example.org/Trupti_Pawar_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Trupti_Pawar_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Trupti_Pawar_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_year> "2025" .
+<http://example.org/Yogeshwari_Pawar> <http://example.org/COLLABORATED_WITH> "Shreya pawar" .
+<http://example.org/Yogeshwari_Pawar_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_paper_id> "P02" .
+<http://example.org/Yogeshwari_Pawar_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_paper_title> "SmartNews: AI-Powered News Summarize" .
+<http://example.org/Yogeshwari_Pawar_COLLABORATED_WITH_Shreya_pawar> <http://example.org/has_year> "2025" .
+<http://example.org/Divakar_Yadav> <http://example.org/COLLABORATED_WITH> "Jalpa Desai" .
+<http://example.org/Divakar_Yadav_COLLABORATED_WITH_Jalpa_Desai> <http://example.org/has_paper_id> "P03" .
+<http://example.org/Divakar_Yadav_COLLABORATED_WITH_Jalpa_Desai> <http://example.org/has_paper_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/Divakar_Yadav_COLLABORATED_WITH_Jalpa_Desai> <http://example.org/has_year> "2024" .
+<http://example.org/Divakar_Yadav> <http://example.org/COLLABORATED_WITH> "Arun Kumar Yadav" .
+<http://example.org/Divakar_Yadav_COLLABORATED_WITH_Arun_Kumar_Yadav> <http://example.org/has_paper_id> "P03" .
+<http://example.org/Divakar_Yadav_COLLABORATED_WITH_Arun_Kumar_Yadav> <http://example.org/has_paper_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/Divakar_Yadav_COLLABORATED_WITH_Arun_Kumar_Yadav> <http://example.org/has_year> "2024" .
+<http://example.org/Jalpa_Desai> <http://example.org/COLLABORATED_WITH> "Arun Kumar Yadav" .
+<http://example.org/Jalpa_Desai_COLLABORATED_WITH_Arun_Kumar_Yadav> <http://example.org/has_paper_id> "P03" .
+<http://example.org/Jalpa_Desai_COLLABORATED_WITH_Arun_Kumar_Yadav> <http://example.org/has_paper_title> "Automatic Text Summarization Methods: A Comprehensive Review" .
+<http://example.org/Jalpa_Desai_COLLABORATED_WITH_Arun_Kumar_Yadav> <http://example.org/has_year> "2024" .
+<http://example.org/Seema_Aswani> <http://example.org/COLLABORATED_WITH> "Kabita Choudhary" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Kabita_Choudhary> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Kabita_Choudhary> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Kabita_Choudhary> <http://example.org/has_year> "2024" .
+<http://example.org/Seema_Aswani> <http://example.org/COLLABORATED_WITH> "Sujala Shetty" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Sujala_Shetty> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Sujala_Shetty> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Sujala_Shetty> <http://example.org/has_year> "2024" .
+<http://example.org/Seema_Aswani> <http://example.org/COLLABORATED_WITH> "Nasheen Nur" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Seema_Aswani_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_year> "2024" .
+<http://example.org/Kabita_Choudhary> <http://example.org/COLLABORATED_WITH> "Sujala Shetty" .
+<http://example.org/Kabita_Choudhary_COLLABORATED_WITH_Sujala_Shetty> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Kabita_Choudhary_COLLABORATED_WITH_Sujala_Shetty> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Kabita_Choudhary_COLLABORATED_WITH_Sujala_Shetty> <http://example.org/has_year> "2024" .
+<http://example.org/Kabita_Choudhary> <http://example.org/COLLABORATED_WITH> "Nasheen Nur" .
+<http://example.org/Kabita_Choudhary_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Kabita_Choudhary_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Kabita_Choudhary_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_year> "2024" .
+<http://example.org/Sujala_Shetty> <http://example.org/COLLABORATED_WITH> "Nasheen Nur" .
+<http://example.org/Sujala_Shetty_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_paper_id> "P04" .
+<http://example.org/Sujala_Shetty_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_paper_title> "Automatic text summarization of scientific articles using transformers" .
+<http://example.org/Sujala_Shetty_COLLABORATED_WITH_Nasheen_Nur> <http://example.org/has_year> "2024" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare> <http://example.org/COLLABORATED_WITH> "Manali Udaykumar Sawant" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manali_Udaykumar_Sawant> <http://example.org/has_paper_id> "P05" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manali_Udaykumar_Sawant> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manali_Udaykumar_Sawant> <http://example.org/has_year> "2024" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare> <http://example.org/COLLABORATED_WITH> "Manasi Suresh Yadav" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manasi_Suresh_Yadav> <http://example.org/has_paper_id> "P05" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manasi_Suresh_Yadav> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manasi_Suresh_Yadav> <http://example.org/has_year> "2024" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare> <http://example.org/COLLABORATED_WITH> "Ms. Priyanka Rajendra Jadhav" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_paper_id> "P05" .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_year> "2024" .
+<http://example.org/Manali_Udaykumar_Sawant> <http://example.org/COLLABORATED_WITH> "Manasi Suresh Yadav" .
+<http://example.org/Manali_Udaykumar_Sawant_COLLABORATED_WITH_Manasi_Suresh_Yadav> <http://example.org/has_paper_id> "P05" .
+<http://example.org/Manali_Udaykumar_Sawant_COLLABORATED_WITH_Manasi_Suresh_Yadav> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Manali_Udaykumar_Sawant_COLLABORATED_WITH_Manasi_Suresh_Yadav> <http://example.org/has_year> "2024" .
+<http://example.org/Manali_Udaykumar_Sawant> <http://example.org/COLLABORATED_WITH> "Ms. Priyanka Rajendra Jadhav" .
+<http://example.org/Manali_Udaykumar_Sawant_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_paper_id> "P05" .
+<http://example.org/Manali_Udaykumar_Sawant_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Manali_Udaykumar_Sawant_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_year> "2024" .
+<http://example.org/Manasi_Suresh_Yadav> <http://example.org/COLLABORATED_WITH> "Ms. Priyanka Rajendra Jadhav" .
+<http://example.org/Manasi_Suresh_Yadav_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_paper_id> "P05" .
+<http://example.org/Manasi_Suresh_Yadav_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_paper_title> "Text Summarization Using Natural Language Processing " .
+<http://example.org/Manasi_Suresh_Yadav_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav> <http://example.org/has_year> "2024" .
+<http://example.org/SUBASH_VOLETI> <http://example.org/COLLABORATED_WITH> "CHAITAN RAJU" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_CHAITAN_RAJU> <http://example.org/has_paper_id> "P06" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_CHAITAN_RAJU> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_CHAITAN_RAJU> <http://example.org/has_year> "2020" .
+<http://example.org/SUBASH_VOLETI> <http://example.org/COLLABORATED_WITH> "TEJA RANI" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_TEJA_RANI> <http://example.org/has_paper_id> "P06" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_TEJA_RANI> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_TEJA_RANI> <http://example.org/has_year> "2020" .
+<http://example.org/SUBASH_VOLETI> <http://example.org/COLLABORATED_WITH> "MUGADA SWETHA" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_paper_id> "P06" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/SUBASH_VOLETI_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_year> "2020" .
+<http://example.org/CHAITAN_RAJU> <http://example.org/COLLABORATED_WITH> "TEJA RANI" .
+<http://example.org/CHAITAN_RAJU_COLLABORATED_WITH_TEJA_RANI> <http://example.org/has_paper_id> "P06" .
+<http://example.org/CHAITAN_RAJU_COLLABORATED_WITH_TEJA_RANI> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/CHAITAN_RAJU_COLLABORATED_WITH_TEJA_RANI> <http://example.org/has_year> "2020" .
+<http://example.org/CHAITAN_RAJU> <http://example.org/COLLABORATED_WITH> "MUGADA SWETHA" .
+<http://example.org/CHAITAN_RAJU_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_paper_id> "P06" .
+<http://example.org/CHAITAN_RAJU_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/CHAITAN_RAJU_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_year> "2020" .
+<http://example.org/TEJA_RANI> <http://example.org/COLLABORATED_WITH> "MUGADA SWETHA" .
+<http://example.org/TEJA_RANI_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_paper_id> "P06" .
+<http://example.org/TEJA_RANI_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_paper_title> "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+<http://example.org/TEJA_RANI_COLLABORATED_WITH_MUGADA_SWETHA> <http://example.org/has_year> "2020" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/COLLABORATED_WITH> "Yash Matha" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Yash_Matha> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Yash_Matha> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Yash_Matha> <http://example.org/has_year> "2025" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/COLLABORATED_WITH> "Ved Kolambkar" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Ved_Kolambkar> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Ved_Kolambkar> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Ved_Kolambkar> <http://example.org/has_year> "2025" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/COLLABORATED_WITH> "Suyash Kasar" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_year> "2025" .
+<http://example.org/Bhuvan_Shingade> <http://example.org/COLLABORATED_WITH> "Prof. Rohini Palve" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Bhuvan_Shingade_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_year> "2025" .
+<http://example.org/Yash_Matha> <http://example.org/COLLABORATED_WITH> "Ved Kolambkar" .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Ved_Kolambkar> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Ved_Kolambkar> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Ved_Kolambkar> <http://example.org/has_year> "2025" .
+<http://example.org/Yash_Matha> <http://example.org/COLLABORATED_WITH> "Suyash Kasar" .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_year> "2025" .
+<http://example.org/Yash_Matha> <http://example.org/COLLABORATED_WITH> "Prof. Rohini Palve" .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Yash_Matha_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_year> "2025" .
+<http://example.org/Ved_Kolambkar> <http://example.org/COLLABORATED_WITH> "Suyash Kasar" .
+<http://example.org/Ved_Kolambkar_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Ved_Kolambkar_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Ved_Kolambkar_COLLABORATED_WITH_Suyash_Kasar> <http://example.org/has_year> "2025" .
+<http://example.org/Ved_Kolambkar> <http://example.org/COLLABORATED_WITH> "Prof. Rohini Palve" .
+<http://example.org/Ved_Kolambkar_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Ved_Kolambkar_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Ved_Kolambkar_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_year> "2025" .
+<http://example.org/Suyash_Kasar> <http://example.org/COLLABORATED_WITH> "Prof. Rohini Palve" .
+<http://example.org/Suyash_Kasar_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_id> "P07" .
+<http://example.org/Suyash_Kasar_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_paper_title> "A Survey of Text Summarization Using NLP " .
+<http://example.org/Suyash_Kasar_COLLABORATED_WITH_Prof._Rohini_Palve> <http://example.org/has_year> "2025" .
+<http://example.org/Niharika_Verma> <http://example.org/COLLABORATED_WITH> "Prof. Ashish Tiwari" .
+<http://example.org/Niharika_Verma_COLLABORATED_WITH_Prof._Ashish_Tiwari> <http://example.org/has_paper_id> "P08" .
+<http://example.org/Niharika_Verma_COLLABORATED_WITH_Prof._Ashish_Tiwari> <http://example.org/has_paper_title> "A Survey of Automatic Text Summarization" .
+<http://example.org/Niharika_Verma_COLLABORATED_WITH_Prof._Ashish_Tiwari> <http://example.org/has_year> "2014" .
+<http://example.org/G._Santhoshi> <http://example.org/COLLABORATED_WITH> "M Jyothi" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_M_Jyothi> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_M_Jyothi> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_M_Jyothi> <http://example.org/has_year> "2024" .
+<http://example.org/G._Santhoshi> <http://example.org/COLLABORATED_WITH> "Kovvuri Ramya Sri" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_Kovvuri_Ramya_Sri> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_Kovvuri_Ramya_Sri> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_Kovvuri_Ramya_Sri> <http://example.org/has_year> "2024" .
+<http://example.org/G._Santhoshi> <http://example.org/COLLABORATED_WITH> "G. Hasika" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_G._Hasika> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_G._Hasika> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_G._Hasika> <http://example.org/has_year> "2024" .
+<http://example.org/G._Santhoshi> <http://example.org/COLLABORATED_WITH> "G. Varsha" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_G._Varsha> <http://example.org/has_year> "2024" .
+<http://example.org/G._Santhoshi> <http://example.org/COLLABORATED_WITH> "R. Snigdha" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Santhoshi_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_year> "2024" .
+<http://example.org/M_Jyothi> <http://example.org/COLLABORATED_WITH> "Kovvuri Ramya Sri" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_Kovvuri_Ramya_Sri> <http://example.org/has_paper_id> "P09" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_Kovvuri_Ramya_Sri> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_Kovvuri_Ramya_Sri> <http://example.org/has_year> "2024" .
+<http://example.org/M_Jyothi> <http://example.org/COLLABORATED_WITH> "G. Hasika" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_G._Hasika> <http://example.org/has_paper_id> "P09" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_G._Hasika> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_G._Hasika> <http://example.org/has_year> "2024" .
+<http://example.org/M_Jyothi> <http://example.org/COLLABORATED_WITH> "G. Varsha" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_G._Varsha> <http://example.org/has_year> "2024" .
+<http://example.org/M_Jyothi> <http://example.org/COLLABORATED_WITH> "R. Snigdha" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/M_Jyothi_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_year> "2024" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/COLLABORATED_WITH> "G. Hasika" .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Hasika> <http://example.org/has_paper_id> "P09" .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Hasika> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Hasika> <http://example.org/has_year> "2024" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/COLLABORATED_WITH> "G. Varsha" .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Varsha> <http://example.org/has_year> "2024" .
+<http://example.org/Kovvuri_Ramya_Sri> <http://example.org/COLLABORATED_WITH> "R. Snigdha" .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/Kovvuri_Ramya_Sri_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_year> "2024" .
+<http://example.org/G._Hasika> <http://example.org/COLLABORATED_WITH> "G. Varsha" .
+<http://example.org/G._Hasika_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Hasika_COLLABORATED_WITH_G._Varsha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Hasika_COLLABORATED_WITH_G._Varsha> <http://example.org/has_year> "2024" .
+<http://example.org/G._Hasika> <http://example.org/COLLABORATED_WITH> "R. Snigdha" .
+<http://example.org/G._Hasika_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Hasika_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Hasika_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_year> "2024" .
+<http://example.org/G._Varsha> <http://example.org/COLLABORATED_WITH> "R. Snigdha" .
+<http://example.org/G._Varsha_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_id> "P09" .
+<http://example.org/G._Varsha_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_paper_title> "Research Paper Summarizer Using AI  " .
+<http://example.org/G._Varsha_COLLABORATED_WITH_R._Snigdha> <http://example.org/has_year> "2024" .

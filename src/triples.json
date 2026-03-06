@@ -1,0 +1,4014 @@
+{
+  "statistics": {
+    "total_triples": 801,
+    "entity_triples": 276,
+    "relationship_triples": 525
+  },
+  "triples": [
+    {
+      "subject": "P01",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P01",
+      "predicate": "has_title",
+      "object": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique"
+    },
+    {
+      "subject": "P01",
+      "predicate": "published_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P01",
+      "predicate": "has_doi",
+      "object": "10.1109/ACCESS.2025.3536205"
+    },
+    {
+      "subject": "P02",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P02",
+      "predicate": "has_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "P02",
+      "predicate": "published_year",
+      "object": "2025"
+    },
+    {
+      "subject": "P02",
+      "predicate": "has_doi",
+      "object": "ISSN: 2319-2526"
+    },
+    {
+      "subject": "P03",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P03",
+      "predicate": "has_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "P03",
+      "predicate": "published_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P03",
+      "predicate": "has_doi",
+      "object": "10.1109/TCC.2025.3612322"
+    },
+    {
+      "subject": "P04",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P04",
+      "predicate": "has_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "P04",
+      "predicate": "published_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P04",
+      "predicate": "has_doi",
+      "object": "10.32629/jai.v7i5.1331"
+    },
+    {
+      "subject": "P05",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P05",
+      "predicate": "has_title",
+      "object": "Text Summarization Using Natural Language Processing"
+    },
+    {
+      "subject": "P05",
+      "predicate": "published_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P05",
+      "predicate": "has_doi",
+      "object": "ISSN: 2320-2882"
+    },
+    {
+      "subject": "P06",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P06",
+      "predicate": "has_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "P06",
+      "predicate": "published_year",
+      "object": "2020"
+    },
+    {
+      "subject": "P06",
+      "predicate": "has_doi",
+      "object": "e-ISSN: 2395-0056"
+    },
+    {
+      "subject": "P07",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P07",
+      "predicate": "has_title",
+      "object": "A Survey of Text Summarization Using NLP"
+    },
+    {
+      "subject": "P07",
+      "predicate": "published_year",
+      "object": "2025"
+    },
+    {
+      "subject": "P07",
+      "predicate": "has_doi",
+      "object": "ISSN:2455-1058"
+    },
+    {
+      "subject": "P08",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P08",
+      "predicate": "has_title",
+      "object": "A Survey of Automatic Text Summarization"
+    },
+    {
+      "subject": "P08",
+      "predicate": "published_year",
+      "object": "2014"
+    },
+    {
+      "subject": "P08",
+      "predicate": "has_doi",
+      "object": "ISSN: 2278-0181"
+    },
+    {
+      "subject": "P09",
+      "predicate": "rdf:type",
+      "object": "Paper"
+    },
+    {
+      "subject": "P09",
+      "predicate": "has_title",
+      "object": "Research Paper Summarizer Using AI"
+    },
+    {
+      "subject": "P09",
+      "predicate": "published_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P09",
+      "predicate": "has_doi",
+      "object": "e ISSN: 2584-2854"
+    },
+    {
+      "subject": "Mandira Bairagi",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Mandira Bairagi",
+      "predicate": "has_name",
+      "object": "Mandira Bairagi"
+    },
+    {
+      "subject": "Dr. Shalini R. Lihitkar",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Dr. Shalini R. Lihitkar",
+      "predicate": "has_name",
+      "object": "Dr. Shalini R. Lihitkar"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "has_name",
+      "object": "Mrs. Abha Pathak"
+    },
+    {
+      "subject": "Trupti Pawar",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Trupti Pawar",
+      "predicate": "has_name",
+      "object": "Trupti Pawar"
+    },
+    {
+      "subject": "Yogeshwari Pawar",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Yogeshwari Pawar",
+      "predicate": "has_name",
+      "object": "Yogeshwari Pawar"
+    },
+    {
+      "subject": "Shreya pawar",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Shreya pawar",
+      "predicate": "has_name",
+      "object": "Shreya pawar"
+    },
+    {
+      "subject": "Divakar Yadav",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Divakar Yadav",
+      "predicate": "has_name",
+      "object": "Divakar Yadav"
+    },
+    {
+      "subject": "Jalpa Desai",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Jalpa Desai",
+      "predicate": "has_name",
+      "object": "Jalpa Desai"
+    },
+    {
+      "subject": "Arun Kumar Yadav",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Arun Kumar Yadav",
+      "predicate": "has_name",
+      "object": "Arun Kumar Yadav"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "has_name",
+      "object": "Seema Aswani"
+    },
+    {
+      "subject": "Kabita Choudhary",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Kabita Choudhary",
+      "predicate": "has_name",
+      "object": "Kabita Choudhary"
+    },
+    {
+      "subject": "Sujala Shetty",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Sujala Shetty",
+      "predicate": "has_name",
+      "object": "Sujala Shetty"
+    },
+    {
+      "subject": "Nasheen Nur",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Nasheen Nur",
+      "predicate": "has_name",
+      "object": "Nasheen Nur"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare",
+      "predicate": "has_name",
+      "object": "Sanjivani Chandrashekhar Kachare"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant",
+      "predicate": "has_name",
+      "object": "Manali Udaykumar Sawant"
+    },
+    {
+      "subject": "Manasi Suresh Yadav",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Manasi Suresh Yadav",
+      "predicate": "has_name",
+      "object": "Manasi Suresh Yadav"
+    },
+    {
+      "subject": "Ms. Priyanka Rajendra Jadhav",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_name",
+      "object": "Ms. Priyanka Rajendra Jadhav"
+    },
+    {
+      "subject": "SUBASH VOLETI",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "SUBASH VOLETI",
+      "predicate": "has_name",
+      "object": "SUBASH VOLETI"
+    },
+    {
+      "subject": "CHAITAN RAJU",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "CHAITAN RAJU",
+      "predicate": "has_name",
+      "object": "CHAITAN RAJU"
+    },
+    {
+      "subject": "TEJA RANI",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "TEJA RANI",
+      "predicate": "has_name",
+      "object": "TEJA RANI"
+    },
+    {
+      "subject": "MUGADA SWETHA",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "MUGADA SWETHA",
+      "predicate": "has_name",
+      "object": "MUGADA SWETHA"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "has_name",
+      "object": "Bhuvan Shingade"
+    },
+    {
+      "subject": "Yash Matha",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Yash Matha",
+      "predicate": "has_name",
+      "object": "Yash Matha"
+    },
+    {
+      "subject": "Ved Kolambkar",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Ved Kolambkar",
+      "predicate": "has_name",
+      "object": "Ved Kolambkar"
+    },
+    {
+      "subject": "Suyash Kasar",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Suyash Kasar",
+      "predicate": "has_name",
+      "object": "Suyash Kasar"
+    },
+    {
+      "subject": "Prof. Rohini Palve",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Prof. Rohini Palve",
+      "predicate": "has_name",
+      "object": "Prof. Rohini Palve"
+    },
+    {
+      "subject": "Niharika Verma",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Niharika Verma",
+      "predicate": "has_name",
+      "object": "Niharika Verma"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari",
+      "predicate": "has_name",
+      "object": "Prof. Ashish Tiwari"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "has_name",
+      "object": "G. Santhoshi"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "has_name",
+      "object": "M Jyothi"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "has_name",
+      "object": "Kovvuri Ramya Sri"
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "has_name",
+      "object": "G. Hasika"
+    },
+    {
+      "subject": "G. Varsha",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "G. Varsha",
+      "predicate": "has_name",
+      "object": "G. Varsha"
+    },
+    {
+      "subject": "R. Snigdha",
+      "predicate": "rdf:type",
+      "object": "Author"
+    },
+    {
+      "subject": "R. Snigdha",
+      "predicate": "has_name",
+      "object": "R. Snigdha"
+    },
+    {
+      "subject": "Rashtrasant Tukadoji Maharaj Nagpur University",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Rashtrasant Tukadoji Maharaj Nagpur University",
+      "predicate": "has_name",
+      "object": "Rashtrasant Tukadoji Maharaj Nagpur University"
+    },
+    {
+      "subject": "Patil College of Engineering and Innovation",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Patil College of Engineering and Innovation",
+      "predicate": "has_name",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Birla Institute of Technology and Science",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Birla Institute of Technology and Science",
+      "predicate": "has_name",
+      "object": "Birla Institute of Technology and Science"
+    },
+    {
+      "subject": "Florida Institute of Technology",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Florida Institute of Technology",
+      "predicate": "has_name",
+      "object": "Florida Institute of Technology"
+    },
+    {
+      "subject": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "predicate": "has_name",
+      "object": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+    },
+    {
+      "subject": "Terna Engineering College",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Terna Engineering College",
+      "predicate": "has_name",
+      "object": "Terna Engineering College"
+    },
+    {
+      "subject": "Rajiv Gandhi Technical University Airport Road",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Rajiv Gandhi Technical University Airport Road",
+      "predicate": "has_name",
+      "object": "Rajiv Gandhi Technical University Airport Road"
+    },
+    {
+      "subject": "2 Vindhya Institute of Technology and Science Umrikheda",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "2 Vindhya Institute of Technology and Science Umrikheda",
+      "predicate": "has_name",
+      "object": "2 Vindhya Institute of Technology and Science Umrikheda"
+    },
+    {
+      "subject": "Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "has_name",
+      "object": "Narayanamma Institute of Technology and  Science for Women"
+    },
+    {
+      "subject": "Narayanamma Institute of Technology and Science for Women",
+      "predicate": "rdf:type",
+      "object": "Institution"
+    },
+    {
+      "subject": "Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_name",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "IEEE Access",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "IEEE Access",
+      "predicate": "has_name",
+      "object": "IEEE Access"
+    },
+    {
+      "subject": "International Journal on Advanced Computer Theory and Engineering",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "International Journal on Advanced Computer Theory and Engineering",
+      "predicate": "has_name",
+      "object": "International Journal on Advanced Computer Theory and Engineering"
+    },
+    {
+      "subject": "Journal of Autonomous Intelligence",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "Journal of Autonomous Intelligence",
+      "predicate": "has_name",
+      "object": "Journal of Autonomous Intelligence"
+    },
+    {
+      "subject": "IJCRT",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "IJCRT",
+      "predicate": "has_name",
+      "object": "IJCRT"
+    },
+    {
+      "subject": "International Research Journal of Engineering and Technology (IRJET)",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "International Research Journal of Engineering and Technology (IRJET)",
+      "predicate": "has_name",
+      "object": "International Research Journal of Engineering and Technology (IRJET)"
+    },
+    {
+      "subject": "SIRJANA JOURNAL",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "SIRJANA JOURNAL",
+      "predicate": "has_name",
+      "object": "SIRJANA JOURNAL"
+    },
+    {
+      "subject": "International Journal of Engineering Research & Technology (IJERT)",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "International Journal of Engineering Research & Technology (IJERT)",
+      "predicate": "has_name",
+      "object": "International Journal of Engineering Research & Technology (IJERT)"
+    },
+    {
+      "subject": "International Research Journal on Advanced Engineering and Management",
+      "predicate": "rdf:type",
+      "object": "Journal"
+    },
+    {
+      "subject": "International Research Journal on Advanced Engineering and Management",
+      "predicate": "has_name",
+      "object": "International Research Journal on Advanced Engineering and Management"
+    },
+    {
+      "subject": "Artificial intelligence",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Artificial intelligence",
+      "predicate": "has_name",
+      "object": "Artificial intelligence"
+    },
+    {
+      "subject": "Artificial Intelligence Tools",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Artificial Intelligence Tools",
+      "predicate": "has_name",
+      "object": "Artificial Intelligence Tools"
+    },
+    {
+      "subject": "Research communication",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Research communication",
+      "predicate": "has_name",
+      "object": "Research communication"
+    },
+    {
+      "subject": "Scholarly publication",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Scholarly publication",
+      "predicate": "has_name",
+      "object": "Scholarly publication"
+    },
+    {
+      "subject": "NLP",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "NLP",
+      "predicate": "has_name",
+      "object": "NLP"
+    },
+    {
+      "subject": "evaluate summarization models using Python",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "evaluate summarization models using Python",
+      "predicate": "has_name",
+      "object": "evaluate summarization models using Python"
+    },
+    {
+      "subject": "Automatic text summarization",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Automatic text summarization",
+      "predicate": "has_name",
+      "object": "Automatic text summarization"
+    },
+    {
+      "subject": "Natural Language Processing",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Natural Language Processing",
+      "predicate": "has_name",
+      "object": "Natural Language Processing"
+    },
+    {
+      "subject": "Categorization of text summarization  system",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Categorization of text summarization  system",
+      "predicate": "has_name",
+      "object": "Categorization of text summarization  system"
+    },
+    {
+      "subject": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization",
+      "predicate": "has_name",
+      "object": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization"
+    },
+    {
+      "subject": "Text Summarization",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Text Summarization",
+      "predicate": "has_name",
+      "object": "Text Summarization"
+    },
+    {
+      "subject": "Text Rank",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Text Rank",
+      "predicate": "has_name",
+      "object": "Text Rank"
+    },
+    {
+      "subject": "OCR",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "OCR",
+      "predicate": "has_name",
+      "object": "OCR"
+    },
+    {
+      "subject": "Open AI",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Open AI",
+      "predicate": "has_name",
+      "object": "Open AI"
+    },
+    {
+      "subject": "Text Rank Algorithm",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Text Rank Algorithm",
+      "predicate": "has_name",
+      "object": "Text Rank Algorithm"
+    },
+    {
+      "subject": "NLTK",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "NLTK",
+      "predicate": "has_name",
+      "object": "NLTK"
+    },
+    {
+      "subject": "GTTS(Google Text To Speech) API",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "GTTS(Google Text To Speech) API",
+      "predicate": "has_name",
+      "object": "GTTS(Google Text To Speech) API"
+    },
+    {
+      "subject": "Extractive Text Summarization",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Extractive Text Summarization",
+      "predicate": "has_name",
+      "object": "Extractive Text Summarization"
+    },
+    {
+      "subject": "Machine Learning",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Machine Learning",
+      "predicate": "has_name",
+      "object": "Machine Learning"
+    },
+    {
+      "subject": "Natural Language Processing(NLP)",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Natural Language Processing(NLP)",
+      "predicate": "has_name",
+      "object": "Natural Language Processing(NLP)"
+    },
+    {
+      "subject": "Long term short memory(LSTM)",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Long term short memory(LSTM)",
+      "predicate": "has_name",
+      "object": "Long term short memory(LSTM)"
+    },
+    {
+      "subject": "Abstractive Summarization",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Abstractive Summarization",
+      "predicate": "has_name",
+      "object": "Abstractive Summarization"
+    },
+    {
+      "subject": "Extractive Summarization.",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Extractive Summarization.",
+      "predicate": "has_name",
+      "object": "Extractive Summarization."
+    },
+    {
+      "subject": "abstraction-predicated summary",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "abstraction-predicated summary",
+      "predicate": "has_name",
+      "object": "abstraction-predicated summary"
+    },
+    {
+      "subject": "automatic text summarization",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "automatic text summarization",
+      "predicate": "has_name",
+      "object": "automatic text summarization"
+    },
+    {
+      "subject": "extraction summary",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "extraction summary",
+      "predicate": "has_name",
+      "object": "extraction summary"
+    },
+    {
+      "subject": "feature extraction",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "feature extraction",
+      "predicate": "has_name",
+      "object": "feature extraction"
+    },
+    {
+      "subject": "text reduction.",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "text reduction.",
+      "predicate": "has_name",
+      "object": "text reduction."
+    },
+    {
+      "subject": "Natural Language Processing (NLP)",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Natural Language Processing (NLP)",
+      "predicate": "has_name",
+      "object": "Natural Language Processing (NLP)"
+    },
+    {
+      "subject": "Highlighting Keywords",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Highlighting Keywords",
+      "predicate": "has_name",
+      "object": "Highlighting Keywords"
+    },
+    {
+      "subject": "Read Aloud",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Read Aloud",
+      "predicate": "has_name",
+      "object": "Read Aloud"
+    },
+    {
+      "subject": "Plagiarism",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Plagiarism",
+      "predicate": "has_name",
+      "object": "Plagiarism"
+    },
+    {
+      "subject": "Images",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Images",
+      "predicate": "has_name",
+      "object": "Images"
+    },
+    {
+      "subject": "Research.",
+      "predicate": "rdf:type",
+      "object": "Keyword"
+    },
+    {
+      "subject": "Research.",
+      "predicate": "has_name",
+      "object": "Research."
+    },
+    {
+      "subject": "Artificial Intelligence Tools",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Artificial Intelligence Tools",
+      "predicate": "has_name",
+      "object": "Artificial Intelligence Tools"
+    },
+    {
+      "subject": "Natural Language Processing (NLP)",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Natural Language Processing (NLP)",
+      "predicate": "has_name",
+      "object": "Natural Language Processing (NLP)"
+    },
+    {
+      "subject": "NLP",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "NLP",
+      "predicate": "has_name",
+      "object": "NLP"
+    },
+    {
+      "subject": "Natural Language Processing",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Natural Language Processing",
+      "predicate": "has_name",
+      "object": "Natural Language Processing"
+    },
+    {
+      "subject": "CNN",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "CNN",
+      "predicate": "has_name",
+      "object": "CNN"
+    },
+    {
+      "subject": "Open AI",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Open AI",
+      "predicate": "has_name",
+      "object": "Open AI"
+    },
+    {
+      "subject": "GTTS(Google Text To Speech) API",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "GTTS(Google Text To Speech) API",
+      "predicate": "has_name",
+      "object": "GTTS(Google Text To Speech) API"
+    },
+    {
+      "subject": "Machine Learning",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Machine Learning",
+      "predicate": "has_name",
+      "object": "Machine Learning"
+    },
+    {
+      "subject": "Long term short memory(LSTM)",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Long term short memory(LSTM)",
+      "predicate": "has_name",
+      "object": "Long term short memory(LSTM)"
+    },
+    {
+      "subject": "Natural Language Processing(NLP)",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Natural Language Processing(NLP)",
+      "predicate": "has_name",
+      "object": "Natural Language Processing(NLP)"
+    },
+    {
+      "subject": "Automatic Text Summarization",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Automatic Text Summarization",
+      "predicate": "has_name",
+      "object": "Automatic Text Summarization"
+    },
+    {
+      "subject": "Natural Language Toolkit (NLTK)",
+      "predicate": "rdf:type",
+      "object": "Domain"
+    },
+    {
+      "subject": "Natural Language Toolkit (NLTK)",
+      "predicate": "has_name",
+      "object": "Natural Language Toolkit (NLTK)"
+    },
+    {
+      "subject": "R001",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R001",
+      "predicate": "has_title",
+      "object": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Techniques"
+    },
+    {
+      "subject": "R001",
+      "predicate": "cited_year",
+      "object": "2023"
+    },
+    {
+      "subject": "R001",
+      "predicate": "citation_count",
+      "object": "8"
+    },
+    {
+      "subject": "R001",
+      "predicate": "has_link",
+      "object": "https://doi.org/10.1108/ejim-02-2023-0156"
+    },
+    {
+      "subject": "R002",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R002",
+      "predicate": "has_title",
+      "object": "SmartNews: AI-Powered News Summarizer"
+    },
+    {
+      "subject": "R002",
+      "predicate": "cited_year",
+      "object": "2025"
+    },
+    {
+      "subject": "R002",
+      "predicate": "has_link",
+      "object": "https://journals.mriindia.com"
+    },
+    {
+      "subject": "R003",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R003",
+      "predicate": "has_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "R003",
+      "predicate": "cited_year",
+      "object": "2023"
+    },
+    {
+      "subject": "R003",
+      "predicate": "citation_count",
+      "object": "25"
+    },
+    {
+      "subject": "R003",
+      "predicate": "has_link",
+      "object": "https://orcid.org/0000-0001-6051-479X"
+    },
+    {
+      "subject": "R004",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R004",
+      "predicate": "has_title",
+      "object": "Automatic text summarization of scientific articles using transformers-A brief review"
+    },
+    {
+      "subject": "R004",
+      "predicate": "cited_year",
+      "object": "2024"
+    },
+    {
+      "subject": "R004",
+      "predicate": "citation_count",
+      "object": "2"
+    },
+    {
+      "subject": "R004",
+      "predicate": "has_link",
+      "object": "https://doi.org/10.32629/jai.v7i5.1331"
+    },
+    {
+      "subject": "R005",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R005",
+      "predicate": "has_title",
+      "object": "Text Summarization Using Natural Language Processing"
+    },
+    {
+      "subject": "R005",
+      "predicate": "cited_year",
+      "object": "2024"
+    },
+    {
+      "subject": "R005",
+      "predicate": "citation_count",
+      "object": "3"
+    },
+    {
+      "subject": "R005",
+      "predicate": "has_link",
+      "object": "https://www.ijcrt.org"
+    },
+    {
+      "subject": "R006",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R006",
+      "predicate": "has_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "R006",
+      "predicate": "cited_year",
+      "object": "2020"
+    },
+    {
+      "subject": "R006",
+      "predicate": "citation_count",
+      "object": "10"
+    },
+    {
+      "subject": "R006",
+      "predicate": "has_link",
+      "object": "https://www.irjet.net"
+    },
+    {
+      "subject": "R007",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R007",
+      "predicate": "has_title",
+      "object": "A Survey of Text Summarization Using NLP"
+    },
+    {
+      "subject": "R007",
+      "predicate": "cited_year",
+      "object": "2023"
+    },
+    {
+      "subject": "R007",
+      "predicate": "citation_count",
+      "object": "2"
+    },
+    {
+      "subject": "R007",
+      "predicate": "has_link",
+      "object": "https://sirjana.in"
+    },
+    {
+      "subject": "R008",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R008",
+      "predicate": "has_title",
+      "object": "A Survey of Automatic Text Summarization"
+    },
+    {
+      "subject": "R008",
+      "predicate": "cited_year",
+      "object": "2014"
+    },
+    {
+      "subject": "R008",
+      "predicate": "citation_count",
+      "object": "15"
+    },
+    {
+      "subject": "R008",
+      "predicate": "has_link",
+      "object": "https://www.irjet.net"
+    },
+    {
+      "subject": "R009",
+      "predicate": "rdf:type",
+      "object": "Reference"
+    },
+    {
+      "subject": "R009",
+      "predicate": "has_title",
+      "object": "Research Paper Summarizer Using AI"
+    },
+    {
+      "subject": "R009",
+      "predicate": "cited_year",
+      "object": "2024"
+    },
+    {
+      "subject": "R009",
+      "predicate": "citation_count",
+      "object": "1"
+    },
+    {
+      "subject": "R009",
+      "predicate": "has_link",
+      "object": "https://doi.org/10.47392/IRJAEM.2024.0374"
+    },
+    {
+      "subject": "Mandira Bairagi",
+      "predicate": "AUTHORED",
+      "object": "P01"
+    },
+    {
+      "subject": "Mandira Bairagi_AUTHORED_P01",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Mandira Bairagi_AUTHORED_P01",
+      "predicate": "has_paper_title",
+      "object": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique"
+    },
+    {
+      "subject": "Dr. Shalini R. Lihitkar",
+      "predicate": "AUTHORED",
+      "object": "P01"
+    },
+    {
+      "subject": "Dr. Shalini R. Lihitkar_AUTHORED_P01",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Dr. Shalini R. Lihitkar_AUTHORED_P01",
+      "predicate": "has_paper_title",
+      "object": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "AUTHORED",
+      "object": "P02"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_AUTHORED_P02",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_AUTHORED_P02",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Trupti Pawar",
+      "predicate": "AUTHORED",
+      "object": "P02"
+    },
+    {
+      "subject": "Trupti Pawar_AUTHORED_P02",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Trupti Pawar_AUTHORED_P02",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Yogeshwari Pawar",
+      "predicate": "AUTHORED",
+      "object": "P02"
+    },
+    {
+      "subject": "Yogeshwari Pawar_AUTHORED_P02",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Yogeshwari Pawar_AUTHORED_P02",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Shreya pawar",
+      "predicate": "AUTHORED",
+      "object": "P02"
+    },
+    {
+      "subject": "Shreya pawar_AUTHORED_P02",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Shreya pawar_AUTHORED_P02",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Divakar Yadav",
+      "predicate": "AUTHORED",
+      "object": "P03"
+    },
+    {
+      "subject": "Divakar Yadav_AUTHORED_P03",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Divakar Yadav_AUTHORED_P03",
+      "predicate": "has_paper_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "Jalpa Desai",
+      "predicate": "AUTHORED",
+      "object": "P03"
+    },
+    {
+      "subject": "Jalpa Desai_AUTHORED_P03",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Jalpa Desai_AUTHORED_P03",
+      "predicate": "has_paper_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "Arun Kumar Yadav",
+      "predicate": "AUTHORED",
+      "object": "P03"
+    },
+    {
+      "subject": "Arun Kumar Yadav_AUTHORED_P03",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Arun Kumar Yadav_AUTHORED_P03",
+      "predicate": "has_paper_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "AUTHORED",
+      "object": "P04"
+    },
+    {
+      "subject": "Seema Aswani_AUTHORED_P04",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Seema Aswani_AUTHORED_P04",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Kabita Choudhary",
+      "predicate": "AUTHORED",
+      "object": "P04"
+    },
+    {
+      "subject": "Kabita Choudhary_AUTHORED_P04",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Kabita Choudhary_AUTHORED_P04",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Sujala Shetty",
+      "predicate": "AUTHORED",
+      "object": "P04"
+    },
+    {
+      "subject": "Sujala Shetty_AUTHORED_P04",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Sujala Shetty_AUTHORED_P04",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Nasheen Nur",
+      "predicate": "AUTHORED",
+      "object": "P04"
+    },
+    {
+      "subject": "Nasheen Nur_AUTHORED_P04",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Nasheen Nur_AUTHORED_P04",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare",
+      "predicate": "AUTHORED",
+      "object": "P05"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_AUTHORED_P05",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_AUTHORED_P05",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Manali Udaykumar Sawant",
+      "predicate": "AUTHORED",
+      "object": "P05"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_AUTHORED_P05",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_AUTHORED_P05",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Manasi Suresh Yadav",
+      "predicate": "AUTHORED",
+      "object": "P05"
+    },
+    {
+      "subject": "Manasi Suresh Yadav_AUTHORED_P05",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Manasi Suresh Yadav_AUTHORED_P05",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Ms. Priyanka Rajendra Jadhav",
+      "predicate": "AUTHORED",
+      "object": "P05"
+    },
+    {
+      "subject": "Ms. Priyanka Rajendra Jadhav_AUTHORED_P05",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Ms. Priyanka Rajendra Jadhav_AUTHORED_P05",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "SUBASH VOLETI",
+      "predicate": "AUTHORED",
+      "object": "P06"
+    },
+    {
+      "subject": "SUBASH VOLETI_AUTHORED_P06",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "SUBASH VOLETI_AUTHORED_P06",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "CHAITAN RAJU",
+      "predicate": "AUTHORED",
+      "object": "P06"
+    },
+    {
+      "subject": "CHAITAN RAJU_AUTHORED_P06",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "CHAITAN RAJU_AUTHORED_P06",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "TEJA RANI",
+      "predicate": "AUTHORED",
+      "object": "P06"
+    },
+    {
+      "subject": "TEJA RANI_AUTHORED_P06",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "TEJA RANI_AUTHORED_P06",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "MUGADA SWETHA",
+      "predicate": "AUTHORED",
+      "object": "P06"
+    },
+    {
+      "subject": "MUGADA SWETHA_AUTHORED_P06",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "MUGADA SWETHA_AUTHORED_P06",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "AUTHORED",
+      "object": "P07"
+    },
+    {
+      "subject": "Bhuvan Shingade_AUTHORED_P07",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Bhuvan Shingade_AUTHORED_P07",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Yash Matha",
+      "predicate": "AUTHORED",
+      "object": "P07"
+    },
+    {
+      "subject": "Yash Matha_AUTHORED_P07",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Yash Matha_AUTHORED_P07",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Ved Kolambkar",
+      "predicate": "AUTHORED",
+      "object": "P07"
+    },
+    {
+      "subject": "Ved Kolambkar_AUTHORED_P07",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Ved Kolambkar_AUTHORED_P07",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Suyash Kasar",
+      "predicate": "AUTHORED",
+      "object": "P07"
+    },
+    {
+      "subject": "Suyash Kasar_AUTHORED_P07",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Suyash Kasar_AUTHORED_P07",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Prof. Rohini Palve",
+      "predicate": "AUTHORED",
+      "object": "P07"
+    },
+    {
+      "subject": "Prof. Rohini Palve_AUTHORED_P07",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Prof. Rohini Palve_AUTHORED_P07",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Niharika Verma",
+      "predicate": "AUTHORED",
+      "object": "P08"
+    },
+    {
+      "subject": "Niharika Verma_AUTHORED_P08",
+      "predicate": "has_year",
+      "object": "2014"
+    },
+    {
+      "subject": "Niharika Verma_AUTHORED_P08",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Automatic Text Summarization"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari",
+      "predicate": "AUTHORED",
+      "object": "P08"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari_AUTHORED_P08",
+      "predicate": "has_year",
+      "object": "2014"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari_AUTHORED_P08",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Automatic Text Summarization"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "AUTHORED",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi_AUTHORED_P09",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Santhoshi_AUTHORED_P09",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "AUTHORED",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi_AUTHORED_P09",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "M Jyothi_AUTHORED_P09",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "AUTHORED",
+      "object": "P09"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_AUTHORED_P09",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_AUTHORED_P09",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "AUTHORED",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Hasika_AUTHORED_P09",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Hasika_AUTHORED_P09",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Varsha",
+      "predicate": "AUTHORED",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Varsha_AUTHORED_P09",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Varsha_AUTHORED_P09",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "R. Snigdha",
+      "predicate": "AUTHORED",
+      "object": "P09"
+    },
+    {
+      "subject": "R. Snigdha_AUTHORED_P09",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "R. Snigdha_AUTHORED_P09",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "P01",
+      "predicate": "PUBLISHED_IN",
+      "object": "IEEE Access"
+    },
+    {
+      "subject": "P01_PUBLISHED_IN_IEEE Access",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P01_PUBLISHED_IN_IEEE Access",
+      "predicate": "has_doi",
+      "object": " 10.1109/ACCESS.2025.3536205"
+    },
+    {
+      "subject": "P02",
+      "predicate": "PUBLISHED_IN",
+      "object": "International Journal on Advanced Computer Theory and Engineering"
+    },
+    {
+      "subject": "P02_PUBLISHED_IN_International Journal on Advanced Computer Theory and Engineering",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "P02_PUBLISHED_IN_International Journal on Advanced Computer Theory and Engineering",
+      "predicate": "has_doi",
+      "object": "ISSN: 2319-2526"
+    },
+    {
+      "subject": "P03",
+      "predicate": "PUBLISHED_IN",
+      "object": "IEEE Access"
+    },
+    {
+      "subject": "P03_PUBLISHED_IN_IEEE Access",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P03_PUBLISHED_IN_IEEE Access",
+      "predicate": "has_doi",
+      "object": "10.1109/TCC.2025.3612322"
+    },
+    {
+      "subject": "P04",
+      "predicate": "PUBLISHED_IN",
+      "object": "Journal of Autonomous Intelligence"
+    },
+    {
+      "subject": "P04_PUBLISHED_IN_Journal of Autonomous Intelligence",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P04_PUBLISHED_IN_Journal of Autonomous Intelligence",
+      "predicate": "has_doi",
+      "object": " 10.32629/jai.v7i5.1331"
+    },
+    {
+      "subject": "P05",
+      "predicate": "PUBLISHED_IN",
+      "object": "IJCRT"
+    },
+    {
+      "subject": "P05_PUBLISHED_IN_IJCRT",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P05_PUBLISHED_IN_IJCRT",
+      "predicate": "has_doi",
+      "object": "ISSN: 2320-2882"
+    },
+    {
+      "subject": "P06",
+      "predicate": "PUBLISHED_IN",
+      "object": "International Research Journal of Engineering and Technology (IRJET)"
+    },
+    {
+      "subject": "P06_PUBLISHED_IN_International Research Journal of Engineering and Technology (IRJET)",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "P06_PUBLISHED_IN_International Research Journal of Engineering and Technology (IRJET)",
+      "predicate": "has_doi",
+      "object": "e-ISSN: 2395-0056"
+    },
+    {
+      "subject": "P07",
+      "predicate": "PUBLISHED_IN",
+      "object": "SIRJANA JOURNAL"
+    },
+    {
+      "subject": "P07_PUBLISHED_IN_SIRJANA JOURNAL",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "P07_PUBLISHED_IN_SIRJANA JOURNAL",
+      "predicate": "has_doi",
+      "object": "ISSN:2455-1058"
+    },
+    {
+      "subject": "P08",
+      "predicate": "PUBLISHED_IN",
+      "object": "International Journal of Engineering Research & Technology (IJERT)"
+    },
+    {
+      "subject": "P08_PUBLISHED_IN_International Journal of Engineering Research & Technology (IJERT)",
+      "predicate": "has_year",
+      "object": "2014"
+    },
+    {
+      "subject": "P08_PUBLISHED_IN_International Journal of Engineering Research & Technology (IJERT)",
+      "predicate": "has_doi",
+      "object": "ISSN: 2278-0181"
+    },
+    {
+      "subject": "P09",
+      "predicate": "PUBLISHED_IN",
+      "object": "International Research Journal on Advanced Engineering and Management"
+    },
+    {
+      "subject": "P09_PUBLISHED_IN_International Research Journal on Advanced Engineering and Management",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P09_PUBLISHED_IN_International Research Journal on Advanced Engineering and Management",
+      "predicate": "has_doi",
+      "object": "e ISSN: 2584-2854 "
+    },
+    {
+      "subject": "P01",
+      "predicate": "HAS_KEYWORD",
+      "object": "Artificial intelligence"
+    },
+    {
+      "subject": "P01",
+      "predicate": "HAS_KEYWORD",
+      "object": "Artificial Intelligence Tools"
+    },
+    {
+      "subject": "P01",
+      "predicate": "HAS_KEYWORD",
+      "object": "Research communication"
+    },
+    {
+      "subject": "P01",
+      "predicate": "HAS_KEYWORD",
+      "object": "Scholarly publication"
+    },
+    {
+      "subject": "P02",
+      "predicate": "HAS_KEYWORD",
+      "object": "NLP"
+    },
+    {
+      "subject": "P02",
+      "predicate": "HAS_KEYWORD",
+      "object": "evaluate summarization models using Python"
+    },
+    {
+      "subject": "P03",
+      "predicate": "HAS_KEYWORD",
+      "object": "Automatic text summarization"
+    },
+    {
+      "subject": "P03",
+      "predicate": "HAS_KEYWORD",
+      "object": "Natural Language Processing"
+    },
+    {
+      "subject": "P03",
+      "predicate": "HAS_KEYWORD",
+      "object": "Categorization of text summarization  system"
+    },
+    {
+      "subject": "P04",
+      "predicate": "HAS_KEYWORD",
+      "object": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization"
+    },
+    {
+      "subject": "P05",
+      "predicate": "HAS_KEYWORD",
+      "object": "NLP"
+    },
+    {
+      "subject": "P05",
+      "predicate": "HAS_KEYWORD",
+      "object": "Text Summarization"
+    },
+    {
+      "subject": "P05",
+      "predicate": "HAS_KEYWORD",
+      "object": "Text Rank"
+    },
+    {
+      "subject": "P05",
+      "predicate": "HAS_KEYWORD",
+      "object": "OCR"
+    },
+    {
+      "subject": "P05",
+      "predicate": "HAS_KEYWORD",
+      "object": "Open AI"
+    },
+    {
+      "subject": "P06",
+      "predicate": "HAS_KEYWORD",
+      "object": "Text Summarization"
+    },
+    {
+      "subject": "P06",
+      "predicate": "HAS_KEYWORD",
+      "object": "Text Rank Algorithm"
+    },
+    {
+      "subject": "P06",
+      "predicate": "HAS_KEYWORD",
+      "object": "NLTK"
+    },
+    {
+      "subject": "P06",
+      "predicate": "HAS_KEYWORD",
+      "object": "GTTS(Google Text To Speech) API"
+    },
+    {
+      "subject": "P06",
+      "predicate": "HAS_KEYWORD",
+      "object": "Extractive Text Summarization"
+    },
+    {
+      "subject": "P07",
+      "predicate": "HAS_KEYWORD",
+      "object": "Machine Learning"
+    },
+    {
+      "subject": "P07",
+      "predicate": "HAS_KEYWORD",
+      "object": "Natural Language Processing(NLP)"
+    },
+    {
+      "subject": "P07",
+      "predicate": "HAS_KEYWORD",
+      "object": "Long term short memory(LSTM)"
+    },
+    {
+      "subject": "P07",
+      "predicate": "HAS_KEYWORD",
+      "object": "Abstractive Summarization"
+    },
+    {
+      "subject": "P07",
+      "predicate": "HAS_KEYWORD",
+      "object": "Extractive Summarization."
+    },
+    {
+      "subject": "P08",
+      "predicate": "HAS_KEYWORD",
+      "object": "abstraction-predicated summary"
+    },
+    {
+      "subject": "P08",
+      "predicate": "HAS_KEYWORD",
+      "object": "automatic text summarization"
+    },
+    {
+      "subject": "P08",
+      "predicate": "HAS_KEYWORD",
+      "object": "extraction summary"
+    },
+    {
+      "subject": "P08",
+      "predicate": "HAS_KEYWORD",
+      "object": "feature extraction"
+    },
+    {
+      "subject": "P08",
+      "predicate": "HAS_KEYWORD",
+      "object": "text reduction."
+    },
+    {
+      "subject": "P09",
+      "predicate": "HAS_KEYWORD",
+      "object": "Natural Language Processing (NLP)"
+    },
+    {
+      "subject": "P09",
+      "predicate": "HAS_KEYWORD",
+      "object": "Highlighting Keywords"
+    },
+    {
+      "subject": "P09",
+      "predicate": "HAS_KEYWORD",
+      "object": "Read Aloud"
+    },
+    {
+      "subject": "P09",
+      "predicate": "HAS_KEYWORD",
+      "object": "Plagiarism"
+    },
+    {
+      "subject": "P09",
+      "predicate": "HAS_KEYWORD",
+      "object": "Images"
+    },
+    {
+      "subject": "P09",
+      "predicate": "HAS_KEYWORD",
+      "object": "Research."
+    },
+    {
+      "subject": "P01",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Artificial Intelligence Tools"
+    },
+    {
+      "subject": "P02",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Natural Language Processing (NLP)"
+    },
+    {
+      "subject": "P03",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "NLP"
+    },
+    {
+      "subject": "P04",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Natural Language Processing"
+    },
+    {
+      "subject": "P04",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "CNN"
+    },
+    {
+      "subject": "P05",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "NLP"
+    },
+    {
+      "subject": "P05",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Open AI"
+    },
+    {
+      "subject": "P06",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "GTTS(Google Text To Speech) API"
+    },
+    {
+      "subject": "P07",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Machine Learning"
+    },
+    {
+      "subject": "P07",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Long term short memory(LSTM)"
+    },
+    {
+      "subject": "P07",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Natural Language Processing(NLP)"
+    },
+    {
+      "subject": "P08",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Automatic Text Summarization"
+    },
+    {
+      "subject": "P09",
+      "predicate": "BELONGS_TO_DOMAIN",
+      "object": "Natural Language Toolkit (NLTK)"
+    },
+    {
+      "subject": "Mandira Bairagi",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Rashtrasant Tukadoji Maharaj Nagpur University"
+    },
+    {
+      "subject": "Mandira Bairagi_AFFILIATED_WITH_Rashtrasant Tukadoji Maharaj Nagpur University",
+      "predicate": "has_paper_id",
+      "object": "P01"
+    },
+    {
+      "subject": "Dr. Shalini R. Lihitkar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Rashtrasant Tukadoji Maharaj Nagpur University"
+    },
+    {
+      "subject": "Dr. Shalini R. Lihitkar_AFFILIATED_WITH_Rashtrasant Tukadoji Maharaj Nagpur University",
+      "predicate": "has_paper_id",
+      "object": "P01"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Trupti Pawar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Trupti Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Trupti Pawar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Trupti Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Yogeshwari Pawar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Yogeshwari Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Yogeshwari Pawar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Yogeshwari Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Shreya pawar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Shreya pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Shreya pawar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Patil College of Engineering and Innovation"
+    },
+    {
+      "subject": "Shreya pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Birla Institute of Technology and Science"
+    },
+    {
+      "subject": "Seema Aswani_AFFILIATED_WITH_Birla Institute of Technology and Science",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Florida Institute of Technology"
+    },
+    {
+      "subject": "Seema Aswani_AFFILIATED_WITH_Florida Institute of Technology",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Kabita Choudhary",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Birla Institute of Technology and Science"
+    },
+    {
+      "subject": "Kabita Choudhary_AFFILIATED_WITH_Birla Institute of Technology and Science",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Kabita Choudhary",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Florida Institute of Technology"
+    },
+    {
+      "subject": "Kabita Choudhary_AFFILIATED_WITH_Florida Institute of Technology",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Sujala Shetty",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Birla Institute of Technology and Science"
+    },
+    {
+      "subject": "Sujala Shetty_AFFILIATED_WITH_Birla Institute of Technology and Science",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Sujala Shetty",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Florida Institute of Technology"
+    },
+    {
+      "subject": "Sujala Shetty_AFFILIATED_WITH_Florida Institute of Technology",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Nasheen Nur",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Birla Institute of Technology and Science"
+    },
+    {
+      "subject": "Nasheen Nur_AFFILIATED_WITH_Birla Institute of Technology and Science",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Nasheen Nur",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Florida Institute of Technology"
+    },
+    {
+      "subject": "Nasheen Nur_AFFILIATED_WITH_Florida Institute of Technology",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "SUBASH VOLETI",
+      "predicate": "AFFILIATED_WITH",
+      "object": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+    },
+    {
+      "subject": "SUBASH VOLETI_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "CHAITAN RAJU",
+      "predicate": "AFFILIATED_WITH",
+      "object": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+    },
+    {
+      "subject": "CHAITAN RAJU_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "TEJA RANI",
+      "predicate": "AFFILIATED_WITH",
+      "object": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+    },
+    {
+      "subject": "TEJA RANI_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "MUGADA SWETHA",
+      "predicate": "AFFILIATED_WITH",
+      "object": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+    },
+    {
+      "subject": "MUGADA SWETHA_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Terna Engineering College"
+    },
+    {
+      "subject": "Bhuvan Shingade_AFFILIATED_WITH_Terna Engineering College",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Yash Matha",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Terna Engineering College"
+    },
+    {
+      "subject": "Yash Matha_AFFILIATED_WITH_Terna Engineering College",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Ved Kolambkar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Terna Engineering College"
+    },
+    {
+      "subject": "Ved Kolambkar_AFFILIATED_WITH_Terna Engineering College",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Suyash Kasar",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Terna Engineering College"
+    },
+    {
+      "subject": "Suyash Kasar_AFFILIATED_WITH_Terna Engineering College",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Prof. Rohini Palve",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Terna Engineering College"
+    },
+    {
+      "subject": "Prof. Rohini Palve_AFFILIATED_WITH_Terna Engineering College",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Niharika Verma",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Rajiv Gandhi Technical University Airport Road"
+    },
+    {
+      "subject": "Niharika Verma_AFFILIATED_WITH_Rajiv Gandhi Technical University Airport Road",
+      "predicate": "has_paper_id",
+      "object": "P08"
+    },
+    {
+      "subject": "Niharika Verma",
+      "predicate": "AFFILIATED_WITH",
+      "object": "2 Vindhya Institute of Technology and Science Umrikheda"
+    },
+    {
+      "subject": "Niharika Verma_AFFILIATED_WITH_2 Vindhya Institute of Technology and Science Umrikheda",
+      "predicate": "has_paper_id",
+      "object": "P08"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Rajiv Gandhi Technical University Airport Road"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari_AFFILIATED_WITH_Rajiv Gandhi Technical University Airport Road",
+      "predicate": "has_paper_id",
+      "object": "P08"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari",
+      "predicate": "AFFILIATED_WITH",
+      "object": "2 Vindhya Institute of Technology and Science Umrikheda"
+    },
+    {
+      "subject": "Prof. Ashish Tiwari_AFFILIATED_WITH_2 Vindhya Institute of Technology and Science Umrikheda",
+      "predicate": "has_paper_id",
+      "object": "P08"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and  Science for Women"
+    },
+    {
+      "subject": "G. Santhoshi_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "G. Santhoshi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "G. Santhoshi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and  Science for Women"
+    },
+    {
+      "subject": "M Jyothi_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "M Jyothi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "M Jyothi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and  Science for Women"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and  Science for Women"
+    },
+    {
+      "subject": "G. Hasika_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "G. Hasika_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "G. Hasika_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Varsha",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and  Science for Women"
+    },
+    {
+      "subject": "G. Varsha_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Varsha",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "G. Varsha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Varsha",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "G. Varsha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "R. Snigdha",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and  Science for Women"
+    },
+    {
+      "subject": "R. Snigdha_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "R. Snigdha",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "R. Snigdha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "R. Snigdha",
+      "predicate": "AFFILIATED_WITH",
+      "object": "Narayanamma Institute of Technology and Science for Women"
+    },
+    {
+      "subject": "R. Snigdha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "P01",
+      "predicate": "CITES",
+      "object": "R001"
+    },
+    {
+      "subject": "P01_CITES_R001",
+      "predicate": "has_citation_count",
+      "object": "8"
+    },
+    {
+      "subject": "P01_CITES_R001",
+      "predicate": "has_cited_year",
+      "object": "2023"
+    },
+    {
+      "subject": "P02",
+      "predicate": "CITES",
+      "object": "R002"
+    },
+    {
+      "subject": "P02_CITES_R002",
+      "predicate": "has_citation_count",
+      "object": "0"
+    },
+    {
+      "subject": "P02_CITES_R002",
+      "predicate": "has_cited_year",
+      "object": "2025"
+    },
+    {
+      "subject": "P03",
+      "predicate": "CITES",
+      "object": "R003"
+    },
+    {
+      "subject": "P03_CITES_R003",
+      "predicate": "has_citation_count",
+      "object": "25"
+    },
+    {
+      "subject": "P03_CITES_R003",
+      "predicate": "has_cited_year",
+      "object": "2023"
+    },
+    {
+      "subject": "P04",
+      "predicate": "CITES",
+      "object": "R004"
+    },
+    {
+      "subject": "P04_CITES_R004",
+      "predicate": "has_citation_count",
+      "object": "2"
+    },
+    {
+      "subject": "P04_CITES_R004",
+      "predicate": "has_cited_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P05",
+      "predicate": "CITES",
+      "object": "R005"
+    },
+    {
+      "subject": "P05_CITES_R005",
+      "predicate": "has_citation_count",
+      "object": "3"
+    },
+    {
+      "subject": "P05_CITES_R005",
+      "predicate": "has_cited_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P06",
+      "predicate": "CITES",
+      "object": "R006"
+    },
+    {
+      "subject": "P06_CITES_R006",
+      "predicate": "has_citation_count",
+      "object": "10"
+    },
+    {
+      "subject": "P06_CITES_R006",
+      "predicate": "has_cited_year",
+      "object": "2020"
+    },
+    {
+      "subject": "P07",
+      "predicate": "CITES",
+      "object": "R007"
+    },
+    {
+      "subject": "P07_CITES_R007",
+      "predicate": "has_citation_count",
+      "object": "2"
+    },
+    {
+      "subject": "P07_CITES_R007",
+      "predicate": "has_cited_year",
+      "object": "2023"
+    },
+    {
+      "subject": "P08",
+      "predicate": "CITES",
+      "object": "R008"
+    },
+    {
+      "subject": "P08_CITES_R008",
+      "predicate": "has_citation_count",
+      "object": "15"
+    },
+    {
+      "subject": "P08_CITES_R008",
+      "predicate": "has_cited_year",
+      "object": "2014"
+    },
+    {
+      "subject": "P9",
+      "predicate": "CITES",
+      "object": "R009"
+    },
+    {
+      "subject": "P9_CITES_R009",
+      "predicate": "has_citation_count",
+      "object": "1"
+    },
+    {
+      "subject": "P9_CITES_R009",
+      "predicate": "has_cited_year",
+      "object": "2024"
+    },
+    {
+      "subject": "P02",
+      "predicate": "SHARES_TOPIC",
+      "object": "P05"
+    },
+    {
+      "subject": "P02_SHARES_TOPIC_P05",
+      "predicate": "has_shared_keyword",
+      "object": "NLP"
+    },
+    {
+      "subject": "P05",
+      "predicate": "SHARES_TOPIC",
+      "object": "P06"
+    },
+    {
+      "subject": "P05_SHARES_TOPIC_P06",
+      "predicate": "has_shared_keyword",
+      "object": "Text Summarization"
+    },
+    {
+      "subject": "P03",
+      "predicate": "SHARES_DOMAIN",
+      "object": "P05"
+    },
+    {
+      "subject": "P03_SHARES_DOMAIN_P05",
+      "predicate": "has_shared_domain",
+      "object": "NLP"
+    },
+    {
+      "subject": "Mandira Bairagi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Dr. Shalini R. Lihitkar"
+    },
+    {
+      "subject": "Mandira Bairagi_COLLABORATED_WITH_Dr. Shalini R. Lihitkar",
+      "predicate": "has_paper_id",
+      "object": "P01"
+    },
+    {
+      "subject": "Mandira Bairagi_COLLABORATED_WITH_Dr. Shalini R. Lihitkar",
+      "predicate": "has_paper_title",
+      "object": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique"
+    },
+    {
+      "subject": "Mandira Bairagi_COLLABORATED_WITH_Dr. Shalini R. Lihitkar",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Trupti Pawar"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Trupti Pawar",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Trupti Pawar",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Trupti Pawar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Yogeshwari Pawar"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Yogeshwari Pawar",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Yogeshwari Pawar",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Yogeshwari Pawar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Mrs. Abha Pathak",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Shreya pawar"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Mrs. Abha Pathak_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Trupti Pawar",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Yogeshwari Pawar"
+    },
+    {
+      "subject": "Trupti Pawar_COLLABORATED_WITH_Yogeshwari Pawar",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Trupti Pawar_COLLABORATED_WITH_Yogeshwari Pawar",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Trupti Pawar_COLLABORATED_WITH_Yogeshwari Pawar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Trupti Pawar",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Shreya pawar"
+    },
+    {
+      "subject": "Trupti Pawar_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Trupti Pawar_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Trupti Pawar_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Yogeshwari Pawar",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Shreya pawar"
+    },
+    {
+      "subject": "Yogeshwari Pawar_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_paper_id",
+      "object": "P02"
+    },
+    {
+      "subject": "Yogeshwari Pawar_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_paper_title",
+      "object": "SmartNews: AI-Powered News Summarize"
+    },
+    {
+      "subject": "Yogeshwari Pawar_COLLABORATED_WITH_Shreya pawar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Divakar Yadav",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Jalpa Desai"
+    },
+    {
+      "subject": "Divakar Yadav_COLLABORATED_WITH_Jalpa Desai",
+      "predicate": "has_paper_id",
+      "object": "P03"
+    },
+    {
+      "subject": "Divakar Yadav_COLLABORATED_WITH_Jalpa Desai",
+      "predicate": "has_paper_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "Divakar Yadav_COLLABORATED_WITH_Jalpa Desai",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Divakar Yadav",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Arun Kumar Yadav"
+    },
+    {
+      "subject": "Divakar Yadav_COLLABORATED_WITH_Arun Kumar Yadav",
+      "predicate": "has_paper_id",
+      "object": "P03"
+    },
+    {
+      "subject": "Divakar Yadav_COLLABORATED_WITH_Arun Kumar Yadav",
+      "predicate": "has_paper_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "Divakar Yadav_COLLABORATED_WITH_Arun Kumar Yadav",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Jalpa Desai",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Arun Kumar Yadav"
+    },
+    {
+      "subject": "Jalpa Desai_COLLABORATED_WITH_Arun Kumar Yadav",
+      "predicate": "has_paper_id",
+      "object": "P03"
+    },
+    {
+      "subject": "Jalpa Desai_COLLABORATED_WITH_Arun Kumar Yadav",
+      "predicate": "has_paper_title",
+      "object": "Automatic Text Summarization Methods: A Comprehensive Review"
+    },
+    {
+      "subject": "Jalpa Desai_COLLABORATED_WITH_Arun Kumar Yadav",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Kabita Choudhary"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Kabita Choudhary",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Kabita Choudhary",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Kabita Choudhary",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Sujala Shetty"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Sujala Shetty",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Sujala Shetty",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Sujala Shetty",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Seema Aswani",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Nasheen Nur"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Seema Aswani_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Kabita Choudhary",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Sujala Shetty"
+    },
+    {
+      "subject": "Kabita Choudhary_COLLABORATED_WITH_Sujala Shetty",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Kabita Choudhary_COLLABORATED_WITH_Sujala Shetty",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Kabita Choudhary_COLLABORATED_WITH_Sujala Shetty",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Kabita Choudhary",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Nasheen Nur"
+    },
+    {
+      "subject": "Kabita Choudhary_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Kabita Choudhary_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Kabita Choudhary_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Sujala Shetty",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Nasheen Nur"
+    },
+    {
+      "subject": "Sujala Shetty_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_paper_id",
+      "object": "P04"
+    },
+    {
+      "subject": "Sujala Shetty_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_paper_title",
+      "object": "Automatic text summarization of scientific articles using transformers"
+    },
+    {
+      "subject": "Sujala Shetty_COLLABORATED_WITH_Nasheen Nur",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Manali Udaykumar Sawant"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manali Udaykumar Sawant",
+      "predicate": "has_paper_id",
+      "object": "P05"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manali Udaykumar Sawant",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manali Udaykumar Sawant",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Manasi Suresh Yadav"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manasi Suresh Yadav",
+      "predicate": "has_paper_id",
+      "object": "P05"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manasi Suresh Yadav",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manasi Suresh Yadav",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Ms. Priyanka Rajendra Jadhav"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_paper_id",
+      "object": "P05"
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Manasi Suresh Yadav"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_COLLABORATED_WITH_Manasi Suresh Yadav",
+      "predicate": "has_paper_id",
+      "object": "P05"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_COLLABORATED_WITH_Manasi Suresh Yadav",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_COLLABORATED_WITH_Manasi Suresh Yadav",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Ms. Priyanka Rajendra Jadhav"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_paper_id",
+      "object": "P05"
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Manali Udaykumar Sawant_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Manasi Suresh Yadav",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Ms. Priyanka Rajendra Jadhav"
+    },
+    {
+      "subject": "Manasi Suresh Yadav_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_paper_id",
+      "object": "P05"
+    },
+    {
+      "subject": "Manasi Suresh Yadav_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_paper_title",
+      "object": "Text Summarization Using Natural Language Processing "
+    },
+    {
+      "subject": "Manasi Suresh Yadav_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "SUBASH VOLETI",
+      "predicate": "COLLABORATED_WITH",
+      "object": "CHAITAN RAJU"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_CHAITAN RAJU",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_CHAITAN RAJU",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_CHAITAN RAJU",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "SUBASH VOLETI",
+      "predicate": "COLLABORATED_WITH",
+      "object": "TEJA RANI"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_TEJA RANI",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_TEJA RANI",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_TEJA RANI",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "SUBASH VOLETI",
+      "predicate": "COLLABORATED_WITH",
+      "object": "MUGADA SWETHA"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "SUBASH VOLETI_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "CHAITAN RAJU",
+      "predicate": "COLLABORATED_WITH",
+      "object": "TEJA RANI"
+    },
+    {
+      "subject": "CHAITAN RAJU_COLLABORATED_WITH_TEJA RANI",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "CHAITAN RAJU_COLLABORATED_WITH_TEJA RANI",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "CHAITAN RAJU_COLLABORATED_WITH_TEJA RANI",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "CHAITAN RAJU",
+      "predicate": "COLLABORATED_WITH",
+      "object": "MUGADA SWETHA"
+    },
+    {
+      "subject": "CHAITAN RAJU_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "CHAITAN RAJU_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "CHAITAN RAJU_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "TEJA RANI",
+      "predicate": "COLLABORATED_WITH",
+      "object": "MUGADA SWETHA"
+    },
+    {
+      "subject": "TEJA RANI_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_paper_id",
+      "object": "P06"
+    },
+    {
+      "subject": "TEJA RANI_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_paper_title",
+      "object": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+    },
+    {
+      "subject": "TEJA RANI_COLLABORATED_WITH_MUGADA SWETHA",
+      "predicate": "has_year",
+      "object": "2020"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Yash Matha"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Yash Matha",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Yash Matha",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Yash Matha",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Ved Kolambkar"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Ved Kolambkar",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Ved Kolambkar",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Ved Kolambkar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Suyash Kasar"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Bhuvan Shingade",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Prof. Rohini Palve"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Bhuvan Shingade_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Yash Matha",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Ved Kolambkar"
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Ved Kolambkar",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Ved Kolambkar",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Ved Kolambkar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Yash Matha",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Suyash Kasar"
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Yash Matha",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Prof. Rohini Palve"
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Yash Matha_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Ved Kolambkar",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Suyash Kasar"
+    },
+    {
+      "subject": "Ved Kolambkar_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Ved Kolambkar_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Ved Kolambkar_COLLABORATED_WITH_Suyash Kasar",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Ved Kolambkar",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Prof. Rohini Palve"
+    },
+    {
+      "subject": "Ved Kolambkar_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Ved Kolambkar_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Ved Kolambkar_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Suyash Kasar",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Prof. Rohini Palve"
+    },
+    {
+      "subject": "Suyash Kasar_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_id",
+      "object": "P07"
+    },
+    {
+      "subject": "Suyash Kasar_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Text Summarization Using NLP "
+    },
+    {
+      "subject": "Suyash Kasar_COLLABORATED_WITH_Prof. Rohini Palve",
+      "predicate": "has_year",
+      "object": "2025"
+    },
+    {
+      "subject": "Niharika Verma",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Prof. Ashish Tiwari"
+    },
+    {
+      "subject": "Niharika Verma_COLLABORATED_WITH_Prof. Ashish Tiwari",
+      "predicate": "has_paper_id",
+      "object": "P08"
+    },
+    {
+      "subject": "Niharika Verma_COLLABORATED_WITH_Prof. Ashish Tiwari",
+      "predicate": "has_paper_title",
+      "object": "A Survey of Automatic Text Summarization"
+    },
+    {
+      "subject": "Niharika Verma_COLLABORATED_WITH_Prof. Ashish Tiwari",
+      "predicate": "has_year",
+      "object": "2014"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "M Jyothi"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_M Jyothi",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_M Jyothi",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_M Jyothi",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Kovvuri Ramya Sri"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_Kovvuri Ramya Sri",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_Kovvuri Ramya Sri",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_Kovvuri Ramya Sri",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "G. Hasika"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "G. Varsha"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Santhoshi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "R. Snigdha"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Santhoshi_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Kovvuri Ramya Sri"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_Kovvuri Ramya Sri",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_Kovvuri Ramya Sri",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_Kovvuri Ramya Sri",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "G. Hasika"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "G. Varsha"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "M Jyothi",
+      "predicate": "COLLABORATED_WITH",
+      "object": "R. Snigdha"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "M Jyothi_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "COLLABORATED_WITH",
+      "object": "G. Hasika"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_G. Hasika",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "COLLABORATED_WITH",
+      "object": "G. Varsha"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri",
+      "predicate": "COLLABORATED_WITH",
+      "object": "R. Snigdha"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "Kovvuri Ramya Sri_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "COLLABORATED_WITH",
+      "object": "G. Varsha"
+    },
+    {
+      "subject": "G. Hasika_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Hasika_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Hasika_COLLABORATED_WITH_G. Varsha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Hasika",
+      "predicate": "COLLABORATED_WITH",
+      "object": "R. Snigdha"
+    },
+    {
+      "subject": "G. Hasika_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Hasika_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Hasika_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_year",
+      "object": "2024"
+    },
+    {
+      "subject": "G. Varsha",
+      "predicate": "COLLABORATED_WITH",
+      "object": "R. Snigdha"
+    },
+    {
+      "subject": "G. Varsha_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_id",
+      "object": "P09"
+    },
+    {
+      "subject": "G. Varsha_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_paper_title",
+      "object": "Research Paper Summarizer Using AI  "
+    },
+    {
+      "subject": "G. Varsha_COLLABORATED_WITH_R. Snigdha",
+      "predicate": "has_year",
+      "object": "2024"
+    }
+  ]
+}

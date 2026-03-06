@@ -1,0 +1,804 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ex: <http://example.org/> .
+
+ex:P01 ex:rdf:type "Paper" .
+ex:P01 ex:has_title "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+ex:P01 ex:published_year "2024" .
+ex:P01 ex:has_doi "10.1109/ACCESS.2025.3536205" .
+ex:P02 ex:rdf:type "Paper" .
+ex:P02 ex:has_title "SmartNews: AI-Powered News Summarize" .
+ex:P02 ex:published_year "2025" .
+ex:P02 ex:has_doi "ISSN: 2319-2526" .
+ex:P03 ex:rdf:type "Paper" .
+ex:P03 ex:has_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:P03 ex:published_year "2024" .
+ex:P03 ex:has_doi "10.1109/TCC.2025.3612322" .
+ex:P04 ex:rdf:type "Paper" .
+ex:P04 ex:has_title "Automatic text summarization of scientific articles using transformers" .
+ex:P04 ex:published_year "2024" .
+ex:P04 ex:has_doi "10.32629/jai.v7i5.1331" .
+ex:P05 ex:rdf:type "Paper" .
+ex:P05 ex:has_title "Text Summarization Using Natural Language Processing" .
+ex:P05 ex:published_year "2024" .
+ex:P05 ex:has_doi "ISSN: 2320-2882" .
+ex:P06 ex:rdf:type "Paper" .
+ex:P06 ex:has_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:P06 ex:published_year "2020" .
+ex:P06 ex:has_doi "e-ISSN: 2395-0056" .
+ex:P07 ex:rdf:type "Paper" .
+ex:P07 ex:has_title "A Survey of Text Summarization Using NLP" .
+ex:P07 ex:published_year "2025" .
+ex:P07 ex:has_doi "ISSN:2455-1058" .
+ex:P08 ex:rdf:type "Paper" .
+ex:P08 ex:has_title "A Survey of Automatic Text Summarization" .
+ex:P08 ex:published_year "2014" .
+ex:P08 ex:has_doi "ISSN: 2278-0181" .
+ex:P09 ex:rdf:type "Paper" .
+ex:P09 ex:has_title "Research Paper Summarizer Using AI" .
+ex:P09 ex:published_year "2024" .
+ex:P09 ex:has_doi "e ISSN: 2584-2854" .
+ex:Mandira_Bairagi ex:rdf:type "Author" .
+ex:Mandira_Bairagi ex:has_name "Mandira Bairagi" .
+ex:Dr._Shalini_R._Lihitkar ex:rdf:type "Author" .
+ex:Dr._Shalini_R._Lihitkar ex:has_name "Dr. Shalini R. Lihitkar" .
+ex:Mrs._Abha_Pathak ex:rdf:type "Author" .
+ex:Mrs._Abha_Pathak ex:has_name "Mrs. Abha Pathak" .
+ex:Trupti_Pawar ex:rdf:type "Author" .
+ex:Trupti_Pawar ex:has_name "Trupti Pawar" .
+ex:Yogeshwari_Pawar ex:rdf:type "Author" .
+ex:Yogeshwari_Pawar ex:has_name "Yogeshwari Pawar" .
+ex:Shreya_pawar ex:rdf:type "Author" .
+ex:Shreya_pawar ex:has_name "Shreya pawar" .
+ex:Divakar_Yadav ex:rdf:type "Author" .
+ex:Divakar_Yadav ex:has_name "Divakar Yadav" .
+ex:Jalpa_Desai ex:rdf:type "Author" .
+ex:Jalpa_Desai ex:has_name "Jalpa Desai" .
+ex:Arun_Kumar_Yadav ex:rdf:type "Author" .
+ex:Arun_Kumar_Yadav ex:has_name "Arun Kumar Yadav" .
+ex:Seema_Aswani ex:rdf:type "Author" .
+ex:Seema_Aswani ex:has_name "Seema Aswani" .
+ex:Kabita_Choudhary ex:rdf:type "Author" .
+ex:Kabita_Choudhary ex:has_name "Kabita Choudhary" .
+ex:Sujala_Shetty ex:rdf:type "Author" .
+ex:Sujala_Shetty ex:has_name "Sujala Shetty" .
+ex:Nasheen_Nur ex:rdf:type "Author" .
+ex:Nasheen_Nur ex:has_name "Nasheen Nur" .
+ex:Sanjivani_Chandrashekhar_Kachare ex:rdf:type "Author" .
+ex:Sanjivani_Chandrashekhar_Kachare ex:has_name "Sanjivani Chandrashekhar Kachare" .
+ex:Manali_Udaykumar_Sawant ex:rdf:type "Author" .
+ex:Manali_Udaykumar_Sawant ex:has_name "Manali Udaykumar Sawant" .
+ex:Manasi_Suresh_Yadav ex:rdf:type "Author" .
+ex:Manasi_Suresh_Yadav ex:has_name "Manasi Suresh Yadav" .
+ex:Ms._Priyanka_Rajendra_Jadhav ex:rdf:type "Author" .
+ex:Ms._Priyanka_Rajendra_Jadhav ex:has_name "Ms. Priyanka Rajendra Jadhav" .
+ex:SUBASH_VOLETI ex:rdf:type "Author" .
+ex:SUBASH_VOLETI ex:has_name "SUBASH VOLETI" .
+ex:CHAITAN_RAJU ex:rdf:type "Author" .
+ex:CHAITAN_RAJU ex:has_name "CHAITAN RAJU" .
+ex:TEJA_RANI ex:rdf:type "Author" .
+ex:TEJA_RANI ex:has_name "TEJA RANI" .
+ex:MUGADA_SWETHA ex:rdf:type "Author" .
+ex:MUGADA_SWETHA ex:has_name "MUGADA SWETHA" .
+ex:Bhuvan_Shingade ex:rdf:type "Author" .
+ex:Bhuvan_Shingade ex:has_name "Bhuvan Shingade" .
+ex:Yash_Matha ex:rdf:type "Author" .
+ex:Yash_Matha ex:has_name "Yash Matha" .
+ex:Ved_Kolambkar ex:rdf:type "Author" .
+ex:Ved_Kolambkar ex:has_name "Ved Kolambkar" .
+ex:Suyash_Kasar ex:rdf:type "Author" .
+ex:Suyash_Kasar ex:has_name "Suyash Kasar" .
+ex:Prof._Rohini_Palve ex:rdf:type "Author" .
+ex:Prof._Rohini_Palve ex:has_name "Prof. Rohini Palve" .
+ex:Niharika_Verma ex:rdf:type "Author" .
+ex:Niharika_Verma ex:has_name "Niharika Verma" .
+ex:Prof._Ashish_Tiwari ex:rdf:type "Author" .
+ex:Prof._Ashish_Tiwari ex:has_name "Prof. Ashish Tiwari" .
+ex:G._Santhoshi ex:rdf:type "Author" .
+ex:G._Santhoshi ex:has_name "G. Santhoshi" .
+ex:M_Jyothi ex:rdf:type "Author" .
+ex:M_Jyothi ex:has_name "M Jyothi" .
+ex:Kovvuri_Ramya_Sri ex:rdf:type "Author" .
+ex:Kovvuri_Ramya_Sri ex:has_name "Kovvuri Ramya Sri" .
+ex:G._Hasika ex:rdf:type "Author" .
+ex:G._Hasika ex:has_name "G. Hasika" .
+ex:G._Varsha ex:rdf:type "Author" .
+ex:G._Varsha ex:has_name "G. Varsha" .
+ex:R._Snigdha ex:rdf:type "Author" .
+ex:R._Snigdha ex:has_name "R. Snigdha" .
+ex:Rashtrasant_Tukadoji_Maharaj_Nagpur_University ex:rdf:type "Institution" .
+ex:Rashtrasant_Tukadoji_Maharaj_Nagpur_University ex:has_name "Rashtrasant Tukadoji Maharaj Nagpur University" .
+ex:Patil_College_of_Engineering_and_Innovation ex:rdf:type "Institution" .
+ex:Patil_College_of_Engineering_and_Innovation ex:has_name "Patil College of Engineering and Innovation" .
+ex:Birla_Institute_of_Technology_and_Science ex:rdf:type "Institution" .
+ex:Birla_Institute_of_Technology_and_Science ex:has_name "Birla Institute of Technology and Science" .
+ex:Florida_Institute_of_Technology ex:rdf:type "Institution" .
+ex:Florida_Institute_of_Technology ex:has_name "Florida Institute of Technology" .
+ex:LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY ex:rdf:type "Institution" .
+ex:LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY ex:has_name "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+ex:Terna_Engineering_College ex:rdf:type "Institution" .
+ex:Terna_Engineering_College ex:has_name "Terna Engineering College" .
+ex:Rajiv_Gandhi_Technical_University_Airport_Road ex:rdf:type "Institution" .
+ex:Rajiv_Gandhi_Technical_University_Airport_Road ex:has_name "Rajiv Gandhi Technical University Airport Road" .
+ex:2_Vindhya_Institute_of_Technology_and_Science_Umrikheda ex:rdf:type "Institution" .
+ex:2_Vindhya_Institute_of_Technology_and_Science_Umrikheda ex:has_name "2 Vindhya Institute of Technology and Science Umrikheda" .
+ex:Narayanamma_Institute_of_Technology_and__Science_for_Women ex:rdf:type "Institution" .
+ex:Narayanamma_Institute_of_Technology_and__Science_for_Women ex:has_name "Narayanamma Institute of Technology and  Science for Women" .
+ex:Narayanamma_Institute_of_Technology_and_Science_for_Women ex:rdf:type "Institution" .
+ex:Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_name "Narayanamma Institute of Technology and Science for Women" .
+ex:IEEE_Access ex:rdf:type "Journal" .
+ex:IEEE_Access ex:has_name "IEEE Access" .
+ex:International_Journal_on_Advanced_Computer_Theory_and_Engineering ex:rdf:type "Journal" .
+ex:International_Journal_on_Advanced_Computer_Theory_and_Engineering ex:has_name "International Journal on Advanced Computer Theory and Engineering" .
+ex:Journal_of_Autonomous_Intelligence ex:rdf:type "Journal" .
+ex:Journal_of_Autonomous_Intelligence ex:has_name "Journal of Autonomous Intelligence" .
+ex:IJCRT ex:rdf:type "Journal" .
+ex:IJCRT ex:has_name "IJCRT" .
+ex:International_Research_Journal_of_Engineering_and_Technology_(IRJET) ex:rdf:type "Journal" .
+ex:International_Research_Journal_of_Engineering_and_Technology_(IRJET) ex:has_name "International Research Journal of Engineering and Technology (IRJET)" .
+ex:SIRJANA_JOURNAL ex:rdf:type "Journal" .
+ex:SIRJANA_JOURNAL ex:has_name "SIRJANA JOURNAL" .
+ex:International_Journal_of_Engineering_Research_&_Technology_(IJERT) ex:rdf:type "Journal" .
+ex:International_Journal_of_Engineering_Research_&_Technology_(IJERT) ex:has_name "International Journal of Engineering Research & Technology (IJERT)" .
+ex:International_Research_Journal_on_Advanced_Engineering_and_Management ex:rdf:type "Journal" .
+ex:International_Research_Journal_on_Advanced_Engineering_and_Management ex:has_name "International Research Journal on Advanced Engineering and Management" .
+ex:Artificial_intelligence ex:rdf:type "Keyword" .
+ex:Artificial_intelligence ex:has_name "Artificial intelligence" .
+ex:Artificial_Intelligence_Tools ex:rdf:type "Keyword" .
+ex:Artificial_Intelligence_Tools ex:has_name "Artificial Intelligence Tools" .
+ex:Research_communication ex:rdf:type "Keyword" .
+ex:Research_communication ex:has_name "Research communication" .
+ex:Scholarly_publication ex:rdf:type "Keyword" .
+ex:Scholarly_publication ex:has_name "Scholarly publication" .
+ex:NLP ex:rdf:type "Keyword" .
+ex:NLP ex:has_name "NLP" .
+ex:evaluate_summarization_models_using_Python ex:rdf:type "Keyword" .
+ex:evaluate_summarization_models_using_Python ex:has_name "evaluate summarization models using Python" .
+ex:Automatic_text_summarization ex:rdf:type "Keyword" .
+ex:Automatic_text_summarization ex:has_name "Automatic text summarization" .
+ex:Natural_Language_Processing ex:rdf:type "Keyword" .
+ex:Natural_Language_Processing ex:has_name "Natural Language Processing" .
+ex:Categorization_of_text_summarization__system ex:rdf:type "Keyword" .
+ex:Categorization_of_text_summarization__system ex:has_name "Categorization of text summarization  system" .
+ex:natural_language_processing;_long_document_summarization;_transformers;_multi-headed_attention;_scientific_article_summarization ex:rdf:type "Keyword" .
+ex:natural_language_processing;_long_document_summarization;_transformers;_multi-headed_attention;_scientific_article_summarization ex:has_name "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization" .
+ex:Text_Summarization ex:rdf:type "Keyword" .
+ex:Text_Summarization ex:has_name "Text Summarization" .
+ex:Text_Rank ex:rdf:type "Keyword" .
+ex:Text_Rank ex:has_name "Text Rank" .
+ex:OCR ex:rdf:type "Keyword" .
+ex:OCR ex:has_name "OCR" .
+ex:Open_AI ex:rdf:type "Keyword" .
+ex:Open_AI ex:has_name "Open AI" .
+ex:Text_Rank_Algorithm ex:rdf:type "Keyword" .
+ex:Text_Rank_Algorithm ex:has_name "Text Rank Algorithm" .
+ex:NLTK ex:rdf:type "Keyword" .
+ex:NLTK ex:has_name "NLTK" .
+ex:GTTS(Google_Text_To_Speech)_API ex:rdf:type "Keyword" .
+ex:GTTS(Google_Text_To_Speech)_API ex:has_name "GTTS(Google Text To Speech) API" .
+ex:Extractive_Text_Summarization ex:rdf:type "Keyword" .
+ex:Extractive_Text_Summarization ex:has_name "Extractive Text Summarization" .
+ex:Machine_Learning ex:rdf:type "Keyword" .
+ex:Machine_Learning ex:has_name "Machine Learning" .
+ex:Natural_Language_Processing(NLP) ex:rdf:type "Keyword" .
+ex:Natural_Language_Processing(NLP) ex:has_name "Natural Language Processing(NLP)" .
+ex:Long_term_short_memory(LSTM) ex:rdf:type "Keyword" .
+ex:Long_term_short_memory(LSTM) ex:has_name "Long term short memory(LSTM)" .
+ex:Abstractive_Summarization ex:rdf:type "Keyword" .
+ex:Abstractive_Summarization ex:has_name "Abstractive Summarization" .
+ex:Extractive_Summarization. ex:rdf:type "Keyword" .
+ex:Extractive_Summarization. ex:has_name "Extractive Summarization." .
+ex:abstraction-predicated_summary ex:rdf:type "Keyword" .
+ex:abstraction-predicated_summary ex:has_name "abstraction-predicated summary" .
+ex:automatic_text_summarization ex:rdf:type "Keyword" .
+ex:automatic_text_summarization ex:has_name "automatic text summarization" .
+ex:extraction_summary ex:rdf:type "Keyword" .
+ex:extraction_summary ex:has_name "extraction summary" .
+ex:feature_extraction ex:rdf:type "Keyword" .
+ex:feature_extraction ex:has_name "feature extraction" .
+ex:text_reduction. ex:rdf:type "Keyword" .
+ex:text_reduction. ex:has_name "text reduction." .
+ex:Natural_Language_Processing_(NLP) ex:rdf:type "Keyword" .
+ex:Natural_Language_Processing_(NLP) ex:has_name "Natural Language Processing (NLP)" .
+ex:Highlighting_Keywords ex:rdf:type "Keyword" .
+ex:Highlighting_Keywords ex:has_name "Highlighting Keywords" .
+ex:Read_Aloud ex:rdf:type "Keyword" .
+ex:Read_Aloud ex:has_name "Read Aloud" .
+ex:Plagiarism ex:rdf:type "Keyword" .
+ex:Plagiarism ex:has_name "Plagiarism" .
+ex:Images ex:rdf:type "Keyword" .
+ex:Images ex:has_name "Images" .
+ex:Research. ex:rdf:type "Keyword" .
+ex:Research. ex:has_name "Research." .
+ex:Artificial_Intelligence_Tools ex:rdf:type "Domain" .
+ex:Artificial_Intelligence_Tools ex:has_name "Artificial Intelligence Tools" .
+ex:Natural_Language_Processing_(NLP) ex:rdf:type "Domain" .
+ex:Natural_Language_Processing_(NLP) ex:has_name "Natural Language Processing (NLP)" .
+ex:NLP ex:rdf:type "Domain" .
+ex:NLP ex:has_name "NLP" .
+ex:Natural_Language_Processing ex:rdf:type "Domain" .
+ex:Natural_Language_Processing ex:has_name "Natural Language Processing" .
+ex:CNN ex:rdf:type "Domain" .
+ex:CNN ex:has_name "CNN" .
+ex:Open_AI ex:rdf:type "Domain" .
+ex:Open_AI ex:has_name "Open AI" .
+ex:GTTS(Google_Text_To_Speech)_API ex:rdf:type "Domain" .
+ex:GTTS(Google_Text_To_Speech)_API ex:has_name "GTTS(Google Text To Speech) API" .
+ex:Machine_Learning ex:rdf:type "Domain" .
+ex:Machine_Learning ex:has_name "Machine Learning" .
+ex:Long_term_short_memory(LSTM) ex:rdf:type "Domain" .
+ex:Long_term_short_memory(LSTM) ex:has_name "Long term short memory(LSTM)" .
+ex:Natural_Language_Processing(NLP) ex:rdf:type "Domain" .
+ex:Natural_Language_Processing(NLP) ex:has_name "Natural Language Processing(NLP)" .
+ex:Automatic_Text_Summarization ex:rdf:type "Domain" .
+ex:Automatic_Text_Summarization ex:has_name "Automatic Text Summarization" .
+ex:Natural_Language_Toolkit_(NLTK) ex:rdf:type "Domain" .
+ex:Natural_Language_Toolkit_(NLTK) ex:has_name "Natural Language Toolkit (NLTK)" .
+ex:R001 ex:rdf:type "Reference" .
+ex:R001 ex:has_title "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Techniques" .
+ex:R001 ex:cited_year "2023" .
+ex:R001 ex:citation_count "8" .
+ex:R001 ex:has_link "https://doi.org/10.1108/ejim-02-2023-0156" .
+ex:R002 ex:rdf:type "Reference" .
+ex:R002 ex:has_title "SmartNews: AI-Powered News Summarizer" .
+ex:R002 ex:cited_year "2025" .
+ex:R002 ex:has_link "https://journals.mriindia.com" .
+ex:R003 ex:rdf:type "Reference" .
+ex:R003 ex:has_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:R003 ex:cited_year "2023" .
+ex:R003 ex:citation_count "25" .
+ex:R003 ex:has_link "https://orcid.org/0000-0001-6051-479X" .
+ex:R004 ex:rdf:type "Reference" .
+ex:R004 ex:has_title "Automatic text summarization of scientific articles using transformers-A brief review" .
+ex:R004 ex:cited_year "2024" .
+ex:R004 ex:citation_count "2" .
+ex:R004 ex:has_link "https://doi.org/10.32629/jai.v7i5.1331" .
+ex:R005 ex:rdf:type "Reference" .
+ex:R005 ex:has_title "Text Summarization Using Natural Language Processing" .
+ex:R005 ex:cited_year "2024" .
+ex:R005 ex:citation_count "3" .
+ex:R005 ex:has_link "https://www.ijcrt.org" .
+ex:R006 ex:rdf:type "Reference" .
+ex:R006 ex:has_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:R006 ex:cited_year "2020" .
+ex:R006 ex:citation_count "10" .
+ex:R006 ex:has_link "https://www.irjet.net" .
+ex:R007 ex:rdf:type "Reference" .
+ex:R007 ex:has_title "A Survey of Text Summarization Using NLP" .
+ex:R007 ex:cited_year "2023" .
+ex:R007 ex:citation_count "2" .
+ex:R007 ex:has_link "https://sirjana.in" .
+ex:R008 ex:rdf:type "Reference" .
+ex:R008 ex:has_title "A Survey of Automatic Text Summarization" .
+ex:R008 ex:cited_year "2014" .
+ex:R008 ex:citation_count "15" .
+ex:R008 ex:has_link "https://www.irjet.net" .
+ex:R009 ex:rdf:type "Reference" .
+ex:R009 ex:has_title "Research Paper Summarizer Using AI" .
+ex:R009 ex:cited_year "2024" .
+ex:R009 ex:citation_count "1" .
+ex:R009 ex:has_link "https://doi.org/10.47392/IRJAEM.2024.0374" .
+ex:Mandira_Bairagi ex:AUTHORED "P01" .
+ex:Mandira_Bairagi_AUTHORED_P01 ex:has_year "2024" .
+ex:Mandira_Bairagi_AUTHORED_P01 ex:has_paper_title "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+ex:Dr._Shalini_R._Lihitkar ex:AUTHORED "P01" .
+ex:Dr._Shalini_R._Lihitkar_AUTHORED_P01 ex:has_year "2024" .
+ex:Dr._Shalini_R._Lihitkar_AUTHORED_P01 ex:has_paper_title "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+ex:Mrs._Abha_Pathak ex:AUTHORED "P02" .
+ex:Mrs._Abha_Pathak_AUTHORED_P02 ex:has_year "2025" .
+ex:Mrs._Abha_Pathak_AUTHORED_P02 ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Trupti_Pawar ex:AUTHORED "P02" .
+ex:Trupti_Pawar_AUTHORED_P02 ex:has_year "2025" .
+ex:Trupti_Pawar_AUTHORED_P02 ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Yogeshwari_Pawar ex:AUTHORED "P02" .
+ex:Yogeshwari_Pawar_AUTHORED_P02 ex:has_year "2025" .
+ex:Yogeshwari_Pawar_AUTHORED_P02 ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Shreya_pawar ex:AUTHORED "P02" .
+ex:Shreya_pawar_AUTHORED_P02 ex:has_year "2025" .
+ex:Shreya_pawar_AUTHORED_P02 ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Divakar_Yadav ex:AUTHORED "P03" .
+ex:Divakar_Yadav_AUTHORED_P03 ex:has_year "2024" .
+ex:Divakar_Yadav_AUTHORED_P03 ex:has_paper_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:Jalpa_Desai ex:AUTHORED "P03" .
+ex:Jalpa_Desai_AUTHORED_P03 ex:has_year "2024" .
+ex:Jalpa_Desai_AUTHORED_P03 ex:has_paper_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:Arun_Kumar_Yadav ex:AUTHORED "P03" .
+ex:Arun_Kumar_Yadav_AUTHORED_P03 ex:has_year "2024" .
+ex:Arun_Kumar_Yadav_AUTHORED_P03 ex:has_paper_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:Seema_Aswani ex:AUTHORED "P04" .
+ex:Seema_Aswani_AUTHORED_P04 ex:has_year "2024" .
+ex:Seema_Aswani_AUTHORED_P04 ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Kabita_Choudhary ex:AUTHORED "P04" .
+ex:Kabita_Choudhary_AUTHORED_P04 ex:has_year "2024" .
+ex:Kabita_Choudhary_AUTHORED_P04 ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Sujala_Shetty ex:AUTHORED "P04" .
+ex:Sujala_Shetty_AUTHORED_P04 ex:has_year "2024" .
+ex:Sujala_Shetty_AUTHORED_P04 ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Nasheen_Nur ex:AUTHORED "P04" .
+ex:Nasheen_Nur_AUTHORED_P04 ex:has_year "2024" .
+ex:Nasheen_Nur_AUTHORED_P04 ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Sanjivani_Chandrashekhar_Kachare ex:AUTHORED "P05" .
+ex:Sanjivani_Chandrashekhar_Kachare_AUTHORED_P05 ex:has_year "2024" .
+ex:Sanjivani_Chandrashekhar_Kachare_AUTHORED_P05 ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Manali_Udaykumar_Sawant ex:AUTHORED "P05" .
+ex:Manali_Udaykumar_Sawant_AUTHORED_P05 ex:has_year "2024" .
+ex:Manali_Udaykumar_Sawant_AUTHORED_P05 ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Manasi_Suresh_Yadav ex:AUTHORED "P05" .
+ex:Manasi_Suresh_Yadav_AUTHORED_P05 ex:has_year "2024" .
+ex:Manasi_Suresh_Yadav_AUTHORED_P05 ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Ms._Priyanka_Rajendra_Jadhav ex:AUTHORED "P05" .
+ex:Ms._Priyanka_Rajendra_Jadhav_AUTHORED_P05 ex:has_year "2024" .
+ex:Ms._Priyanka_Rajendra_Jadhav_AUTHORED_P05 ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:SUBASH_VOLETI ex:AUTHORED "P06" .
+ex:SUBASH_VOLETI_AUTHORED_P06 ex:has_year "2020" .
+ex:SUBASH_VOLETI_AUTHORED_P06 ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:CHAITAN_RAJU ex:AUTHORED "P06" .
+ex:CHAITAN_RAJU_AUTHORED_P06 ex:has_year "2020" .
+ex:CHAITAN_RAJU_AUTHORED_P06 ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:TEJA_RANI ex:AUTHORED "P06" .
+ex:TEJA_RANI_AUTHORED_P06 ex:has_year "2020" .
+ex:TEJA_RANI_AUTHORED_P06 ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:MUGADA_SWETHA ex:AUTHORED "P06" .
+ex:MUGADA_SWETHA_AUTHORED_P06 ex:has_year "2020" .
+ex:MUGADA_SWETHA_AUTHORED_P06 ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:Bhuvan_Shingade ex:AUTHORED "P07" .
+ex:Bhuvan_Shingade_AUTHORED_P07 ex:has_year "2025" .
+ex:Bhuvan_Shingade_AUTHORED_P07 ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Yash_Matha ex:AUTHORED "P07" .
+ex:Yash_Matha_AUTHORED_P07 ex:has_year "2025" .
+ex:Yash_Matha_AUTHORED_P07 ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Ved_Kolambkar ex:AUTHORED "P07" .
+ex:Ved_Kolambkar_AUTHORED_P07 ex:has_year "2025" .
+ex:Ved_Kolambkar_AUTHORED_P07 ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Suyash_Kasar ex:AUTHORED "P07" .
+ex:Suyash_Kasar_AUTHORED_P07 ex:has_year "2025" .
+ex:Suyash_Kasar_AUTHORED_P07 ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Prof._Rohini_Palve ex:AUTHORED "P07" .
+ex:Prof._Rohini_Palve_AUTHORED_P07 ex:has_year "2025" .
+ex:Prof._Rohini_Palve_AUTHORED_P07 ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Niharika_Verma ex:AUTHORED "P08" .
+ex:Niharika_Verma_AUTHORED_P08 ex:has_year "2014" .
+ex:Niharika_Verma_AUTHORED_P08 ex:has_paper_title "A Survey of Automatic Text Summarization" .
+ex:Prof._Ashish_Tiwari ex:AUTHORED "P08" .
+ex:Prof._Ashish_Tiwari_AUTHORED_P08 ex:has_year "2014" .
+ex:Prof._Ashish_Tiwari_AUTHORED_P08 ex:has_paper_title "A Survey of Automatic Text Summarization" .
+ex:G._Santhoshi ex:AUTHORED "P09" .
+ex:G._Santhoshi_AUTHORED_P09 ex:has_year "2024" .
+ex:G._Santhoshi_AUTHORED_P09 ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:M_Jyothi ex:AUTHORED "P09" .
+ex:M_Jyothi_AUTHORED_P09 ex:has_year "2024" .
+ex:M_Jyothi_AUTHORED_P09 ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:Kovvuri_Ramya_Sri ex:AUTHORED "P09" .
+ex:Kovvuri_Ramya_Sri_AUTHORED_P09 ex:has_year "2024" .
+ex:Kovvuri_Ramya_Sri_AUTHORED_P09 ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Hasika ex:AUTHORED "P09" .
+ex:G._Hasika_AUTHORED_P09 ex:has_year "2024" .
+ex:G._Hasika_AUTHORED_P09 ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Varsha ex:AUTHORED "P09" .
+ex:G._Varsha_AUTHORED_P09 ex:has_year "2024" .
+ex:G._Varsha_AUTHORED_P09 ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:R._Snigdha ex:AUTHORED "P09" .
+ex:R._Snigdha_AUTHORED_P09 ex:has_year "2024" .
+ex:R._Snigdha_AUTHORED_P09 ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:P01 ex:PUBLISHED_IN "IEEE Access" .
+ex:P01_PUBLISHED_IN_IEEE_Access ex:has_year "2024" .
+ex:P01_PUBLISHED_IN_IEEE_Access ex:has_doi " 10.1109/ACCESS.2025.3536205" .
+ex:P02 ex:PUBLISHED_IN "International Journal on Advanced Computer Theory and Engineering" .
+ex:P02_PUBLISHED_IN_International_Journal_on_Advanced_Computer_Theory_and_Engineering ex:has_year "2025" .
+ex:P02_PUBLISHED_IN_International_Journal_on_Advanced_Computer_Theory_and_Engineering ex:has_doi "ISSN: 2319-2526" .
+ex:P03 ex:PUBLISHED_IN "IEEE Access" .
+ex:P03_PUBLISHED_IN_IEEE_Access ex:has_year "2024" .
+ex:P03_PUBLISHED_IN_IEEE_Access ex:has_doi "10.1109/TCC.2025.3612322" .
+ex:P04 ex:PUBLISHED_IN "Journal of Autonomous Intelligence" .
+ex:P04_PUBLISHED_IN_Journal_of_Autonomous_Intelligence ex:has_year "2024" .
+ex:P04_PUBLISHED_IN_Journal_of_Autonomous_Intelligence ex:has_doi " 10.32629/jai.v7i5.1331" .
+ex:P05 ex:PUBLISHED_IN "IJCRT" .
+ex:P05_PUBLISHED_IN_IJCRT ex:has_year "2024" .
+ex:P05_PUBLISHED_IN_IJCRT ex:has_doi "ISSN: 2320-2882" .
+ex:P06 ex:PUBLISHED_IN "International Research Journal of Engineering and Technology (IRJET)" .
+ex:P06_PUBLISHED_IN_International_Research_Journal_of_Engineering_and_Technology_(IRJET) ex:has_year "2020" .
+ex:P06_PUBLISHED_IN_International_Research_Journal_of_Engineering_and_Technology_(IRJET) ex:has_doi "e-ISSN: 2395-0056" .
+ex:P07 ex:PUBLISHED_IN "SIRJANA JOURNAL" .
+ex:P07_PUBLISHED_IN_SIRJANA_JOURNAL ex:has_year "2025" .
+ex:P07_PUBLISHED_IN_SIRJANA_JOURNAL ex:has_doi "ISSN:2455-1058" .
+ex:P08 ex:PUBLISHED_IN "International Journal of Engineering Research & Technology (IJERT)" .
+ex:P08_PUBLISHED_IN_International_Journal_of_Engineering_Research_&_Technology_(IJERT) ex:has_year "2014" .
+ex:P08_PUBLISHED_IN_International_Journal_of_Engineering_Research_&_Technology_(IJERT) ex:has_doi "ISSN: 2278-0181" .
+ex:P09 ex:PUBLISHED_IN "International Research Journal on Advanced Engineering and Management" .
+ex:P09_PUBLISHED_IN_International_Research_Journal_on_Advanced_Engineering_and_Management ex:has_year "2024" .
+ex:P09_PUBLISHED_IN_International_Research_Journal_on_Advanced_Engineering_and_Management ex:has_doi "e ISSN: 2584-2854 " .
+ex:P01 ex:HAS_KEYWORD "Artificial intelligence" .
+ex:P01 ex:HAS_KEYWORD "Artificial Intelligence Tools" .
+ex:P01 ex:HAS_KEYWORD "Research communication" .
+ex:P01 ex:HAS_KEYWORD "Scholarly publication" .
+ex:P02 ex:HAS_KEYWORD "NLP" .
+ex:P02 ex:HAS_KEYWORD "evaluate summarization models using Python" .
+ex:P03 ex:HAS_KEYWORD "Automatic text summarization" .
+ex:P03 ex:HAS_KEYWORD "Natural Language Processing" .
+ex:P03 ex:HAS_KEYWORD "Categorization of text summarization  system" .
+ex:P04 ex:HAS_KEYWORD "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization" .
+ex:P05 ex:HAS_KEYWORD "NLP" .
+ex:P05 ex:HAS_KEYWORD "Text Summarization" .
+ex:P05 ex:HAS_KEYWORD "Text Rank" .
+ex:P05 ex:HAS_KEYWORD "OCR" .
+ex:P05 ex:HAS_KEYWORD "Open AI" .
+ex:P06 ex:HAS_KEYWORD "Text Summarization" .
+ex:P06 ex:HAS_KEYWORD "Text Rank Algorithm" .
+ex:P06 ex:HAS_KEYWORD "NLTK" .
+ex:P06 ex:HAS_KEYWORD "GTTS(Google Text To Speech) API" .
+ex:P06 ex:HAS_KEYWORD "Extractive Text Summarization" .
+ex:P07 ex:HAS_KEYWORD "Machine Learning" .
+ex:P07 ex:HAS_KEYWORD "Natural Language Processing(NLP)" .
+ex:P07 ex:HAS_KEYWORD "Long term short memory(LSTM)" .
+ex:P07 ex:HAS_KEYWORD "Abstractive Summarization" .
+ex:P07 ex:HAS_KEYWORD "Extractive Summarization." .
+ex:P08 ex:HAS_KEYWORD "abstraction-predicated summary" .
+ex:P08 ex:HAS_KEYWORD "automatic text summarization" .
+ex:P08 ex:HAS_KEYWORD "extraction summary" .
+ex:P08 ex:HAS_KEYWORD "feature extraction" .
+ex:P08 ex:HAS_KEYWORD "text reduction." .
+ex:P09 ex:HAS_KEYWORD "Natural Language Processing (NLP)" .
+ex:P09 ex:HAS_KEYWORD "Highlighting Keywords" .
+ex:P09 ex:HAS_KEYWORD "Read Aloud" .
+ex:P09 ex:HAS_KEYWORD "Plagiarism" .
+ex:P09 ex:HAS_KEYWORD "Images" .
+ex:P09 ex:HAS_KEYWORD "Research." .
+ex:P01 ex:BELONGS_TO_DOMAIN "Artificial Intelligence Tools" .
+ex:P02 ex:BELONGS_TO_DOMAIN "Natural Language Processing (NLP)" .
+ex:P03 ex:BELONGS_TO_DOMAIN "NLP" .
+ex:P04 ex:BELONGS_TO_DOMAIN "Natural Language Processing" .
+ex:P04 ex:BELONGS_TO_DOMAIN "CNN" .
+ex:P05 ex:BELONGS_TO_DOMAIN "NLP" .
+ex:P05 ex:BELONGS_TO_DOMAIN "Open AI" .
+ex:P06 ex:BELONGS_TO_DOMAIN "GTTS(Google Text To Speech) API" .
+ex:P07 ex:BELONGS_TO_DOMAIN "Machine Learning" .
+ex:P07 ex:BELONGS_TO_DOMAIN "Long term short memory(LSTM)" .
+ex:P07 ex:BELONGS_TO_DOMAIN "Natural Language Processing(NLP)" .
+ex:P08 ex:BELONGS_TO_DOMAIN "Automatic Text Summarization" .
+ex:P09 ex:BELONGS_TO_DOMAIN "Natural Language Toolkit (NLTK)" .
+ex:Mandira_Bairagi ex:AFFILIATED_WITH "Rashtrasant Tukadoji Maharaj Nagpur University" .
+ex:Mandira_Bairagi_AFFILIATED_WITH_Rashtrasant_Tukadoji_Maharaj_Nagpur_University ex:has_paper_id "P01" .
+ex:Dr._Shalini_R._Lihitkar ex:AFFILIATED_WITH "Rashtrasant Tukadoji Maharaj Nagpur University" .
+ex:Dr._Shalini_R._Lihitkar_AFFILIATED_WITH_Rashtrasant_Tukadoji_Maharaj_Nagpur_University ex:has_paper_id "P01" .
+ex:Mrs._Abha_Pathak ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Mrs._Abha_Pathak_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Mrs._Abha_Pathak ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Mrs._Abha_Pathak_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Trupti_Pawar ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Trupti_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Trupti_Pawar ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Trupti_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Yogeshwari_Pawar ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Yogeshwari_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Yogeshwari_Pawar ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Yogeshwari_Pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Shreya_pawar ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Shreya_pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Shreya_pawar ex:AFFILIATED_WITH "Patil College of Engineering and Innovation" .
+ex:Shreya_pawar_AFFILIATED_WITH_Patil_College_of_Engineering_and_Innovation ex:has_paper_id "P02" .
+ex:Seema_Aswani ex:AFFILIATED_WITH "Birla Institute of Technology and Science" .
+ex:Seema_Aswani_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science ex:has_paper_id "P04" .
+ex:Seema_Aswani ex:AFFILIATED_WITH "Florida Institute of Technology" .
+ex:Seema_Aswani_AFFILIATED_WITH_Florida_Institute_of_Technology ex:has_paper_id "P04" .
+ex:Kabita_Choudhary ex:AFFILIATED_WITH "Birla Institute of Technology and Science" .
+ex:Kabita_Choudhary_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science ex:has_paper_id "P04" .
+ex:Kabita_Choudhary ex:AFFILIATED_WITH "Florida Institute of Technology" .
+ex:Kabita_Choudhary_AFFILIATED_WITH_Florida_Institute_of_Technology ex:has_paper_id "P04" .
+ex:Sujala_Shetty ex:AFFILIATED_WITH "Birla Institute of Technology and Science" .
+ex:Sujala_Shetty_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science ex:has_paper_id "P04" .
+ex:Sujala_Shetty ex:AFFILIATED_WITH "Florida Institute of Technology" .
+ex:Sujala_Shetty_AFFILIATED_WITH_Florida_Institute_of_Technology ex:has_paper_id "P04" .
+ex:Nasheen_Nur ex:AFFILIATED_WITH "Birla Institute of Technology and Science" .
+ex:Nasheen_Nur_AFFILIATED_WITH_Birla_Institute_of_Technology_and_Science ex:has_paper_id "P04" .
+ex:Nasheen_Nur ex:AFFILIATED_WITH "Florida Institute of Technology" .
+ex:Nasheen_Nur_AFFILIATED_WITH_Florida_Institute_of_Technology ex:has_paper_id "P04" .
+ex:SUBASH_VOLETI ex:AFFILIATED_WITH "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+ex:SUBASH_VOLETI_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY ex:has_paper_id "P06" .
+ex:CHAITAN_RAJU ex:AFFILIATED_WITH "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+ex:CHAITAN_RAJU_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY ex:has_paper_id "P06" .
+ex:TEJA_RANI ex:AFFILIATED_WITH "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+ex:TEJA_RANI_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY ex:has_paper_id "P06" .
+ex:MUGADA_SWETHA ex:AFFILIATED_WITH "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY" .
+ex:MUGADA_SWETHA_AFFILIATED_WITH_LENDI_INSTITUTE_OF_ENGINEERING_AND_TECHNOLOGY ex:has_paper_id "P06" .
+ex:Bhuvan_Shingade ex:AFFILIATED_WITH "Terna Engineering College" .
+ex:Bhuvan_Shingade_AFFILIATED_WITH_Terna_Engineering_College ex:has_paper_id "P07" .
+ex:Yash_Matha ex:AFFILIATED_WITH "Terna Engineering College" .
+ex:Yash_Matha_AFFILIATED_WITH_Terna_Engineering_College ex:has_paper_id "P07" .
+ex:Ved_Kolambkar ex:AFFILIATED_WITH "Terna Engineering College" .
+ex:Ved_Kolambkar_AFFILIATED_WITH_Terna_Engineering_College ex:has_paper_id "P07" .
+ex:Suyash_Kasar ex:AFFILIATED_WITH "Terna Engineering College" .
+ex:Suyash_Kasar_AFFILIATED_WITH_Terna_Engineering_College ex:has_paper_id "P07" .
+ex:Prof._Rohini_Palve ex:AFFILIATED_WITH "Terna Engineering College" .
+ex:Prof._Rohini_Palve_AFFILIATED_WITH_Terna_Engineering_College ex:has_paper_id "P07" .
+ex:Niharika_Verma ex:AFFILIATED_WITH "Rajiv Gandhi Technical University Airport Road" .
+ex:Niharika_Verma_AFFILIATED_WITH_Rajiv_Gandhi_Technical_University_Airport_Road ex:has_paper_id "P08" .
+ex:Niharika_Verma ex:AFFILIATED_WITH "2 Vindhya Institute of Technology and Science Umrikheda" .
+ex:Niharika_Verma_AFFILIATED_WITH_2_Vindhya_Institute_of_Technology_and_Science_Umrikheda ex:has_paper_id "P08" .
+ex:Prof._Ashish_Tiwari ex:AFFILIATED_WITH "Rajiv Gandhi Technical University Airport Road" .
+ex:Prof._Ashish_Tiwari_AFFILIATED_WITH_Rajiv_Gandhi_Technical_University_Airport_Road ex:has_paper_id "P08" .
+ex:Prof._Ashish_Tiwari ex:AFFILIATED_WITH "2 Vindhya Institute of Technology and Science Umrikheda" .
+ex:Prof._Ashish_Tiwari_AFFILIATED_WITH_2_Vindhya_Institute_of_Technology_and_Science_Umrikheda ex:has_paper_id "P08" .
+ex:G._Santhoshi ex:AFFILIATED_WITH "Narayanamma Institute of Technology and  Science for Women" .
+ex:G._Santhoshi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women ex:has_paper_id "P09" .
+ex:G._Santhoshi ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:G._Santhoshi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:G._Santhoshi ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:G._Santhoshi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:M_Jyothi ex:AFFILIATED_WITH "Narayanamma Institute of Technology and  Science for Women" .
+ex:M_Jyothi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women ex:has_paper_id "P09" .
+ex:M_Jyothi ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:M_Jyothi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:M_Jyothi ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:M_Jyothi_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:Kovvuri_Ramya_Sri ex:AFFILIATED_WITH "Narayanamma Institute of Technology and  Science for Women" .
+ex:Kovvuri_Ramya_Sri_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women ex:has_paper_id "P09" .
+ex:Kovvuri_Ramya_Sri ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:Kovvuri_Ramya_Sri_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:Kovvuri_Ramya_Sri ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:Kovvuri_Ramya_Sri_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:G._Hasika ex:AFFILIATED_WITH "Narayanamma Institute of Technology and  Science for Women" .
+ex:G._Hasika_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women ex:has_paper_id "P09" .
+ex:G._Hasika ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:G._Hasika_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:G._Hasika ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:G._Hasika_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:G._Varsha ex:AFFILIATED_WITH "Narayanamma Institute of Technology and  Science for Women" .
+ex:G._Varsha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women ex:has_paper_id "P09" .
+ex:G._Varsha ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:G._Varsha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:G._Varsha ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:G._Varsha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:R._Snigdha ex:AFFILIATED_WITH "Narayanamma Institute of Technology and  Science for Women" .
+ex:R._Snigdha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and__Science_for_Women ex:has_paper_id "P09" .
+ex:R._Snigdha ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:R._Snigdha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:R._Snigdha ex:AFFILIATED_WITH "Narayanamma Institute of Technology and Science for Women" .
+ex:R._Snigdha_AFFILIATED_WITH_Narayanamma_Institute_of_Technology_and_Science_for_Women ex:has_paper_id "P09" .
+ex:P01 ex:CITES "R001" .
+ex:P01_CITES_R001 ex:has_citation_count "8" .
+ex:P01_CITES_R001 ex:has_cited_year "2023" .
+ex:P02 ex:CITES "R002" .
+ex:P02_CITES_R002 ex:has_citation_count "0" .
+ex:P02_CITES_R002 ex:has_cited_year "2025" .
+ex:P03 ex:CITES "R003" .
+ex:P03_CITES_R003 ex:has_citation_count "25" .
+ex:P03_CITES_R003 ex:has_cited_year "2023" .
+ex:P04 ex:CITES "R004" .
+ex:P04_CITES_R004 ex:has_citation_count "2" .
+ex:P04_CITES_R004 ex:has_cited_year "2024" .
+ex:P05 ex:CITES "R005" .
+ex:P05_CITES_R005 ex:has_citation_count "3" .
+ex:P05_CITES_R005 ex:has_cited_year "2024" .
+ex:P06 ex:CITES "R006" .
+ex:P06_CITES_R006 ex:has_citation_count "10" .
+ex:P06_CITES_R006 ex:has_cited_year "2020" .
+ex:P07 ex:CITES "R007" .
+ex:P07_CITES_R007 ex:has_citation_count "2" .
+ex:P07_CITES_R007 ex:has_cited_year "2023" .
+ex:P08 ex:CITES "R008" .
+ex:P08_CITES_R008 ex:has_citation_count "15" .
+ex:P08_CITES_R008 ex:has_cited_year "2014" .
+ex:P9 ex:CITES "R009" .
+ex:P9_CITES_R009 ex:has_citation_count "1" .
+ex:P9_CITES_R009 ex:has_cited_year "2024" .
+ex:P02 ex:SHARES_TOPIC "P05" .
+ex:P02_SHARES_TOPIC_P05 ex:has_shared_keyword "NLP" .
+ex:P05 ex:SHARES_TOPIC "P06" .
+ex:P05_SHARES_TOPIC_P06 ex:has_shared_keyword "Text Summarization" .
+ex:P03 ex:SHARES_DOMAIN "P05" .
+ex:P03_SHARES_DOMAIN_P05 ex:has_shared_domain "NLP" .
+ex:Mandira_Bairagi ex:COLLABORATED_WITH "Dr. Shalini R. Lihitkar" .
+ex:Mandira_Bairagi_COLLABORATED_WITH_Dr._Shalini_R._Lihitkar ex:has_paper_id "P01" .
+ex:Mandira_Bairagi_COLLABORATED_WITH_Dr._Shalini_R._Lihitkar ex:has_paper_title "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique" .
+ex:Mandira_Bairagi_COLLABORATED_WITH_Dr._Shalini_R._Lihitkar ex:has_year "2024" .
+ex:Mrs._Abha_Pathak ex:COLLABORATED_WITH "Trupti Pawar" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Trupti_Pawar ex:has_paper_id "P02" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Trupti_Pawar ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Trupti_Pawar ex:has_year "2025" .
+ex:Mrs._Abha_Pathak ex:COLLABORATED_WITH "Yogeshwari Pawar" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Yogeshwari_Pawar ex:has_paper_id "P02" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Yogeshwari_Pawar ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Yogeshwari_Pawar ex:has_year "2025" .
+ex:Mrs._Abha_Pathak ex:COLLABORATED_WITH "Shreya pawar" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Shreya_pawar ex:has_paper_id "P02" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Shreya_pawar ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Mrs._Abha_Pathak_COLLABORATED_WITH_Shreya_pawar ex:has_year "2025" .
+ex:Trupti_Pawar ex:COLLABORATED_WITH "Yogeshwari Pawar" .
+ex:Trupti_Pawar_COLLABORATED_WITH_Yogeshwari_Pawar ex:has_paper_id "P02" .
+ex:Trupti_Pawar_COLLABORATED_WITH_Yogeshwari_Pawar ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Trupti_Pawar_COLLABORATED_WITH_Yogeshwari_Pawar ex:has_year "2025" .
+ex:Trupti_Pawar ex:COLLABORATED_WITH "Shreya pawar" .
+ex:Trupti_Pawar_COLLABORATED_WITH_Shreya_pawar ex:has_paper_id "P02" .
+ex:Trupti_Pawar_COLLABORATED_WITH_Shreya_pawar ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Trupti_Pawar_COLLABORATED_WITH_Shreya_pawar ex:has_year "2025" .
+ex:Yogeshwari_Pawar ex:COLLABORATED_WITH "Shreya pawar" .
+ex:Yogeshwari_Pawar_COLLABORATED_WITH_Shreya_pawar ex:has_paper_id "P02" .
+ex:Yogeshwari_Pawar_COLLABORATED_WITH_Shreya_pawar ex:has_paper_title "SmartNews: AI-Powered News Summarize" .
+ex:Yogeshwari_Pawar_COLLABORATED_WITH_Shreya_pawar ex:has_year "2025" .
+ex:Divakar_Yadav ex:COLLABORATED_WITH "Jalpa Desai" .
+ex:Divakar_Yadav_COLLABORATED_WITH_Jalpa_Desai ex:has_paper_id "P03" .
+ex:Divakar_Yadav_COLLABORATED_WITH_Jalpa_Desai ex:has_paper_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:Divakar_Yadav_COLLABORATED_WITH_Jalpa_Desai ex:has_year "2024" .
+ex:Divakar_Yadav ex:COLLABORATED_WITH "Arun Kumar Yadav" .
+ex:Divakar_Yadav_COLLABORATED_WITH_Arun_Kumar_Yadav ex:has_paper_id "P03" .
+ex:Divakar_Yadav_COLLABORATED_WITH_Arun_Kumar_Yadav ex:has_paper_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:Divakar_Yadav_COLLABORATED_WITH_Arun_Kumar_Yadav ex:has_year "2024" .
+ex:Jalpa_Desai ex:COLLABORATED_WITH "Arun Kumar Yadav" .
+ex:Jalpa_Desai_COLLABORATED_WITH_Arun_Kumar_Yadav ex:has_paper_id "P03" .
+ex:Jalpa_Desai_COLLABORATED_WITH_Arun_Kumar_Yadav ex:has_paper_title "Automatic Text Summarization Methods: A Comprehensive Review" .
+ex:Jalpa_Desai_COLLABORATED_WITH_Arun_Kumar_Yadav ex:has_year "2024" .
+ex:Seema_Aswani ex:COLLABORATED_WITH "Kabita Choudhary" .
+ex:Seema_Aswani_COLLABORATED_WITH_Kabita_Choudhary ex:has_paper_id "P04" .
+ex:Seema_Aswani_COLLABORATED_WITH_Kabita_Choudhary ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Seema_Aswani_COLLABORATED_WITH_Kabita_Choudhary ex:has_year "2024" .
+ex:Seema_Aswani ex:COLLABORATED_WITH "Sujala Shetty" .
+ex:Seema_Aswani_COLLABORATED_WITH_Sujala_Shetty ex:has_paper_id "P04" .
+ex:Seema_Aswani_COLLABORATED_WITH_Sujala_Shetty ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Seema_Aswani_COLLABORATED_WITH_Sujala_Shetty ex:has_year "2024" .
+ex:Seema_Aswani ex:COLLABORATED_WITH "Nasheen Nur" .
+ex:Seema_Aswani_COLLABORATED_WITH_Nasheen_Nur ex:has_paper_id "P04" .
+ex:Seema_Aswani_COLLABORATED_WITH_Nasheen_Nur ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Seema_Aswani_COLLABORATED_WITH_Nasheen_Nur ex:has_year "2024" .
+ex:Kabita_Choudhary ex:COLLABORATED_WITH "Sujala Shetty" .
+ex:Kabita_Choudhary_COLLABORATED_WITH_Sujala_Shetty ex:has_paper_id "P04" .
+ex:Kabita_Choudhary_COLLABORATED_WITH_Sujala_Shetty ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Kabita_Choudhary_COLLABORATED_WITH_Sujala_Shetty ex:has_year "2024" .
+ex:Kabita_Choudhary ex:COLLABORATED_WITH "Nasheen Nur" .
+ex:Kabita_Choudhary_COLLABORATED_WITH_Nasheen_Nur ex:has_paper_id "P04" .
+ex:Kabita_Choudhary_COLLABORATED_WITH_Nasheen_Nur ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Kabita_Choudhary_COLLABORATED_WITH_Nasheen_Nur ex:has_year "2024" .
+ex:Sujala_Shetty ex:COLLABORATED_WITH "Nasheen Nur" .
+ex:Sujala_Shetty_COLLABORATED_WITH_Nasheen_Nur ex:has_paper_id "P04" .
+ex:Sujala_Shetty_COLLABORATED_WITH_Nasheen_Nur ex:has_paper_title "Automatic text summarization of scientific articles using transformers" .
+ex:Sujala_Shetty_COLLABORATED_WITH_Nasheen_Nur ex:has_year "2024" .
+ex:Sanjivani_Chandrashekhar_Kachare ex:COLLABORATED_WITH "Manali Udaykumar Sawant" .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manali_Udaykumar_Sawant ex:has_paper_id "P05" .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manali_Udaykumar_Sawant ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manali_Udaykumar_Sawant ex:has_year "2024" .
+ex:Sanjivani_Chandrashekhar_Kachare ex:COLLABORATED_WITH "Manasi Suresh Yadav" .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manasi_Suresh_Yadav ex:has_paper_id "P05" .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manasi_Suresh_Yadav ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Manasi_Suresh_Yadav ex:has_year "2024" .
+ex:Sanjivani_Chandrashekhar_Kachare ex:COLLABORATED_WITH "Ms. Priyanka Rajendra Jadhav" .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_paper_id "P05" .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Sanjivani_Chandrashekhar_Kachare_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_year "2024" .
+ex:Manali_Udaykumar_Sawant ex:COLLABORATED_WITH "Manasi Suresh Yadav" .
+ex:Manali_Udaykumar_Sawant_COLLABORATED_WITH_Manasi_Suresh_Yadav ex:has_paper_id "P05" .
+ex:Manali_Udaykumar_Sawant_COLLABORATED_WITH_Manasi_Suresh_Yadav ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Manali_Udaykumar_Sawant_COLLABORATED_WITH_Manasi_Suresh_Yadav ex:has_year "2024" .
+ex:Manali_Udaykumar_Sawant ex:COLLABORATED_WITH "Ms. Priyanka Rajendra Jadhav" .
+ex:Manali_Udaykumar_Sawant_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_paper_id "P05" .
+ex:Manali_Udaykumar_Sawant_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Manali_Udaykumar_Sawant_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_year "2024" .
+ex:Manasi_Suresh_Yadav ex:COLLABORATED_WITH "Ms. Priyanka Rajendra Jadhav" .
+ex:Manasi_Suresh_Yadav_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_paper_id "P05" .
+ex:Manasi_Suresh_Yadav_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_paper_title "Text Summarization Using Natural Language Processing " .
+ex:Manasi_Suresh_Yadav_COLLABORATED_WITH_Ms._Priyanka_Rajendra_Jadhav ex:has_year "2024" .
+ex:SUBASH_VOLETI ex:COLLABORATED_WITH "CHAITAN RAJU" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_CHAITAN_RAJU ex:has_paper_id "P06" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_CHAITAN_RAJU ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_CHAITAN_RAJU ex:has_year "2020" .
+ex:SUBASH_VOLETI ex:COLLABORATED_WITH "TEJA RANI" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_TEJA_RANI ex:has_paper_id "P06" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_TEJA_RANI ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_TEJA_RANI ex:has_year "2020" .
+ex:SUBASH_VOLETI ex:COLLABORATED_WITH "MUGADA SWETHA" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_MUGADA_SWETHA ex:has_paper_id "P06" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_MUGADA_SWETHA ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:SUBASH_VOLETI_COLLABORATED_WITH_MUGADA_SWETHA ex:has_year "2020" .
+ex:CHAITAN_RAJU ex:COLLABORATED_WITH "TEJA RANI" .
+ex:CHAITAN_RAJU_COLLABORATED_WITH_TEJA_RANI ex:has_paper_id "P06" .
+ex:CHAITAN_RAJU_COLLABORATED_WITH_TEJA_RANI ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:CHAITAN_RAJU_COLLABORATED_WITH_TEJA_RANI ex:has_year "2020" .
+ex:CHAITAN_RAJU ex:COLLABORATED_WITH "MUGADA SWETHA" .
+ex:CHAITAN_RAJU_COLLABORATED_WITH_MUGADA_SWETHA ex:has_paper_id "P06" .
+ex:CHAITAN_RAJU_COLLABORATED_WITH_MUGADA_SWETHA ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:CHAITAN_RAJU_COLLABORATED_WITH_MUGADA_SWETHA ex:has_year "2020" .
+ex:TEJA_RANI ex:COLLABORATED_WITH "MUGADA SWETHA" .
+ex:TEJA_RANI_COLLABORATED_WITH_MUGADA_SWETHA ex:has_paper_id "P06" .
+ex:TEJA_RANI_COLLABORATED_WITH_MUGADA_SWETHA ex:has_paper_title "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API" .
+ex:TEJA_RANI_COLLABORATED_WITH_MUGADA_SWETHA ex:has_year "2020" .
+ex:Bhuvan_Shingade ex:COLLABORATED_WITH "Yash Matha" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Yash_Matha ex:has_paper_id "P07" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Yash_Matha ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Yash_Matha ex:has_year "2025" .
+ex:Bhuvan_Shingade ex:COLLABORATED_WITH "Ved Kolambkar" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Ved_Kolambkar ex:has_paper_id "P07" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Ved_Kolambkar ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Ved_Kolambkar ex:has_year "2025" .
+ex:Bhuvan_Shingade ex:COLLABORATED_WITH "Suyash Kasar" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Suyash_Kasar ex:has_paper_id "P07" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Suyash_Kasar ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Suyash_Kasar ex:has_year "2025" .
+ex:Bhuvan_Shingade ex:COLLABORATED_WITH "Prof. Rohini Palve" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_id "P07" .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Bhuvan_Shingade_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_year "2025" .
+ex:Yash_Matha ex:COLLABORATED_WITH "Ved Kolambkar" .
+ex:Yash_Matha_COLLABORATED_WITH_Ved_Kolambkar ex:has_paper_id "P07" .
+ex:Yash_Matha_COLLABORATED_WITH_Ved_Kolambkar ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Yash_Matha_COLLABORATED_WITH_Ved_Kolambkar ex:has_year "2025" .
+ex:Yash_Matha ex:COLLABORATED_WITH "Suyash Kasar" .
+ex:Yash_Matha_COLLABORATED_WITH_Suyash_Kasar ex:has_paper_id "P07" .
+ex:Yash_Matha_COLLABORATED_WITH_Suyash_Kasar ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Yash_Matha_COLLABORATED_WITH_Suyash_Kasar ex:has_year "2025" .
+ex:Yash_Matha ex:COLLABORATED_WITH "Prof. Rohini Palve" .
+ex:Yash_Matha_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_id "P07" .
+ex:Yash_Matha_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Yash_Matha_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_year "2025" .
+ex:Ved_Kolambkar ex:COLLABORATED_WITH "Suyash Kasar" .
+ex:Ved_Kolambkar_COLLABORATED_WITH_Suyash_Kasar ex:has_paper_id "P07" .
+ex:Ved_Kolambkar_COLLABORATED_WITH_Suyash_Kasar ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Ved_Kolambkar_COLLABORATED_WITH_Suyash_Kasar ex:has_year "2025" .
+ex:Ved_Kolambkar ex:COLLABORATED_WITH "Prof. Rohini Palve" .
+ex:Ved_Kolambkar_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_id "P07" .
+ex:Ved_Kolambkar_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Ved_Kolambkar_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_year "2025" .
+ex:Suyash_Kasar ex:COLLABORATED_WITH "Prof. Rohini Palve" .
+ex:Suyash_Kasar_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_id "P07" .
+ex:Suyash_Kasar_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_paper_title "A Survey of Text Summarization Using NLP " .
+ex:Suyash_Kasar_COLLABORATED_WITH_Prof._Rohini_Palve ex:has_year "2025" .
+ex:Niharika_Verma ex:COLLABORATED_WITH "Prof. Ashish Tiwari" .
+ex:Niharika_Verma_COLLABORATED_WITH_Prof._Ashish_Tiwari ex:has_paper_id "P08" .
+ex:Niharika_Verma_COLLABORATED_WITH_Prof._Ashish_Tiwari ex:has_paper_title "A Survey of Automatic Text Summarization" .
+ex:Niharika_Verma_COLLABORATED_WITH_Prof._Ashish_Tiwari ex:has_year "2014" .
+ex:G._Santhoshi ex:COLLABORATED_WITH "M Jyothi" .
+ex:G._Santhoshi_COLLABORATED_WITH_M_Jyothi ex:has_paper_id "P09" .
+ex:G._Santhoshi_COLLABORATED_WITH_M_Jyothi ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Santhoshi_COLLABORATED_WITH_M_Jyothi ex:has_year "2024" .
+ex:G._Santhoshi ex:COLLABORATED_WITH "Kovvuri Ramya Sri" .
+ex:G._Santhoshi_COLLABORATED_WITH_Kovvuri_Ramya_Sri ex:has_paper_id "P09" .
+ex:G._Santhoshi_COLLABORATED_WITH_Kovvuri_Ramya_Sri ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Santhoshi_COLLABORATED_WITH_Kovvuri_Ramya_Sri ex:has_year "2024" .
+ex:G._Santhoshi ex:COLLABORATED_WITH "G. Hasika" .
+ex:G._Santhoshi_COLLABORATED_WITH_G._Hasika ex:has_paper_id "P09" .
+ex:G._Santhoshi_COLLABORATED_WITH_G._Hasika ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Santhoshi_COLLABORATED_WITH_G._Hasika ex:has_year "2024" .
+ex:G._Santhoshi ex:COLLABORATED_WITH "G. Varsha" .
+ex:G._Santhoshi_COLLABORATED_WITH_G._Varsha ex:has_paper_id "P09" .
+ex:G._Santhoshi_COLLABORATED_WITH_G._Varsha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Santhoshi_COLLABORATED_WITH_G._Varsha ex:has_year "2024" .
+ex:G._Santhoshi ex:COLLABORATED_WITH "R. Snigdha" .
+ex:G._Santhoshi_COLLABORATED_WITH_R._Snigdha ex:has_paper_id "P09" .
+ex:G._Santhoshi_COLLABORATED_WITH_R._Snigdha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Santhoshi_COLLABORATED_WITH_R._Snigdha ex:has_year "2024" .
+ex:M_Jyothi ex:COLLABORATED_WITH "Kovvuri Ramya Sri" .
+ex:M_Jyothi_COLLABORATED_WITH_Kovvuri_Ramya_Sri ex:has_paper_id "P09" .
+ex:M_Jyothi_COLLABORATED_WITH_Kovvuri_Ramya_Sri ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:M_Jyothi_COLLABORATED_WITH_Kovvuri_Ramya_Sri ex:has_year "2024" .
+ex:M_Jyothi ex:COLLABORATED_WITH "G. Hasika" .
+ex:M_Jyothi_COLLABORATED_WITH_G._Hasika ex:has_paper_id "P09" .
+ex:M_Jyothi_COLLABORATED_WITH_G._Hasika ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:M_Jyothi_COLLABORATED_WITH_G._Hasika ex:has_year "2024" .
+ex:M_Jyothi ex:COLLABORATED_WITH "G. Varsha" .
+ex:M_Jyothi_COLLABORATED_WITH_G._Varsha ex:has_paper_id "P09" .
+ex:M_Jyothi_COLLABORATED_WITH_G._Varsha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:M_Jyothi_COLLABORATED_WITH_G._Varsha ex:has_year "2024" .
+ex:M_Jyothi ex:COLLABORATED_WITH "R. Snigdha" .
+ex:M_Jyothi_COLLABORATED_WITH_R._Snigdha ex:has_paper_id "P09" .
+ex:M_Jyothi_COLLABORATED_WITH_R._Snigdha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:M_Jyothi_COLLABORATED_WITH_R._Snigdha ex:has_year "2024" .
+ex:Kovvuri_Ramya_Sri ex:COLLABORATED_WITH "G. Hasika" .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Hasika ex:has_paper_id "P09" .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Hasika ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Hasika ex:has_year "2024" .
+ex:Kovvuri_Ramya_Sri ex:COLLABORATED_WITH "G. Varsha" .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Varsha ex:has_paper_id "P09" .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Varsha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_G._Varsha ex:has_year "2024" .
+ex:Kovvuri_Ramya_Sri ex:COLLABORATED_WITH "R. Snigdha" .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_R._Snigdha ex:has_paper_id "P09" .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_R._Snigdha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:Kovvuri_Ramya_Sri_COLLABORATED_WITH_R._Snigdha ex:has_year "2024" .
+ex:G._Hasika ex:COLLABORATED_WITH "G. Varsha" .
+ex:G._Hasika_COLLABORATED_WITH_G._Varsha ex:has_paper_id "P09" .
+ex:G._Hasika_COLLABORATED_WITH_G._Varsha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Hasika_COLLABORATED_WITH_G._Varsha ex:has_year "2024" .
+ex:G._Hasika ex:COLLABORATED_WITH "R. Snigdha" .
+ex:G._Hasika_COLLABORATED_WITH_R._Snigdha ex:has_paper_id "P09" .
+ex:G._Hasika_COLLABORATED_WITH_R._Snigdha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Hasika_COLLABORATED_WITH_R._Snigdha ex:has_year "2024" .
+ex:G._Varsha ex:COLLABORATED_WITH "R. Snigdha" .
+ex:G._Varsha_COLLABORATED_WITH_R._Snigdha ex:has_paper_id "P09" .
+ex:G._Varsha_COLLABORATED_WITH_R._Snigdha ex:has_paper_title "Research Paper Summarizer Using AI  " .
+ex:G._Varsha_COLLABORATED_WITH_R._Snigdha ex:has_year "2024" .

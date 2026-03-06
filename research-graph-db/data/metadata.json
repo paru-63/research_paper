@@ -1,0 +1,101 @@
+[
+    {
+        "Paper ID": "P01",
+        "Paper title": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique",
+        "Authors": "Mandira Bairagi, Dr. Shalini R. Lihitkar",
+        "Author affiliations / institutions": "(Research Scholar, Department of Library and Information Science, Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur)",
+        "Publication year": 2024,
+        "Journal / conference name": "IEEE Access",
+        "DOI / arXiv ID / PubMed ID": "10.1109/ACCESS.2025.3536205",
+        "Keywords": "Artificial intelligence, Artificial Intelligence Tools, Research communication, Scholarly publication",
+        "Domain / research area": "Artificial Intelligence Tools"
+    },
+    {
+        "Paper ID": "P02",
+        "Paper title": "SmartNews: AI-Powered News Summarize",
+        "Authors": "Mrs. Abha Pathak, Trupti Pawar, Yogeshwari Pawar, Shreya Pawar",
+        "Author affiliations / institutions": "U.G. Student, Computer Engineering. Dr. D. Y. Patil College of Engineering and Innovation, Pune, Assistant Professor, Computer Engineering, Dr. D. Y. Patil College of Engineering and Innovation, Pune",
+        "Publication year": 2025,
+        "Journal / conference name": "International Journal on Advanced Computer Theory and Engineering",
+        "DOI / arXiv ID / PubMed ID": "ISSN: 2319-2526",
+        "Keywords": "NLP, evaluate summarization models using Python",
+        "Domain / research area": "Natural Language Processing (NLP)"
+    },
+    {
+        "Paper ID": "P03",
+        "Paper title": "Automatic Text Summarization Methods: A Comprehensive Review",
+        "Authors": "Divakar Yadav, Jalpa Desai, Arun Kumar Yadav",
+        "Author affiliations / institutions": "20mcs105@nith.ac.in, dsy99@rediffmail.com, ayadav@nith.ac.in",
+        "Publication year": 2024,
+        "Journal / conference name": "IEEE Access",
+        "DOI / arXiv ID / PubMed ID": "10.1109/TCC.2025.3612322",
+        "Keywords": "Automatic text summarization, Natural Language Processing, Categorization of text summarization system",
+        "Domain / research area": "NLP"
+    },
+    {
+        "Paper ID": "P04",
+        "Paper title": "Automatic text summarization of scientific articles using transformers",
+        "Authors": "Seema Aswani, Kabita Choudhary, Sujala Shetty, Nasheen Nur",
+        "Author affiliations / institutions": "Department of Computer Science, Birla Institute of Technology and Science, Dubai, U.A.E., Department of Electrical Engineering and Computer Science, Florida Institute of Technology, Florida 32901, U.S.A.",
+        "Publication year": 2024,
+        "Journal / conference name": "Journal of Autonomous Intelligence",
+        "DOI / arXiv ID / PubMed ID": "10.32629/jai.v7i5.1331",
+        "Keywords": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization",
+        "Domain / research area": "Natural Language Processing, CNN"
+    },
+    {
+        "Paper ID": "P05",
+        "Paper title": "Text Summarization Using Natural Language Processing",
+        "Authors": "Sanjivani Chandrashekhar Kachare, Manali Udaykumar Sawant, Manasi Suresh Yadav, Ms. Priyanka Rajendra Jadhav",
+        "Author affiliations / institutions": "International Journal of Creative Research Thoughts (IJCRT)",
+        "Publication year": 2024,
+        "Journal / conference name": "IJCRT",
+        "DOI / arXiv ID / PubMed ID": "ISSN: 2320-2882",
+        "Keywords": "NLP, Text Summarization, Text Rank, OCR, Open AI",
+        "Domain / research area": "NLP, Open AI"
+    },
+    {
+        "Paper ID": "P06",
+        "Paper title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+        "Authors": "SUBASH VOLETI, CHAITAN RAJU, TEJA RANI, MUGADA SWETHA",
+        "Author affiliations / institutions": "DEPT OF CSE, LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY, VIZIANAGARM",
+        "Publication year": 2020,
+        "Journal / conference name": "International Research Journal of Engineering and Technology (IRJET)",
+        "DOI / arXiv ID / PubMed ID": "e-ISSN: 2395-0056",
+        "Keywords": "Text Summarization, Text Rank Algorithm, NLTK, GTTS(Google Text To Speech) API, Extractive Text Summarization",
+        "Domain / research area": "GTTS(Google Text To Speech) API"
+    },
+    {
+        "Paper ID": "P07",
+        "Paper title": "A Survey of Text Summarization Using NLP",
+        "Authors": "Bhuvan Shingade, Yash Matha, Ved Kolambkar, Suyash Kasar, Prof. Rohini Palve",
+        "Author affiliations / institutions": "Computer Engineering Department, Terna Engineering College, Nerul, Navi Mumbai",
+        "Publication year": 2025,
+        "Journal / conference name": "SIRJANA JOURNAL",
+        "DOI / arXiv ID / PubMed ID": "ISSN:2455-1058",
+        "Keywords": "Machine Learning, Natural Language Processing(NLP), Long term short memory(LSTM), Abstractive Summarization, Extractive Summarization.",
+        "Domain / research area": "Machine Learning, Long term short memory(LSTM), Natural Language Processing(NLP)"
+    },
+    {
+        "Paper ID": "P08",
+        "Paper title": "A Survey of Automatic Text Summarization",
+        "Authors": "Niharika Verma, Prof. Ashish Tiwari",
+        "Author affiliations / institutions": "Computer Science & Engineering Department, Rajiv Gandhi Technical University Airport Road, Gandhi Nagar Bhopal-462 033, India, Vindhya Institute of Technology and Science Umrikheda, Khandwa Road, Indore (M.P.), India",
+        "Publication year": 2014,
+        "Journal / conference name": "International Journal of Engineering Research & Technology (IJERT)",
+        "DOI / arXiv ID / PubMed ID": "ISSN: 2278-0181",
+        "Keywords": "abstraction-predicated summary, automatic text summarization, extraction summary, feature extraction, text reduction.",
+        "Domain / research area": "Automatic Text Summarization"
+    },
+    {
+        "Paper ID": "P09",
+        "Paper title": "Research Paper Summarizer Using AI",
+        "Authors": "G. Santhoshi, M Jyothi, Kovvuri Ramya Sri, G. Hasika, G. Varsha, R. Snigdha",
+        "Author affiliations / institutions": "Assistant Professor, Department of Information Technology, G. Narayanamma Institute of Technology and Science for Women, Hyderabad, India.",
+        "Publication year": 2024,
+        "Journal / conference name": "International Research Journal on Advanced Engineering and Management",
+        "DOI / arXiv ID / PubMed ID": "e ISSN: 2584-2854",
+        "Keywords": "Natural Language Processing (NLP), Highlighting Keywords, Read Aloud, Plagiarism, Images, Research.",
+        "Domain / research area": "Natural Language Toolkit (NLTK)"
+    }
+]

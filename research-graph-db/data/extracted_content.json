@@ -1,0 +1,83 @@
+[
+    {
+        "filename": "Paper A.pdf",
+        "abstract": "The main purpose of this article is to analysis the functions of AI-driven tools which are useful to the researcher for their research communications, its challenges, benefits as well as applications in the era of digital transformation. This analysis started from Literature review in the field of Artificial Intelligence related with digital switch-over of various sector specially related to education sector, to find out the key tools, their functions, features and how does researchers can accompanied their work for further research with AI-driven tools. The paper covers the role of artificial intelligence (AI) in scholarly publishing. It investigates diverse artificial intelligence techniques and their applications in tasks such as literature evaluation, article preparation, plagiarism prevention, peer review, and publishing production. The material emphasizes the relevance of human-machine collaboration in the publishing industry, as well as the potential of Artificial Intelligence (AI) to improve the nature and productivity of research communication. These AI-based research utility tools have the best attributes for saving researchers time and effort, as well as for facilitating technical communication. However, they also have equal potential drawbacks, which are detrimental to science and technology.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper B.pdf",
+        "abstract": "In today's digital era, the rapid influx of online news content poses a significant challenge for users seeking concise and relevant information. SmartNews: AI-Powered News Summarizer is a system designed to address this challenge by leveraging Natural Language Processing (NLP) and Machine Learning (ML) techniques to automatically generate concise summaries of lengthy news articles. The system utilizes Python-based libraries such as NLTK, spaCy, and Transformers for text preprocessing, keyword extraction, and semantic understanding. By implementing both extractive and abstractive summarization models, SmartNews delivers accurate and contextually meaningful summaries, enabling users to grasp essential news content quickly.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper C.pdf",
+        "abstract": "One of the most pressing issues that have arisen due to the rapid growth of the Internet is known as information overloading. Simplifying the relevant information in the form of a summary will assist many people because the material on any topic is plentiful on the Internet. Manually summarising massive amounts of text is quite challenging for humans. So, it has increased the need for more complex and powerful summarizers. Researchers have been trying to improve approaches for creating summaries since the 1950s, such that the machine-generated summary matches the human-created summary. This study provides a detailed state-of-the-art analysis of text summarization concepts such as summarization approaches, techniques used, standard datasets, evaluation metrics and future scopes for research. The most commonly accepted approaches are extractive and abstractive, studied in detail in this work. Evaluating the summary and increasing the development of reusable resources and infrastructure aids in comparing and replicating findings, adding competition to improve the outcomes. Different evaluation methods of generated summaries are also discussed in this study. Finally, at the end of this study, several challenges and research opportunities related to text summarization research are mentioned that may be useful for potential researchers working in this area.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper D.pdf",
+        "abstract": "Learning how to read research papers is a skill. The researcher must go through many published articles during the research. It is a challenging and tedious task to go through numerous published articles. The research process would sped up by automatic summarization of scientific publications, which would aid researchers in their investigation. However automatic text summarization of scientific research articles is difficult due to its distinct structure. Various text summarization approaches have been proposed for research article summarization in the past. After the invention of transformer architecture, it has created a big shift in Natural Language Processing. The models based on transformers are able to achieve state-of-the-art results in text summarization. This paper provides a brief review of transformer-based approaches used for text summarization of scientific research articles along with the available corpus and evaluation methods that can be used to assess the model generated summary. The paper also discusses the future direction and limitations in this field.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper E.pdf",
+        "abstract": "In this digital era, a vast amount of digital data can be found on the internet for various purposes. However, manually summarizing this data is a challenging task. The internet is filled with chunks of information, making it crucial to find an efficient and accurate solution for extracting the necessary information. Text summarization has become a popular problem to tackle in this modern age. The primary objective of text summarization is to extract concise summaries from large volumes of text in an efficient and accurate manner. Summarizing video information using natural language processing (NLP) involves extracting the key points from the spoken or written content in a video. This process typically includes several steps, such as transcription, text processing, and summarization. By utilizing text summarization, reading time can be significantly reduced. This paper focuses on the implementation of text summarization for image, PDF, video using the Text Rank Algorithm, NLP, OCR, Open AI Key, NLTK. We can generate accurate and contextually meaningful summary.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper F.pdf",
+        "abstract": "Chunks of Information is available on the internet, it is most important to provide a solution to get information most efficiently and accurately. Text Summarization is the most popular problem in this modern era. The main objective of Text Summarization is extracting Summaries from Large chunks of text efficiently and accurately. Reading Time can be reduced with the use of Text Summarization. Text Summarization techniques are categorized into extractive and abstractive summarization. In this paper, we focus on the implementation of Text Summarization using Unsupervised Text Rank Algorithm and converting the summarized text into Audio File Using Google Text To Speech API. Large Chunks of Text/ web page URL link is given as input and Summary is generated and convert the Summary into Audio file Using GTTS API. In this paper, we show how to convert summarized text into Audio file Using GTTS API.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper G.pdf",
+        "abstract": "The information explosion necessitates innovative approaches for processing and comprehending vast amounts of text data. Text summarization, a subfield of Natural Language Processing (NLP), automatically condenses lengthy documents into concise summaries, preserving the core meaning. This research explores the potential of cloud-based NLP for improved text summarization across various domains. Cloud computing offers the scalability and resources required to handle large datasets and complex NLP models. By leveraging cloud platforms, we aim to develop a robust text summarization system that effectively extracts key information from diverse textual sources. This system will be applicable to a wide range of use cases, including scientific literature reviews, news article summaries, and condensing legal documents. The effectiveness of the generated summaries will be evaluated based on metrics like ROUGE score, human evaluation for coherence and readability, and task-specific measures depending on the use case. This research strives to establish a cloud-based NLP framework for versatile text summarization, aiding knowledge extraction and information retrieval across diverse domains.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper H.pdf",
+        "abstract": "Text Summarization has now become a paramount research area. A technique in which a computer program summarizes a text is called Automatic Text Summarization. In today’s world the web is an affluent source of information and data, therefore a substantial amount of data is scattered in the web domains. In addition of this there are number of articles which are publishing day by day and convivial blogs are additionally incrementing. Invigilation and monitoring of all the topics are not possible in a short time. Therefore automatic text summarization is auxiliary in order to reduce the texts with less time intricacy. In this paper a survey of automatic text summarization, its techniques and its applications are presented.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    },
+    {
+        "filename": "Paper I.pdf",
+        "abstract": "An AI-powered tool that can analyze and summarize research papers, making it easier for students to understand complex academic articles. The amount of digital information is growing rapidly, making it hard to handle and understand all the text available in different areas. It's really important to quickly and accurately summarize large articles or research papers of text to find information, combine knowledge, and make decisions. This research paper explains how we developed and tested a system that can turn long documents into short, clear summaries. Develop algorithms for extracting key phrases and terms that capture the core concepts and topics of the research paper. Develop features for Highlighting Keywords, read aloud option, Plagiarism Check, Extracting Images, and focus areas. This tool plays an important role and help researchers and high academic professors to get updated with the current technologies in their respective fields. The Research Paper Summarizer Project utilizes advanced Natural Language Processing (NLP) to analyze and summarize research papers effectively.",
+        "introduction": "Introduction content not found.",
+        "methodology": "Methodology content not found.",
+        "results": "Results content not found.",
+        "conclusion": "Conclusion content not found.",
+        "references": "References content not found."
+    }
+]

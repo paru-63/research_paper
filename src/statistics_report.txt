@@ -1,0 +1,41 @@
+================================================================================
+KNOWLEDGE GRAPH STATISTICS REPORT
+================================================================================
+
+ENTITY STATISTICS
+--------------------------------------------------------------------------------
+Papers:       9
+Authors:      34
+Institutions: 10
+Journals:     8
+Keywords:     34
+Domains:      12
+References:   9
+
+RELATIONSHIP STATISTICS
+--------------------------------------------------------------------------------
+AUTHORED                     34
+PUBLISHED_IN                  9
+HAS_KEYWORD                  36
+BELONGS_TO_DOMAIN            13
+AFFILIATED_WITH              49
+CITES                         9
+SHARES_TOPIC                  2
+SHARES_DOMAIN                 1
+COLLABORATED_WITH            54
+TOTAL                       207
+
+TOP 10 KEYWORDS
+--------------------------------------------------------------------------------
+ 1. NLP                                      (2)
+ 2. Text Summarization                       (2)
+ 3. Artificial intelligence                  (1)
+ 4. Artificial Intelligence Tools            (1)
+ 5. Research communication                   (1)
+ 6. Scholarly publication                    (1)
+ 7. evaluate summarization models using Python (1)
+ 8. Automatic text summarization             (1)
+ 9. Natural Language Processing              (1)
+10. Categorization of text summarization  system (1)
+
+================================================================================

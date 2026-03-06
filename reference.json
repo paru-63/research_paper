@@ -1,0 +1,74 @@
+[
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R001",
+        "Citation Count": 8,
+        "Cited Year": 2023,
+        "Reference Title": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Techniques",
+        "Reference link": "https://doi.org/10.1108/ejim-02-2023-0156"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R002",
+        "Citation Count": 0,
+        "Cited Year": 2025,
+        "Reference Title": "SmartNews: AI-Powered News Summarizer",
+        "Reference link": "https://journals.mriindia.com"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R003",
+        "Citation Count": 25,
+        "Cited Year": 2023,
+        "Reference Title": "Automatic Text Summarization Methods: A Comprehensive Review",
+        "Reference link": "https://orcid.org/0000-0001-6051-479X"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R004",
+        "Citation Count": 2,
+        "Cited Year": 2024,
+        "Reference Title": "Automatic text summarization of scientific articles using transformers-A brief review",
+        "Reference link": "https://doi.org/10.32629/jai.v7i5.1331"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R005",
+        "Citation Count": 3,
+        "Cited Year": 2024,
+        "Reference Title": "Text Summarization Using Natural Language Processing",
+        "Reference link": "https://www.ijcrt.org"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R006",
+        "Citation Count": 10,
+        "Cited Year": 2020,
+        "Reference Title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+        "Reference link": "https://www.irjet.net"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R007",
+        "Citation Count": 2,
+        "Cited Year": 2023,
+        "Reference Title": "A Survey of Text Summarization Using NLP",
+        "Reference link": "https://sirjana.in"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R008",
+        "Citation Count": 15,
+        "Cited Year": 2014,
+        "Reference Title": "A Survey of Automatic Text Summarization",
+        "Reference link": "https://www.irjet.net"
+    },
+    {
+        "Paper_ID": "P9",
+        "Ref_ID": "R009",
+        "Citation Count": 1,
+        "Cited Year": 2024,
+        "Reference Title": "Research Paper Summarizer Using AI",
+        "Reference link": "https://doi.org/10.47392/IRJAEM.2024.0374"
+    }
+]

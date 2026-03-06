@@ -1,0 +1,1582 @@
+[
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"Automatic Text Summarization Methods: A Comprehensive Review\""
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2024\""
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"A Survey of Text Summarization Using NLP\""
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2025\""
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"SmartNews: AI-Powered News Summarize\""
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2025\""
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"Research Paper Summarizer Using AI\""
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2024\""
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API\""
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2020\""
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"A Survey of Automatic Text Summarization\""
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2014\""
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique\""
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2024\""
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"Text Summarization Using Natural Language Processing\""
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2024\""
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Paper"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/prop/title",
+        "object": "\"Automatic text summarization of scientific articles using transformers\""
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/prop/year",
+        "object": "\"2024\""
+    },
+    {
+        "subject": "http://research.graph/entity/mugada_swetha",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/divakar_yadav",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/shreya_pawar",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/niharika_verma",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/ved_kolambkar",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/2_m_jyothi",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/manasi_suresh_yadav",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/5_g._varsha",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/manali_udaykumar_sawant",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/chaitan_raju",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/seema_aswani",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/kabita_choudhary",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/prof._ashish_tiwari",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/yogeshwari_pawar",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/sujala_shetty",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/trupti_pawar",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/arun_kumar_yadav",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/mrs._abha_pathak",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/bhuvan_shingade",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/ms._priyanka_rajendra_jadhav",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/nasheen_nur",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/4_g._hasika",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/suyash_kasar",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/yash_matha",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/teja_rani",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/mandira_bairagi",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/6_r._snigdha",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/prof._rohini_palve",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/subash_voleti",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/3_kovvuri_ramya_sri",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/jalpa_desai",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/1_g._santhoshi",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/sanjivani_chandrashekhar_kachare",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/dr._shalini_r._lihitkar",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Author"
+    },
+    {
+        "subject": "http://research.graph/entity/g._narayanamma_institute_of_technology_and_science_for_women",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/ayadav@nith.ac.in",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/florida_32901",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/6student",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/navi_mumbai",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/of_electrical_engineering_and_computer_science",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/india._3assistant_professor",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/terna_engineering_college",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/nerul",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/1_computer_science_&_engineering",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/u.a.e.",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/birla_institute_of_technology_and_science",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/indore_(m.p.)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/dr._d._y._patil_college_of_engineering_and_innovation",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/pune",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/of_computer_science_technology",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/assistant_professor",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/20mcs105@nith.ac.in",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/florida_institute_of_technology",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/g.narayanamma_institute_of_technology_and_science_for_women",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/dept_of_cse",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/international_journal_of_creative_research_thoughts_(ijcrt)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/u.g._student",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/dubai",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/india.",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/vizianagarm",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/rajiv_gandhi_technical",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/2_vindhya_institute_of_technology_and_science_umrikheda",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/dsy99@rediffmail.com",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/india.4",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/of_information_technology",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/(research_scholar",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/g._narayanamma_institute_of_technology_and__science_for_women",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/khandwa_road",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/computer_engineering",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/lendi_institute_of_engineering_and_technology",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/computer_engineering._dr._d._y._patil_college_of_engineering_and_innovation",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/2assistant_professor",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/of_computer_science",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/hyderabad",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/airport_road",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/nagpur",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/of_library_and_information_science",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/rashtrasant_tukadoji_maharaj_nagpur",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/u.s.a.",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/gandhi_nagar_bhopal-462_033",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/india",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Institution"
+    },
+    {
+        "subject": "http://research.graph/entity/ijcrt",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/international_journal_on_advanced_computer_theory_and_engineering",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/international_research_journal_on_advanced_engineering_and_management",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/sirjana_journal",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/international_journal_of_engineering_research_&_technology_(ijert)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/journal_of_autonomous_intelligence",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/international_research_journal_of_engineering_and_technology_(irjet)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/ieee_access",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Journal"
+    },
+    {
+        "subject": "http://research.graph/entity/automatic_text_summarization",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_processing_(nlp)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_processing(nlp)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/open_ai",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/machine_learning",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/nlp",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/gtts(google_text_to_speech)_api",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_toolkit_(nltk)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_processing",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/artificial_intelligence_tools",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/long_term_short_memory(lstm)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/cnn",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Domain"
+    },
+    {
+        "subject": "http://research.graph/entity/text_summarization",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/extractive_summarization.",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/automatic_text_summarization",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/highlighting_keywords",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/machine_learning",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/nltk",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_processing",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/nlp",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/gtts(google_text_to_speech)_api",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_processing;_long_document_summarization;_transformers;_multi-headed_attention;_scientific_article_summarization",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/scholarly_publication",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/research.",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/artificial_intelligence",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/extraction_summary",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/text_reduction.",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/automatic_text_summarization",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_processing(nlp)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/abstractive_summarization",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/abstraction-predicated_summary",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/text_rank_algorithm",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/plagiarism",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/categorization_of_text_summarization__system",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/evaluate_summarization_models_using_python",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/extractive_text_summarization",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/natural_language_processing_(nlp)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/research_communication",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/artificial_intelligence_tools",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/images",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/feature_extraction",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/open_ai",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/long_term_short_memory(lstm)",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/text_rank",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/read_aloud",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/ocr",
+        "predicate": "http://research.graph/rdf/type",
+        "object": "http://research.graph/class/Keyword"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/mandira_bairagi"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/dr._shalini_r._lihitkar"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/(research_scholar"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/department_of_library_and_information_science"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/rashtrasant_tukadoji_maharaj_nagpur_university"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/nagpur"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/ieee_access"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/artificial_intelligence_tools"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/artificial_intelligence"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/artificial_intelligence_tools"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/research_communication"
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/scholarly_publication"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/mrs._abha_pathak"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/trupti_pawar"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/yogeshwari_pawar"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/shreya_pawar"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/u.g._student"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/computer_engineering._dr._d._y._patil_college_of_engineering_and_innovation"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/pune"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/assistant_professor"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/computer_engineering"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/dr._d._y._patil_college_of_engineering_and_innovation"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/pune"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/international_journal_on_advanced_computer_theory_and_engineering"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/natural_language_processing_(nlp)"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/nlp"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/evaluate_summarization_models_using_python"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/divakar_yadav"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/jalpa_desai"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/arun_kumar_yadav"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/20mcs105@nith.ac.in"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/dsy99@rediffmail.com"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/ayadav@nith.ac.in"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/ieee_access"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/nlp"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/automatic_text_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/natural_language_processing"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/categorization_of_text_summarization__system"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/seema_aswani"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/kabita_choudhary"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/sujala_shetty"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/nasheen_nur"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/department_of_computer_science"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/birla_institute_of_technology_and_science"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/dubai"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/u.a.e."
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/3_department_of_electrical_engineering_and_computer_science"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/florida_institute_of_technology"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/florida_32901"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/u.s.a."
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/journal_of_autonomous_intelligence"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/natural_language_processing"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/cnn"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/natural_language_processing;_long_document_summarization;_transformers;_multi-headed_attention;_scientific_article_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/sanjivani_chandrashekhar_kachare"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/manali_udaykumar_sawant"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/manasi_suresh_yadav"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/ms._priyanka_rajendra_jadhav"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/international_journal_of_creative_research_thoughts_(ijcrt)"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/ijcrt"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/nlp"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/open_ai"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/nlp"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/text_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/text_rank"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/ocr"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/open_ai"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/subash_voleti"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/chaitan_raju"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/teja_rani"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/mugada_swetha"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/dept_of_cse"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/lendi_institute_of_engineering_and_technology"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/vizianagarm"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/international_research_journal_of_engineering_and_technology_(irjet)"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/gtts(google_text_to_speech)_api"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/text_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/text_rank_algorithm"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/nltk"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/gtts(google_text_to_speech)_api"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/extractive_text_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/bhuvan_shingade"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/yash_matha"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/ved_kolambkar"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/suyash_kasar"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/prof._rohini_palve"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/computer_engineering_department"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/terna_engineering_college"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/nerul"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/navi_mumbai"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/sirjana_journal"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/machine_learning"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/long_term_short_memory(lstm)"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/natural_language_processing(nlp)"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/machine_learning"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/natural_language_processing(nlp)"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/long_term_short_memory(lstm)"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/abstractive_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/extractive_summarization."
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/niharika_verma"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/prof._ashish_tiwari"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/1_computer_science_&_engineering__department"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/rajiv_gandhi_technical_university_airport_road"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/gandhi_nagar_bhopal-462_033"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/india"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/2_vindhya_institute_of_technology_and_science_umrikheda"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/khandwa_road"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/indore_(m.p.)"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/india"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/international_journal_of_engineering_research_&_technology_(ijert)"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/automatic_text_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/abstraction-predicated_summary"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/automatic_text_summarization"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/extraction_summary"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/feature_extraction"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/text_reduction."
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/1_g._santhoshi"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/2_m_jyothi"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/3_kovvuri_ramya_sri"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/4_g._hasika"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/5_g._varsha"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/authored_by",
+        "object": "http://research.graph/entity/6_r._snigdha"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/1"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/2assistant_professor"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/department_of_information_technology"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/g._narayanamma_institute_of_technology_and__science_for_women"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/hyderabad"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/india._3assistant_professor"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/department_of_computer_science_technology"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/g.narayanamma_institute_of_technology_and_science_for_women"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/hyderabad"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/india.4"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/5"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/6student_department_of_information_technology"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/g._narayanamma_institute_of_technology_and_science_for_women"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/hyderabad"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/affiliated_with",
+        "object": "http://research.graph/entity/india."
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/published_in",
+        "object": "http://research.graph/entity/international_research_journal_on_advanced_engineering_and_management"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/research_in",
+        "object": "http://research.graph/entity/natural_language_toolkit_(nltk)"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/natural_language_processing_(nlp)"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/highlighting_keywords"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/read_aloud"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/plagiarism"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/images"
+    },
+    {
+        "subject": "http://research.graph/entity/p09",
+        "predicate": "http://research.graph/rel/has_keyword",
+        "object": "http://research.graph/entity/research."
+    },
+    {
+        "subject": "http://research.graph/entity/p01",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r001"
+    },
+    {
+        "subject": "http://research.graph/entity/p02",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r002"
+    },
+    {
+        "subject": "http://research.graph/entity/p03",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r003"
+    },
+    {
+        "subject": "http://research.graph/entity/p04",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r004"
+    },
+    {
+        "subject": "http://research.graph/entity/p05",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r005"
+    },
+    {
+        "subject": "http://research.graph/entity/p06",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r006"
+    },
+    {
+        "subject": "http://research.graph/entity/p07",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r007"
+    },
+    {
+        "subject": "http://research.graph/entity/p08",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r008"
+    },
+    {
+        "subject": "http://research.graph/entity/p9",
+        "predicate": "http://research.graph/rel/cites",
+        "object": "http://research.graph/entity/r009"
+    }
+]

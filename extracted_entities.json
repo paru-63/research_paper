@@ -1,0 +1,682 @@
+{
+    "papers": [
+        {
+            "id": "P03",
+            "title": "Automatic Text Summarization Methods: A Comprehensive Review",
+            "year": 2024,
+            "doi": "10.1109/TCC.2025.3612322",
+            "type": "Paper"
+        },
+        {
+            "id": "P07",
+            "title": "A Survey of Text Summarization Using NLP",
+            "year": 2025,
+            "doi": "ISSN:2455-1058",
+            "type": "Paper"
+        },
+        {
+            "id": "P02",
+            "title": "SmartNews: AI-Powered News Summarize",
+            "year": 2025,
+            "doi": "ISSN: 2319-2526",
+            "type": "Paper"
+        },
+        {
+            "id": "P09",
+            "title": "Research Paper Summarizer Using AI",
+            "year": 2024,
+            "doi": "e ISSN: 2584-2854",
+            "type": "Paper"
+        },
+        {
+            "id": "P06",
+            "title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+            "year": 2020,
+            "doi": "e-ISSN: 2395-0056",
+            "type": "Paper"
+        },
+        {
+            "id": "P08",
+            "title": "A Survey of Automatic Text Summarization",
+            "year": 2014,
+            "doi": "ISSN: 2278-0181",
+            "type": "Paper"
+        },
+        {
+            "id": "P01",
+            "title": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique",
+            "year": 2024,
+            "doi": "10.1109/ACCESS.2025.3536205",
+            "type": "Paper"
+        },
+        {
+            "id": "P05",
+            "title": "Text Summarization Using Natural Language Processing",
+            "year": 2024,
+            "doi": "ISSN: 2320-2882",
+            "type": "Paper"
+        },
+        {
+            "id": "P04",
+            "title": "Automatic text summarization of scientific articles using transformers",
+            "year": 2024,
+            "doi": "10.32629/jai.v7i5.1331",
+            "type": "Paper"
+        }
+    ],
+    "authors": [
+        {
+            "name": "MUGADA SWETHA",
+            "type": "Author"
+        },
+        {
+            "name": "Divakar Yadav",
+            "type": "Author"
+        },
+        {
+            "name": "Shreya pawar",
+            "type": "Author"
+        },
+        {
+            "name": "Niharika Verma",
+            "type": "Author"
+        },
+        {
+            "name": "Ved Kolambkar",
+            "type": "Author"
+        },
+        {
+            "name": "2 M Jyothi",
+            "type": "Author"
+        },
+        {
+            "name": "Manasi Suresh Yadav",
+            "type": "Author"
+        },
+        {
+            "name": "5 G. Varsha",
+            "type": "Author"
+        },
+        {
+            "name": "Manali Udaykumar Sawant",
+            "type": "Author"
+        },
+        {
+            "name": "CHAITAN RAJU",
+            "type": "Author"
+        },
+        {
+            "name": "Seema Aswani",
+            "type": "Author"
+        },
+        {
+            "name": "Kabita Choudhary",
+            "type": "Author"
+        },
+        {
+            "name": "Prof. Ashish Tiwari",
+            "type": "Author"
+        },
+        {
+            "name": "Yogeshwari Pawar",
+            "type": "Author"
+        },
+        {
+            "name": "Sujala Shetty",
+            "type": "Author"
+        },
+        {
+            "name": "Trupti Pawar",
+            "type": "Author"
+        },
+        {
+            "name": "Arun Kumar Yadav",
+            "type": "Author"
+        },
+        {
+            "name": "Mrs. Abha Pathak",
+            "type": "Author"
+        },
+        {
+            "name": "Bhuvan Shingade",
+            "type": "Author"
+        },
+        {
+            "name": "Ms. Priyanka Rajendra Jadhav",
+            "type": "Author"
+        },
+        {
+            "name": "Nasheen Nur",
+            "type": "Author"
+        },
+        {
+            "name": "4 G. Hasika",
+            "type": "Author"
+        },
+        {
+            "name": "Suyash Kasar",
+            "type": "Author"
+        },
+        {
+            "name": "Yash Matha",
+            "type": "Author"
+        },
+        {
+            "name": "TEJA RANI",
+            "type": "Author"
+        },
+        {
+            "name": "Mandira Bairagi",
+            "type": "Author"
+        },
+        {
+            "name": "6 R. Snigdha",
+            "type": "Author"
+        },
+        {
+            "name": "Prof. Rohini Palve",
+            "type": "Author"
+        },
+        {
+            "name": "SUBASH VOLETI",
+            "type": "Author"
+        },
+        {
+            "name": "3 Kovvuri Ramya Sri",
+            "type": "Author"
+        },
+        {
+            "name": "Jalpa Desai",
+            "type": "Author"
+        },
+        {
+            "name": "1 G. Santhoshi",
+            "type": "Author"
+        },
+        {
+            "name": "Sanjivani Chandrashekhar Kachare",
+            "type": "Author"
+        },
+        {
+            "name": "Dr. Shalini R. Lihitkar",
+            "type": "Author"
+        }
+    ],
+    "institutions": [
+        {
+            "name": "G. Narayanamma Institute of Technology and Science for Women",
+            "type": "Institution"
+        },
+        {
+            "name": "ayadav@nith.ac.in",
+            "type": "Institution"
+        },
+        {
+            "name": "Florida 32901",
+            "type": "Institution"
+        },
+        {
+            "name": "6Student",
+            "type": "Institution"
+        },
+        {
+            "name": "Navi Mumbai",
+            "type": "Institution"
+        },
+        {
+            "name": "of Electrical Engineering and Computer Science",
+            "type": "Institution"
+        },
+        {
+            "name": "India. 3Assistant Professor",
+            "type": "Institution"
+        },
+        {
+            "name": "Terna Engineering College",
+            "type": "Institution"
+        },
+        {
+            "name": "Nerul",
+            "type": "Institution"
+        },
+        {
+            "name": "1 Computer Science & Engineering",
+            "type": "Institution"
+        },
+        {
+            "name": "U.A.E.",
+            "type": "Institution"
+        },
+        {
+            "name": "Birla Institute of Technology and Science",
+            "type": "Institution"
+        },
+        {
+            "name": "Indore (M.P.)",
+            "type": "Institution"
+        },
+        {
+            "name": "Dr. D. Y. Patil College of Engineering and Innovation",
+            "type": "Institution"
+        },
+        {
+            "name": "Pune",
+            "type": "Institution"
+        },
+        {
+            "name": "of Computer Science Technology",
+            "type": "Institution"
+        },
+        {
+            "name": "Assistant Professor",
+            "type": "Institution"
+        },
+        {
+            "name": "20mcs105@nith.ac.in",
+            "type": "Institution"
+        },
+        {
+            "name": "Florida Institute of Technology",
+            "type": "Institution"
+        },
+        {
+            "name": "G.Narayanamma Institute of Technology and Science for Women",
+            "type": "Institution"
+        },
+        {
+            "name": "DEPT OF CSE",
+            "type": "Institution"
+        },
+        {
+            "name": "International Journal of Creative Research Thoughts (IJCRT)",
+            "type": "Institution"
+        },
+        {
+            "name": "U.G. Student",
+            "type": "Institution"
+        },
+        {
+            "name": "Dubai",
+            "type": "Institution"
+        },
+        {
+            "name": "India.",
+            "type": "Institution"
+        },
+        {
+            "name": "VIZIANAGARM",
+            "type": "Institution"
+        },
+        {
+            "name": "Rajiv Gandhi Technical",
+            "type": "Institution"
+        },
+        {
+            "name": "2 Vindhya Institute of Technology and Science Umrikheda",
+            "type": "Institution"
+        },
+        {
+            "name": "dsy99@rediffmail.com",
+            "type": "Institution"
+        },
+        {
+            "name": "India.4",
+            "type": "Institution"
+        },
+        {
+            "name": "of Information Technology",
+            "type": "Institution"
+        },
+        {
+            "name": "(Research Scholar",
+            "type": "Institution"
+        },
+        {
+            "name": "G. Narayanamma Institute of Technology and  Science for Women",
+            "type": "Institution"
+        },
+        {
+            "name": "Khandwa Road",
+            "type": "Institution"
+        },
+        {
+            "name": "Computer Engineering",
+            "type": "Institution"
+        },
+        {
+            "name": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+            "type": "Institution"
+        },
+        {
+            "name": "Computer Engineering. Dr. D. Y. Patil College of Engineering and Innovation",
+            "type": "Institution"
+        },
+        {
+            "name": "2Assistant Professor",
+            "type": "Institution"
+        },
+        {
+            "name": "of Computer Science",
+            "type": "Institution"
+        },
+        {
+            "name": "Hyderabad",
+            "type": "Institution"
+        },
+        {
+            "name": "Airport Road",
+            "type": "Institution"
+        },
+        {
+            "name": "Nagpur",
+            "type": "Institution"
+        },
+        {
+            "name": "of Library and Information Science",
+            "type": "Institution"
+        },
+        {
+            "name": "Rashtrasant Tukadoji Maharaj Nagpur",
+            "type": "Institution"
+        },
+        {
+            "name": "U.S.A.",
+            "type": "Institution"
+        },
+        {
+            "name": "Gandhi Nagar Bhopal-462 033",
+            "type": "Institution"
+        },
+        {
+            "name": "India",
+            "type": "Institution"
+        }
+    ],
+    "journals": [
+        {
+            "name": "IJCRT",
+            "type": "Journal"
+        },
+        {
+            "name": "International Journal on Advanced Computer Theory and Engineering",
+            "type": "Journal"
+        },
+        {
+            "name": "International Research Journal on Advanced Engineering and Management",
+            "type": "Journal"
+        },
+        {
+            "name": "SIRJANA JOURNAL",
+            "type": "Journal"
+        },
+        {
+            "name": "International Journal of Engineering Research & Technology (IJERT)",
+            "type": "Journal"
+        },
+        {
+            "name": "Journal of Autonomous Intelligence",
+            "type": "Journal"
+        },
+        {
+            "name": "International Research Journal of Engineering and Technology (IRJET)",
+            "type": "Journal"
+        },
+        {
+            "name": "IEEE Access",
+            "type": "Journal"
+        }
+    ],
+    "domains": [
+        {
+            "name": "Automatic Text Summarization",
+            "type": "Domain"
+        },
+        {
+            "name": "Natural Language Processing (NLP)",
+            "type": "Domain"
+        },
+        {
+            "name": "Natural Language Processing(NLP)",
+            "type": "Domain"
+        },
+        {
+            "name": "Open AI",
+            "type": "Domain"
+        },
+        {
+            "name": "Machine Learning",
+            "type": "Domain"
+        },
+        {
+            "name": "NLP",
+            "type": "Domain"
+        },
+        {
+            "name": "GTTS(Google Text To Speech) API",
+            "type": "Domain"
+        },
+        {
+            "name": "Natural Language Toolkit (NLTK)",
+            "type": "Domain"
+        },
+        {
+            "name": "Natural Language Processing",
+            "type": "Domain"
+        },
+        {
+            "name": "Artificial Intelligence Tools",
+            "type": "Domain"
+        },
+        {
+            "name": "Long term short memory(LSTM)",
+            "type": "Domain"
+        },
+        {
+            "name": "CNN",
+            "type": "Domain"
+        }
+    ],
+    "keywords": [
+        {
+            "name": "Text Summarization",
+            "type": "Keyword"
+        },
+        {
+            "name": "Extractive Summarization.",
+            "type": "Keyword"
+        },
+        {
+            "name": "automatic text summarization",
+            "type": "Keyword"
+        },
+        {
+            "name": "Highlighting Keywords",
+            "type": "Keyword"
+        },
+        {
+            "name": "Machine Learning",
+            "type": "Keyword"
+        },
+        {
+            "name": "NLTK",
+            "type": "Keyword"
+        },
+        {
+            "name": "Natural Language Processing",
+            "type": "Keyword"
+        },
+        {
+            "name": "NLP",
+            "type": "Keyword"
+        },
+        {
+            "name": "GTTS(Google Text To Speech) API",
+            "type": "Keyword"
+        },
+        {
+            "name": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization",
+            "type": "Keyword"
+        },
+        {
+            "name": "Scholarly publication",
+            "type": "Keyword"
+        },
+        {
+            "name": "Research.",
+            "type": "Keyword"
+        },
+        {
+            "name": "Artificial intelligence",
+            "type": "Keyword"
+        },
+        {
+            "name": "extraction summary",
+            "type": "Keyword"
+        },
+        {
+            "name": "text reduction.",
+            "type": "Keyword"
+        },
+        {
+            "name": "Automatic text summarization",
+            "type": "Keyword"
+        },
+        {
+            "name": "Natural Language Processing(NLP)",
+            "type": "Keyword"
+        },
+        {
+            "name": "Abstractive Summarization",
+            "type": "Keyword"
+        },
+        {
+            "name": "abstraction-predicated summary",
+            "type": "Keyword"
+        },
+        {
+            "name": "Text Rank Algorithm",
+            "type": "Keyword"
+        },
+        {
+            "name": "Plagiarism",
+            "type": "Keyword"
+        },
+        {
+            "name": "Categorization of text summarization  system",
+            "type": "Keyword"
+        },
+        {
+            "name": "evaluate summarization models using Python",
+            "type": "Keyword"
+        },
+        {
+            "name": "Extractive Text Summarization",
+            "type": "Keyword"
+        },
+        {
+            "name": "Natural Language Processing (NLP)",
+            "type": "Keyword"
+        },
+        {
+            "name": "Research communication",
+            "type": "Keyword"
+        },
+        {
+            "name": "Artificial Intelligence Tools",
+            "type": "Keyword"
+        },
+        {
+            "name": "Images",
+            "type": "Keyword"
+        },
+        {
+            "name": "feature extraction",
+            "type": "Keyword"
+        },
+        {
+            "name": "Open AI",
+            "type": "Keyword"
+        },
+        {
+            "name": "Long term short memory(LSTM)",
+            "type": "Keyword"
+        },
+        {
+            "name": "Text Rank",
+            "type": "Keyword"
+        },
+        {
+            "name": "Read Aloud",
+            "type": "Keyword"
+        },
+        {
+            "name": "OCR",
+            "type": "Keyword"
+        }
+    ],
+    "references": [
+        {
+            "id": "R001",
+            "title": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Techniques",
+            "year": 2023,
+            "citations": 8,
+            "type": "Reference"
+        },
+        {
+            "id": "R002",
+            "title": "SmartNews: AI-Powered News Summarizer",
+            "year": 2025,
+            "citations": 0,
+            "type": "Reference"
+        },
+        {
+            "id": "R003",
+            "title": "Automatic Text Summarization Methods: A Comprehensive Review",
+            "year": 2023,
+            "citations": 25,
+            "type": "Reference"
+        },
+        {
+            "id": "R004",
+            "title": "Automatic text summarization of scientific articles using transformers-A brief review",
+            "year": 2024,
+            "citations": 2,
+            "type": "Reference"
+        },
+        {
+            "id": "R005",
+            "title": "Text Summarization Using Natural Language Processing",
+            "year": 2024,
+            "citations": 3,
+            "type": "Reference"
+        },
+        {
+            "id": "R006",
+            "title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+            "year": 2020,
+            "citations": 10,
+            "type": "Reference"
+        },
+        {
+            "id": "R007",
+            "title": "A Survey of Text Summarization Using NLP",
+            "year": 2023,
+            "citations": 2,
+            "type": "Reference"
+        },
+        {
+            "id": "R008",
+            "title": "A Survey of Automatic Text Summarization",
+            "year": 2014,
+            "citations": 15,
+            "type": "Reference"
+        },
+        {
+            "id": "R009",
+            "title": "Research Paper Summarizer Using AI",
+            "year": 2024,
+            "citations": 1,
+            "type": "Reference"
+        }
+    ]
+}

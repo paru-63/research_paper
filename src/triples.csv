@@ -1,0 +1,802 @@
+Subject,Predicate,Object
+P01,rdf:type,Paper
+P01,has_title,Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique
+P01,published_year,2024
+P01,has_doi,10.1109/ACCESS.2025.3536205
+P02,rdf:type,Paper
+P02,has_title,SmartNews: AI-Powered News Summarize
+P02,published_year,2025
+P02,has_doi,ISSN: 2319-2526
+P03,rdf:type,Paper
+P03,has_title,Automatic Text Summarization Methods: A Comprehensive Review
+P03,published_year,2024
+P03,has_doi,10.1109/TCC.2025.3612322
+P04,rdf:type,Paper
+P04,has_title,Automatic text summarization of scientific articles using transformers
+P04,published_year,2024
+P04,has_doi,10.32629/jai.v7i5.1331
+P05,rdf:type,Paper
+P05,has_title,Text Summarization Using Natural Language Processing
+P05,published_year,2024
+P05,has_doi,ISSN: 2320-2882
+P06,rdf:type,Paper
+P06,has_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+P06,published_year,2020
+P06,has_doi,e-ISSN: 2395-0056
+P07,rdf:type,Paper
+P07,has_title,A Survey of Text Summarization Using NLP
+P07,published_year,2025
+P07,has_doi,ISSN:2455-1058
+P08,rdf:type,Paper
+P08,has_title,A Survey of Automatic Text Summarization
+P08,published_year,2014
+P08,has_doi,ISSN: 2278-0181
+P09,rdf:type,Paper
+P09,has_title,Research Paper Summarizer Using AI
+P09,published_year,2024
+P09,has_doi,e ISSN: 2584-2854
+Mandira Bairagi,rdf:type,Author
+Mandira Bairagi,has_name,Mandira Bairagi
+Dr. Shalini R. Lihitkar,rdf:type,Author
+Dr. Shalini R. Lihitkar,has_name,Dr. Shalini R. Lihitkar
+Mrs. Abha Pathak,rdf:type,Author
+Mrs. Abha Pathak,has_name,Mrs. Abha Pathak
+Trupti Pawar,rdf:type,Author
+Trupti Pawar,has_name,Trupti Pawar
+Yogeshwari Pawar,rdf:type,Author
+Yogeshwari Pawar,has_name,Yogeshwari Pawar
+Shreya pawar,rdf:type,Author
+Shreya pawar,has_name,Shreya pawar
+Divakar Yadav,rdf:type,Author
+Divakar Yadav,has_name,Divakar Yadav
+Jalpa Desai,rdf:type,Author
+Jalpa Desai,has_name,Jalpa Desai
+Arun Kumar Yadav,rdf:type,Author
+Arun Kumar Yadav,has_name,Arun Kumar Yadav
+Seema Aswani,rdf:type,Author
+Seema Aswani,has_name,Seema Aswani
+Kabita Choudhary,rdf:type,Author
+Kabita Choudhary,has_name,Kabita Choudhary
+Sujala Shetty,rdf:type,Author
+Sujala Shetty,has_name,Sujala Shetty
+Nasheen Nur,rdf:type,Author
+Nasheen Nur,has_name,Nasheen Nur
+Sanjivani Chandrashekhar Kachare,rdf:type,Author
+Sanjivani Chandrashekhar Kachare,has_name,Sanjivani Chandrashekhar Kachare
+Manali Udaykumar Sawant,rdf:type,Author
+Manali Udaykumar Sawant,has_name,Manali Udaykumar Sawant
+Manasi Suresh Yadav,rdf:type,Author
+Manasi Suresh Yadav,has_name,Manasi Suresh Yadav
+Ms. Priyanka Rajendra Jadhav,rdf:type,Author
+Ms. Priyanka Rajendra Jadhav,has_name,Ms. Priyanka Rajendra Jadhav
+SUBASH VOLETI,rdf:type,Author
+SUBASH VOLETI,has_name,SUBASH VOLETI
+CHAITAN RAJU,rdf:type,Author
+CHAITAN RAJU,has_name,CHAITAN RAJU
+TEJA RANI,rdf:type,Author
+TEJA RANI,has_name,TEJA RANI
+MUGADA SWETHA,rdf:type,Author
+MUGADA SWETHA,has_name,MUGADA SWETHA
+Bhuvan Shingade,rdf:type,Author
+Bhuvan Shingade,has_name,Bhuvan Shingade
+Yash Matha,rdf:type,Author
+Yash Matha,has_name,Yash Matha
+Ved Kolambkar,rdf:type,Author
+Ved Kolambkar,has_name,Ved Kolambkar
+Suyash Kasar,rdf:type,Author
+Suyash Kasar,has_name,Suyash Kasar
+Prof. Rohini Palve,rdf:type,Author
+Prof. Rohini Palve,has_name,Prof. Rohini Palve
+Niharika Verma,rdf:type,Author
+Niharika Verma,has_name,Niharika Verma
+Prof. Ashish Tiwari,rdf:type,Author
+Prof. Ashish Tiwari,has_name,Prof. Ashish Tiwari
+G. Santhoshi,rdf:type,Author
+G. Santhoshi,has_name,G. Santhoshi
+M Jyothi,rdf:type,Author
+M Jyothi,has_name,M Jyothi
+Kovvuri Ramya Sri,rdf:type,Author
+Kovvuri Ramya Sri,has_name,Kovvuri Ramya Sri
+G. Hasika,rdf:type,Author
+G. Hasika,has_name,G. Hasika
+G. Varsha,rdf:type,Author
+G. Varsha,has_name,G. Varsha
+R. Snigdha,rdf:type,Author
+R. Snigdha,has_name,R. Snigdha
+Rashtrasant Tukadoji Maharaj Nagpur University,rdf:type,Institution
+Rashtrasant Tukadoji Maharaj Nagpur University,has_name,Rashtrasant Tukadoji Maharaj Nagpur University
+Patil College of Engineering and Innovation,rdf:type,Institution
+Patil College of Engineering and Innovation,has_name,Patil College of Engineering and Innovation
+Birla Institute of Technology and Science,rdf:type,Institution
+Birla Institute of Technology and Science,has_name,Birla Institute of Technology and Science
+Florida Institute of Technology,rdf:type,Institution
+Florida Institute of Technology,has_name,Florida Institute of Technology
+LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY,rdf:type,Institution
+LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY,has_name,LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+Terna Engineering College,rdf:type,Institution
+Terna Engineering College,has_name,Terna Engineering College
+Rajiv Gandhi Technical University Airport Road,rdf:type,Institution
+Rajiv Gandhi Technical University Airport Road,has_name,Rajiv Gandhi Technical University Airport Road
+2 Vindhya Institute of Technology and Science Umrikheda,rdf:type,Institution
+2 Vindhya Institute of Technology and Science Umrikheda,has_name,2 Vindhya Institute of Technology and Science Umrikheda
+Narayanamma Institute of Technology and  Science for Women,rdf:type,Institution
+Narayanamma Institute of Technology and  Science for Women,has_name,Narayanamma Institute of Technology and  Science for Women
+Narayanamma Institute of Technology and Science for Women,rdf:type,Institution
+Narayanamma Institute of Technology and Science for Women,has_name,Narayanamma Institute of Technology and Science for Women
+IEEE Access,rdf:type,Journal
+IEEE Access,has_name,IEEE Access
+International Journal on Advanced Computer Theory and Engineering,rdf:type,Journal
+International Journal on Advanced Computer Theory and Engineering,has_name,International Journal on Advanced Computer Theory and Engineering
+Journal of Autonomous Intelligence,rdf:type,Journal
+Journal of Autonomous Intelligence,has_name,Journal of Autonomous Intelligence
+IJCRT,rdf:type,Journal
+IJCRT,has_name,IJCRT
+International Research Journal of Engineering and Technology (IRJET),rdf:type,Journal
+International Research Journal of Engineering and Technology (IRJET),has_name,International Research Journal of Engineering and Technology (IRJET)
+SIRJANA JOURNAL,rdf:type,Journal
+SIRJANA JOURNAL,has_name,SIRJANA JOURNAL
+International Journal of Engineering Research & Technology (IJERT),rdf:type,Journal
+International Journal of Engineering Research & Technology (IJERT),has_name,International Journal of Engineering Research & Technology (IJERT)
+International Research Journal on Advanced Engineering and Management,rdf:type,Journal
+International Research Journal on Advanced Engineering and Management,has_name,International Research Journal on Advanced Engineering and Management
+Artificial intelligence,rdf:type,Keyword
+Artificial intelligence,has_name,Artificial intelligence
+Artificial Intelligence Tools,rdf:type,Keyword
+Artificial Intelligence Tools,has_name,Artificial Intelligence Tools
+Research communication,rdf:type,Keyword
+Research communication,has_name,Research communication
+Scholarly publication,rdf:type,Keyword
+Scholarly publication,has_name,Scholarly publication
+NLP,rdf:type,Keyword
+NLP,has_name,NLP
+evaluate summarization models using Python,rdf:type,Keyword
+evaluate summarization models using Python,has_name,evaluate summarization models using Python
+Automatic text summarization,rdf:type,Keyword
+Automatic text summarization,has_name,Automatic text summarization
+Natural Language Processing,rdf:type,Keyword
+Natural Language Processing,has_name,Natural Language Processing
+Categorization of text summarization  system,rdf:type,Keyword
+Categorization of text summarization  system,has_name,Categorization of text summarization  system
+natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization,rdf:type,Keyword
+natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization,has_name,natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization
+Text Summarization,rdf:type,Keyword
+Text Summarization,has_name,Text Summarization
+Text Rank,rdf:type,Keyword
+Text Rank,has_name,Text Rank
+OCR,rdf:type,Keyword
+OCR,has_name,OCR
+Open AI,rdf:type,Keyword
+Open AI,has_name,Open AI
+Text Rank Algorithm,rdf:type,Keyword
+Text Rank Algorithm,has_name,Text Rank Algorithm
+NLTK,rdf:type,Keyword
+NLTK,has_name,NLTK
+GTTS(Google Text To Speech) API,rdf:type,Keyword
+GTTS(Google Text To Speech) API,has_name,GTTS(Google Text To Speech) API
+Extractive Text Summarization,rdf:type,Keyword
+Extractive Text Summarization,has_name,Extractive Text Summarization
+Machine Learning,rdf:type,Keyword
+Machine Learning,has_name,Machine Learning
+Natural Language Processing(NLP),rdf:type,Keyword
+Natural Language Processing(NLP),has_name,Natural Language Processing(NLP)
+Long term short memory(LSTM),rdf:type,Keyword
+Long term short memory(LSTM),has_name,Long term short memory(LSTM)
+Abstractive Summarization,rdf:type,Keyword
+Abstractive Summarization,has_name,Abstractive Summarization
+Extractive Summarization.,rdf:type,Keyword
+Extractive Summarization.,has_name,Extractive Summarization.
+abstraction-predicated summary,rdf:type,Keyword
+abstraction-predicated summary,has_name,abstraction-predicated summary
+automatic text summarization,rdf:type,Keyword
+automatic text summarization,has_name,automatic text summarization
+extraction summary,rdf:type,Keyword
+extraction summary,has_name,extraction summary
+feature extraction,rdf:type,Keyword
+feature extraction,has_name,feature extraction
+text reduction.,rdf:type,Keyword
+text reduction.,has_name,text reduction.
+Natural Language Processing (NLP),rdf:type,Keyword
+Natural Language Processing (NLP),has_name,Natural Language Processing (NLP)
+Highlighting Keywords,rdf:type,Keyword
+Highlighting Keywords,has_name,Highlighting Keywords
+Read Aloud,rdf:type,Keyword
+Read Aloud,has_name,Read Aloud
+Plagiarism,rdf:type,Keyword
+Plagiarism,has_name,Plagiarism
+Images,rdf:type,Keyword
+Images,has_name,Images
+Research.,rdf:type,Keyword
+Research.,has_name,Research.
+Artificial Intelligence Tools,rdf:type,Domain
+Artificial Intelligence Tools,has_name,Artificial Intelligence Tools
+Natural Language Processing (NLP),rdf:type,Domain
+Natural Language Processing (NLP),has_name,Natural Language Processing (NLP)
+NLP,rdf:type,Domain
+NLP,has_name,NLP
+Natural Language Processing,rdf:type,Domain
+Natural Language Processing,has_name,Natural Language Processing
+CNN,rdf:type,Domain
+CNN,has_name,CNN
+Open AI,rdf:type,Domain
+Open AI,has_name,Open AI
+GTTS(Google Text To Speech) API,rdf:type,Domain
+GTTS(Google Text To Speech) API,has_name,GTTS(Google Text To Speech) API
+Machine Learning,rdf:type,Domain
+Machine Learning,has_name,Machine Learning
+Long term short memory(LSTM),rdf:type,Domain
+Long term short memory(LSTM),has_name,Long term short memory(LSTM)
+Natural Language Processing(NLP),rdf:type,Domain
+Natural Language Processing(NLP),has_name,Natural Language Processing(NLP)
+Automatic Text Summarization,rdf:type,Domain
+Automatic Text Summarization,has_name,Automatic Text Summarization
+Natural Language Toolkit (NLTK),rdf:type,Domain
+Natural Language Toolkit (NLTK),has_name,Natural Language Toolkit (NLTK)
+R001,rdf:type,Reference
+R001,has_title,Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Techniques
+R001,cited_year,2023
+R001,citation_count,8
+R001,has_link,https://doi.org/10.1108/ejim-02-2023-0156
+R002,rdf:type,Reference
+R002,has_title,SmartNews: AI-Powered News Summarizer
+R002,cited_year,2025
+R002,has_link,https://journals.mriindia.com
+R003,rdf:type,Reference
+R003,has_title,Automatic Text Summarization Methods: A Comprehensive Review
+R003,cited_year,2023
+R003,citation_count,25
+R003,has_link,https://orcid.org/0000-0001-6051-479X
+R004,rdf:type,Reference
+R004,has_title,Automatic text summarization of scientific articles using transformers-A brief review
+R004,cited_year,2024
+R004,citation_count,2
+R004,has_link,https://doi.org/10.32629/jai.v7i5.1331
+R005,rdf:type,Reference
+R005,has_title,Text Summarization Using Natural Language Processing
+R005,cited_year,2024
+R005,citation_count,3
+R005,has_link,https://www.ijcrt.org
+R006,rdf:type,Reference
+R006,has_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+R006,cited_year,2020
+R006,citation_count,10
+R006,has_link,https://www.irjet.net
+R007,rdf:type,Reference
+R007,has_title,A Survey of Text Summarization Using NLP
+R007,cited_year,2023
+R007,citation_count,2
+R007,has_link,https://sirjana.in
+R008,rdf:type,Reference
+R008,has_title,A Survey of Automatic Text Summarization
+R008,cited_year,2014
+R008,citation_count,15
+R008,has_link,https://www.irjet.net
+R009,rdf:type,Reference
+R009,has_title,Research Paper Summarizer Using AI
+R009,cited_year,2024
+R009,citation_count,1
+R009,has_link,https://doi.org/10.47392/IRJAEM.2024.0374
+Mandira Bairagi,AUTHORED,P01
+Mandira Bairagi_AUTHORED_P01,has_year,2024
+Mandira Bairagi_AUTHORED_P01,has_paper_title,Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique
+Dr. Shalini R. Lihitkar,AUTHORED,P01
+Dr. Shalini R. Lihitkar_AUTHORED_P01,has_year,2024
+Dr. Shalini R. Lihitkar_AUTHORED_P01,has_paper_title,Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique
+Mrs. Abha Pathak,AUTHORED,P02
+Mrs. Abha Pathak_AUTHORED_P02,has_year,2025
+Mrs. Abha Pathak_AUTHORED_P02,has_paper_title,SmartNews: AI-Powered News Summarize
+Trupti Pawar,AUTHORED,P02
+Trupti Pawar_AUTHORED_P02,has_year,2025
+Trupti Pawar_AUTHORED_P02,has_paper_title,SmartNews: AI-Powered News Summarize
+Yogeshwari Pawar,AUTHORED,P02
+Yogeshwari Pawar_AUTHORED_P02,has_year,2025
+Yogeshwari Pawar_AUTHORED_P02,has_paper_title,SmartNews: AI-Powered News Summarize
+Shreya pawar,AUTHORED,P02
+Shreya pawar_AUTHORED_P02,has_year,2025
+Shreya pawar_AUTHORED_P02,has_paper_title,SmartNews: AI-Powered News Summarize
+Divakar Yadav,AUTHORED,P03
+Divakar Yadav_AUTHORED_P03,has_year,2024
+Divakar Yadav_AUTHORED_P03,has_paper_title,Automatic Text Summarization Methods: A Comprehensive Review
+Jalpa Desai,AUTHORED,P03
+Jalpa Desai_AUTHORED_P03,has_year,2024
+Jalpa Desai_AUTHORED_P03,has_paper_title,Automatic Text Summarization Methods: A Comprehensive Review
+Arun Kumar Yadav,AUTHORED,P03
+Arun Kumar Yadav_AUTHORED_P03,has_year,2024
+Arun Kumar Yadav_AUTHORED_P03,has_paper_title,Automatic Text Summarization Methods: A Comprehensive Review
+Seema Aswani,AUTHORED,P04
+Seema Aswani_AUTHORED_P04,has_year,2024
+Seema Aswani_AUTHORED_P04,has_paper_title,Automatic text summarization of scientific articles using transformers
+Kabita Choudhary,AUTHORED,P04
+Kabita Choudhary_AUTHORED_P04,has_year,2024
+Kabita Choudhary_AUTHORED_P04,has_paper_title,Automatic text summarization of scientific articles using transformers
+Sujala Shetty,AUTHORED,P04
+Sujala Shetty_AUTHORED_P04,has_year,2024
+Sujala Shetty_AUTHORED_P04,has_paper_title,Automatic text summarization of scientific articles using transformers
+Nasheen Nur,AUTHORED,P04
+Nasheen Nur_AUTHORED_P04,has_year,2024
+Nasheen Nur_AUTHORED_P04,has_paper_title,Automatic text summarization of scientific articles using transformers
+Sanjivani Chandrashekhar Kachare,AUTHORED,P05
+Sanjivani Chandrashekhar Kachare_AUTHORED_P05,has_year,2024
+Sanjivani Chandrashekhar Kachare_AUTHORED_P05,has_paper_title,Text Summarization Using Natural Language Processing 
+Manali Udaykumar Sawant,AUTHORED,P05
+Manali Udaykumar Sawant_AUTHORED_P05,has_year,2024
+Manali Udaykumar Sawant_AUTHORED_P05,has_paper_title,Text Summarization Using Natural Language Processing 
+Manasi Suresh Yadav,AUTHORED,P05
+Manasi Suresh Yadav_AUTHORED_P05,has_year,2024
+Manasi Suresh Yadav_AUTHORED_P05,has_paper_title,Text Summarization Using Natural Language Processing 
+Ms. Priyanka Rajendra Jadhav,AUTHORED,P05
+Ms. Priyanka Rajendra Jadhav_AUTHORED_P05,has_year,2024
+Ms. Priyanka Rajendra Jadhav_AUTHORED_P05,has_paper_title,Text Summarization Using Natural Language Processing 
+SUBASH VOLETI,AUTHORED,P06
+SUBASH VOLETI_AUTHORED_P06,has_year,2020
+SUBASH VOLETI_AUTHORED_P06,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+CHAITAN RAJU,AUTHORED,P06
+CHAITAN RAJU_AUTHORED_P06,has_year,2020
+CHAITAN RAJU_AUTHORED_P06,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+TEJA RANI,AUTHORED,P06
+TEJA RANI_AUTHORED_P06,has_year,2020
+TEJA RANI_AUTHORED_P06,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+MUGADA SWETHA,AUTHORED,P06
+MUGADA SWETHA_AUTHORED_P06,has_year,2020
+MUGADA SWETHA_AUTHORED_P06,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+Bhuvan Shingade,AUTHORED,P07
+Bhuvan Shingade_AUTHORED_P07,has_year,2025
+Bhuvan Shingade_AUTHORED_P07,has_paper_title,A Survey of Text Summarization Using NLP 
+Yash Matha,AUTHORED,P07
+Yash Matha_AUTHORED_P07,has_year,2025
+Yash Matha_AUTHORED_P07,has_paper_title,A Survey of Text Summarization Using NLP 
+Ved Kolambkar,AUTHORED,P07
+Ved Kolambkar_AUTHORED_P07,has_year,2025
+Ved Kolambkar_AUTHORED_P07,has_paper_title,A Survey of Text Summarization Using NLP 
+Suyash Kasar,AUTHORED,P07
+Suyash Kasar_AUTHORED_P07,has_year,2025
+Suyash Kasar_AUTHORED_P07,has_paper_title,A Survey of Text Summarization Using NLP 
+Prof. Rohini Palve,AUTHORED,P07
+Prof. Rohini Palve_AUTHORED_P07,has_year,2025
+Prof. Rohini Palve_AUTHORED_P07,has_paper_title,A Survey of Text Summarization Using NLP 
+Niharika Verma,AUTHORED,P08
+Niharika Verma_AUTHORED_P08,has_year,2014
+Niharika Verma_AUTHORED_P08,has_paper_title,A Survey of Automatic Text Summarization
+Prof. Ashish Tiwari,AUTHORED,P08
+Prof. Ashish Tiwari_AUTHORED_P08,has_year,2014
+Prof. Ashish Tiwari_AUTHORED_P08,has_paper_title,A Survey of Automatic Text Summarization
+G. Santhoshi,AUTHORED,P09
+G. Santhoshi_AUTHORED_P09,has_year,2024
+G. Santhoshi_AUTHORED_P09,has_paper_title,Research Paper Summarizer Using AI  
+M Jyothi,AUTHORED,P09
+M Jyothi_AUTHORED_P09,has_year,2024
+M Jyothi_AUTHORED_P09,has_paper_title,Research Paper Summarizer Using AI  
+Kovvuri Ramya Sri,AUTHORED,P09
+Kovvuri Ramya Sri_AUTHORED_P09,has_year,2024
+Kovvuri Ramya Sri_AUTHORED_P09,has_paper_title,Research Paper Summarizer Using AI  
+G. Hasika,AUTHORED,P09
+G. Hasika_AUTHORED_P09,has_year,2024
+G. Hasika_AUTHORED_P09,has_paper_title,Research Paper Summarizer Using AI  
+G. Varsha,AUTHORED,P09
+G. Varsha_AUTHORED_P09,has_year,2024
+G. Varsha_AUTHORED_P09,has_paper_title,Research Paper Summarizer Using AI  
+R. Snigdha,AUTHORED,P09
+R. Snigdha_AUTHORED_P09,has_year,2024
+R. Snigdha_AUTHORED_P09,has_paper_title,Research Paper Summarizer Using AI  
+P01,PUBLISHED_IN,IEEE Access
+P01_PUBLISHED_IN_IEEE Access,has_year,2024
+P01_PUBLISHED_IN_IEEE Access,has_doi, 10.1109/ACCESS.2025.3536205
+P02,PUBLISHED_IN,International Journal on Advanced Computer Theory and Engineering
+P02_PUBLISHED_IN_International Journal on Advanced Computer Theory and Engineering,has_year,2025
+P02_PUBLISHED_IN_International Journal on Advanced Computer Theory and Engineering,has_doi,ISSN: 2319-2526
+P03,PUBLISHED_IN,IEEE Access
+P03_PUBLISHED_IN_IEEE Access,has_year,2024
+P03_PUBLISHED_IN_IEEE Access,has_doi,10.1109/TCC.2025.3612322
+P04,PUBLISHED_IN,Journal of Autonomous Intelligence
+P04_PUBLISHED_IN_Journal of Autonomous Intelligence,has_year,2024
+P04_PUBLISHED_IN_Journal of Autonomous Intelligence,has_doi, 10.32629/jai.v7i5.1331
+P05,PUBLISHED_IN,IJCRT
+P05_PUBLISHED_IN_IJCRT,has_year,2024
+P05_PUBLISHED_IN_IJCRT,has_doi,ISSN: 2320-2882
+P06,PUBLISHED_IN,International Research Journal of Engineering and Technology (IRJET)
+P06_PUBLISHED_IN_International Research Journal of Engineering and Technology (IRJET),has_year,2020
+P06_PUBLISHED_IN_International Research Journal of Engineering and Technology (IRJET),has_doi,e-ISSN: 2395-0056
+P07,PUBLISHED_IN,SIRJANA JOURNAL
+P07_PUBLISHED_IN_SIRJANA JOURNAL,has_year,2025
+P07_PUBLISHED_IN_SIRJANA JOURNAL,has_doi,ISSN:2455-1058
+P08,PUBLISHED_IN,International Journal of Engineering Research & Technology (IJERT)
+P08_PUBLISHED_IN_International Journal of Engineering Research & Technology (IJERT),has_year,2014
+P08_PUBLISHED_IN_International Journal of Engineering Research & Technology (IJERT),has_doi,ISSN: 2278-0181
+P09,PUBLISHED_IN,International Research Journal on Advanced Engineering and Management
+P09_PUBLISHED_IN_International Research Journal on Advanced Engineering and Management,has_year,2024
+P09_PUBLISHED_IN_International Research Journal on Advanced Engineering and Management,has_doi,e ISSN: 2584-2854 
+P01,HAS_KEYWORD,Artificial intelligence
+P01,HAS_KEYWORD,Artificial Intelligence Tools
+P01,HAS_KEYWORD,Research communication
+P01,HAS_KEYWORD,Scholarly publication
+P02,HAS_KEYWORD,NLP
+P02,HAS_KEYWORD,evaluate summarization models using Python
+P03,HAS_KEYWORD,Automatic text summarization
+P03,HAS_KEYWORD,Natural Language Processing
+P03,HAS_KEYWORD,Categorization of text summarization  system
+P04,HAS_KEYWORD,natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization
+P05,HAS_KEYWORD,NLP
+P05,HAS_KEYWORD,Text Summarization
+P05,HAS_KEYWORD,Text Rank
+P05,HAS_KEYWORD,OCR
+P05,HAS_KEYWORD,Open AI
+P06,HAS_KEYWORD,Text Summarization
+P06,HAS_KEYWORD,Text Rank Algorithm
+P06,HAS_KEYWORD,NLTK
+P06,HAS_KEYWORD,GTTS(Google Text To Speech) API
+P06,HAS_KEYWORD,Extractive Text Summarization
+P07,HAS_KEYWORD,Machine Learning
+P07,HAS_KEYWORD,Natural Language Processing(NLP)
+P07,HAS_KEYWORD,Long term short memory(LSTM)
+P07,HAS_KEYWORD,Abstractive Summarization
+P07,HAS_KEYWORD,Extractive Summarization.
+P08,HAS_KEYWORD,abstraction-predicated summary
+P08,HAS_KEYWORD,automatic text summarization
+P08,HAS_KEYWORD,extraction summary
+P08,HAS_KEYWORD,feature extraction
+P08,HAS_KEYWORD,text reduction.
+P09,HAS_KEYWORD,Natural Language Processing (NLP)
+P09,HAS_KEYWORD,Highlighting Keywords
+P09,HAS_KEYWORD,Read Aloud
+P09,HAS_KEYWORD,Plagiarism
+P09,HAS_KEYWORD,Images
+P09,HAS_KEYWORD,Research.
+P01,BELONGS_TO_DOMAIN,Artificial Intelligence Tools
+P02,BELONGS_TO_DOMAIN,Natural Language Processing (NLP)
+P03,BELONGS_TO_DOMAIN,NLP
+P04,BELONGS_TO_DOMAIN,Natural Language Processing
+P04,BELONGS_TO_DOMAIN,CNN
+P05,BELONGS_TO_DOMAIN,NLP
+P05,BELONGS_TO_DOMAIN,Open AI
+P06,BELONGS_TO_DOMAIN,GTTS(Google Text To Speech) API
+P07,BELONGS_TO_DOMAIN,Machine Learning
+P07,BELONGS_TO_DOMAIN,Long term short memory(LSTM)
+P07,BELONGS_TO_DOMAIN,Natural Language Processing(NLP)
+P08,BELONGS_TO_DOMAIN,Automatic Text Summarization
+P09,BELONGS_TO_DOMAIN,Natural Language Toolkit (NLTK)
+Mandira Bairagi,AFFILIATED_WITH,Rashtrasant Tukadoji Maharaj Nagpur University
+Mandira Bairagi_AFFILIATED_WITH_Rashtrasant Tukadoji Maharaj Nagpur University,has_paper_id,P01
+Dr. Shalini R. Lihitkar,AFFILIATED_WITH,Rashtrasant Tukadoji Maharaj Nagpur University
+Dr. Shalini R. Lihitkar_AFFILIATED_WITH_Rashtrasant Tukadoji Maharaj Nagpur University,has_paper_id,P01
+Mrs. Abha Pathak,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Mrs. Abha Pathak_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Mrs. Abha Pathak,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Mrs. Abha Pathak_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Trupti Pawar,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Trupti Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Trupti Pawar,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Trupti Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Yogeshwari Pawar,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Yogeshwari Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Yogeshwari Pawar,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Yogeshwari Pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Shreya pawar,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Shreya pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Shreya pawar,AFFILIATED_WITH,Patil College of Engineering and Innovation
+Shreya pawar_AFFILIATED_WITH_Patil College of Engineering and Innovation,has_paper_id,P02
+Seema Aswani,AFFILIATED_WITH,Birla Institute of Technology and Science
+Seema Aswani_AFFILIATED_WITH_Birla Institute of Technology and Science,has_paper_id,P04
+Seema Aswani,AFFILIATED_WITH,Florida Institute of Technology
+Seema Aswani_AFFILIATED_WITH_Florida Institute of Technology,has_paper_id,P04
+Kabita Choudhary,AFFILIATED_WITH,Birla Institute of Technology and Science
+Kabita Choudhary_AFFILIATED_WITH_Birla Institute of Technology and Science,has_paper_id,P04
+Kabita Choudhary,AFFILIATED_WITH,Florida Institute of Technology
+Kabita Choudhary_AFFILIATED_WITH_Florida Institute of Technology,has_paper_id,P04
+Sujala Shetty,AFFILIATED_WITH,Birla Institute of Technology and Science
+Sujala Shetty_AFFILIATED_WITH_Birla Institute of Technology and Science,has_paper_id,P04
+Sujala Shetty,AFFILIATED_WITH,Florida Institute of Technology
+Sujala Shetty_AFFILIATED_WITH_Florida Institute of Technology,has_paper_id,P04
+Nasheen Nur,AFFILIATED_WITH,Birla Institute of Technology and Science
+Nasheen Nur_AFFILIATED_WITH_Birla Institute of Technology and Science,has_paper_id,P04
+Nasheen Nur,AFFILIATED_WITH,Florida Institute of Technology
+Nasheen Nur_AFFILIATED_WITH_Florida Institute of Technology,has_paper_id,P04
+SUBASH VOLETI,AFFILIATED_WITH,LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+SUBASH VOLETI_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY,has_paper_id,P06
+CHAITAN RAJU,AFFILIATED_WITH,LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+CHAITAN RAJU_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY,has_paper_id,P06
+TEJA RANI,AFFILIATED_WITH,LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+TEJA RANI_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY,has_paper_id,P06
+MUGADA SWETHA,AFFILIATED_WITH,LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MUGADA SWETHA_AFFILIATED_WITH_LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY,has_paper_id,P06
+Bhuvan Shingade,AFFILIATED_WITH,Terna Engineering College
+Bhuvan Shingade_AFFILIATED_WITH_Terna Engineering College,has_paper_id,P07
+Yash Matha,AFFILIATED_WITH,Terna Engineering College
+Yash Matha_AFFILIATED_WITH_Terna Engineering College,has_paper_id,P07
+Ved Kolambkar,AFFILIATED_WITH,Terna Engineering College
+Ved Kolambkar_AFFILIATED_WITH_Terna Engineering College,has_paper_id,P07
+Suyash Kasar,AFFILIATED_WITH,Terna Engineering College
+Suyash Kasar_AFFILIATED_WITH_Terna Engineering College,has_paper_id,P07
+Prof. Rohini Palve,AFFILIATED_WITH,Terna Engineering College
+Prof. Rohini Palve_AFFILIATED_WITH_Terna Engineering College,has_paper_id,P07
+Niharika Verma,AFFILIATED_WITH,Rajiv Gandhi Technical University Airport Road
+Niharika Verma_AFFILIATED_WITH_Rajiv Gandhi Technical University Airport Road,has_paper_id,P08
+Niharika Verma,AFFILIATED_WITH,2 Vindhya Institute of Technology and Science Umrikheda
+Niharika Verma_AFFILIATED_WITH_2 Vindhya Institute of Technology and Science Umrikheda,has_paper_id,P08
+Prof. Ashish Tiwari,AFFILIATED_WITH,Rajiv Gandhi Technical University Airport Road
+Prof. Ashish Tiwari_AFFILIATED_WITH_Rajiv Gandhi Technical University Airport Road,has_paper_id,P08
+Prof. Ashish Tiwari,AFFILIATED_WITH,2 Vindhya Institute of Technology and Science Umrikheda
+Prof. Ashish Tiwari_AFFILIATED_WITH_2 Vindhya Institute of Technology and Science Umrikheda,has_paper_id,P08
+G. Santhoshi,AFFILIATED_WITH,Narayanamma Institute of Technology and  Science for Women
+G. Santhoshi_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women,has_paper_id,P09
+G. Santhoshi,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+G. Santhoshi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+G. Santhoshi,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+G. Santhoshi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+M Jyothi,AFFILIATED_WITH,Narayanamma Institute of Technology and  Science for Women
+M Jyothi_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women,has_paper_id,P09
+M Jyothi,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+M Jyothi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+M Jyothi,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+M Jyothi_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+Kovvuri Ramya Sri,AFFILIATED_WITH,Narayanamma Institute of Technology and  Science for Women
+Kovvuri Ramya Sri_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women,has_paper_id,P09
+Kovvuri Ramya Sri,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+Kovvuri Ramya Sri_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+Kovvuri Ramya Sri,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+Kovvuri Ramya Sri_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+G. Hasika,AFFILIATED_WITH,Narayanamma Institute of Technology and  Science for Women
+G. Hasika_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women,has_paper_id,P09
+G. Hasika,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+G. Hasika_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+G. Hasika,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+G. Hasika_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+G. Varsha,AFFILIATED_WITH,Narayanamma Institute of Technology and  Science for Women
+G. Varsha_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women,has_paper_id,P09
+G. Varsha,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+G. Varsha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+G. Varsha,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+G. Varsha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+R. Snigdha,AFFILIATED_WITH,Narayanamma Institute of Technology and  Science for Women
+R. Snigdha_AFFILIATED_WITH_Narayanamma Institute of Technology and  Science for Women,has_paper_id,P09
+R. Snigdha,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+R. Snigdha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+R. Snigdha,AFFILIATED_WITH,Narayanamma Institute of Technology and Science for Women
+R. Snigdha_AFFILIATED_WITH_Narayanamma Institute of Technology and Science for Women,has_paper_id,P09
+P01,CITES,R001
+P01_CITES_R001,has_citation_count,8
+P01_CITES_R001,has_cited_year,2023
+P02,CITES,R002
+P02_CITES_R002,has_citation_count,0
+P02_CITES_R002,has_cited_year,2025
+P03,CITES,R003
+P03_CITES_R003,has_citation_count,25
+P03_CITES_R003,has_cited_year,2023
+P04,CITES,R004
+P04_CITES_R004,has_citation_count,2
+P04_CITES_R004,has_cited_year,2024
+P05,CITES,R005
+P05_CITES_R005,has_citation_count,3
+P05_CITES_R005,has_cited_year,2024
+P06,CITES,R006
+P06_CITES_R006,has_citation_count,10
+P06_CITES_R006,has_cited_year,2020
+P07,CITES,R007
+P07_CITES_R007,has_citation_count,2
+P07_CITES_R007,has_cited_year,2023
+P08,CITES,R008
+P08_CITES_R008,has_citation_count,15
+P08_CITES_R008,has_cited_year,2014
+P9,CITES,R009
+P9_CITES_R009,has_citation_count,1
+P9_CITES_R009,has_cited_year,2024
+P02,SHARES_TOPIC,P05
+P02_SHARES_TOPIC_P05,has_shared_keyword,NLP
+P05,SHARES_TOPIC,P06
+P05_SHARES_TOPIC_P06,has_shared_keyword,Text Summarization
+P03,SHARES_DOMAIN,P05
+P03_SHARES_DOMAIN_P05,has_shared_domain,NLP
+Mandira Bairagi,COLLABORATED_WITH,Dr. Shalini R. Lihitkar
+Mandira Bairagi_COLLABORATED_WITH_Dr. Shalini R. Lihitkar,has_paper_id,P01
+Mandira Bairagi_COLLABORATED_WITH_Dr. Shalini R. Lihitkar,has_paper_title,Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique
+Mandira Bairagi_COLLABORATED_WITH_Dr. Shalini R. Lihitkar,has_year,2024
+Mrs. Abha Pathak,COLLABORATED_WITH,Trupti Pawar
+Mrs. Abha Pathak_COLLABORATED_WITH_Trupti Pawar,has_paper_id,P02
+Mrs. Abha Pathak_COLLABORATED_WITH_Trupti Pawar,has_paper_title,SmartNews: AI-Powered News Summarize
+Mrs. Abha Pathak_COLLABORATED_WITH_Trupti Pawar,has_year,2025
+Mrs. Abha Pathak,COLLABORATED_WITH,Yogeshwari Pawar
+Mrs. Abha Pathak_COLLABORATED_WITH_Yogeshwari Pawar,has_paper_id,P02
+Mrs. Abha Pathak_COLLABORATED_WITH_Yogeshwari Pawar,has_paper_title,SmartNews: AI-Powered News Summarize
+Mrs. Abha Pathak_COLLABORATED_WITH_Yogeshwari Pawar,has_year,2025
+Mrs. Abha Pathak,COLLABORATED_WITH,Shreya pawar
+Mrs. Abha Pathak_COLLABORATED_WITH_Shreya pawar,has_paper_id,P02
+Mrs. Abha Pathak_COLLABORATED_WITH_Shreya pawar,has_paper_title,SmartNews: AI-Powered News Summarize
+Mrs. Abha Pathak_COLLABORATED_WITH_Shreya pawar,has_year,2025
+Trupti Pawar,COLLABORATED_WITH,Yogeshwari Pawar
+Trupti Pawar_COLLABORATED_WITH_Yogeshwari Pawar,has_paper_id,P02
+Trupti Pawar_COLLABORATED_WITH_Yogeshwari Pawar,has_paper_title,SmartNews: AI-Powered News Summarize
+Trupti Pawar_COLLABORATED_WITH_Yogeshwari Pawar,has_year,2025
+Trupti Pawar,COLLABORATED_WITH,Shreya pawar
+Trupti Pawar_COLLABORATED_WITH_Shreya pawar,has_paper_id,P02
+Trupti Pawar_COLLABORATED_WITH_Shreya pawar,has_paper_title,SmartNews: AI-Powered News Summarize
+Trupti Pawar_COLLABORATED_WITH_Shreya pawar,has_year,2025
+Yogeshwari Pawar,COLLABORATED_WITH,Shreya pawar
+Yogeshwari Pawar_COLLABORATED_WITH_Shreya pawar,has_paper_id,P02
+Yogeshwari Pawar_COLLABORATED_WITH_Shreya pawar,has_paper_title,SmartNews: AI-Powered News Summarize
+Yogeshwari Pawar_COLLABORATED_WITH_Shreya pawar,has_year,2025
+Divakar Yadav,COLLABORATED_WITH,Jalpa Desai
+Divakar Yadav_COLLABORATED_WITH_Jalpa Desai,has_paper_id,P03
+Divakar Yadav_COLLABORATED_WITH_Jalpa Desai,has_paper_title,Automatic Text Summarization Methods: A Comprehensive Review
+Divakar Yadav_COLLABORATED_WITH_Jalpa Desai,has_year,2024
+Divakar Yadav,COLLABORATED_WITH,Arun Kumar Yadav
+Divakar Yadav_COLLABORATED_WITH_Arun Kumar Yadav,has_paper_id,P03
+Divakar Yadav_COLLABORATED_WITH_Arun Kumar Yadav,has_paper_title,Automatic Text Summarization Methods: A Comprehensive Review
+Divakar Yadav_COLLABORATED_WITH_Arun Kumar Yadav,has_year,2024
+Jalpa Desai,COLLABORATED_WITH,Arun Kumar Yadav
+Jalpa Desai_COLLABORATED_WITH_Arun Kumar Yadav,has_paper_id,P03
+Jalpa Desai_COLLABORATED_WITH_Arun Kumar Yadav,has_paper_title,Automatic Text Summarization Methods: A Comprehensive Review
+Jalpa Desai_COLLABORATED_WITH_Arun Kumar Yadav,has_year,2024
+Seema Aswani,COLLABORATED_WITH,Kabita Choudhary
+Seema Aswani_COLLABORATED_WITH_Kabita Choudhary,has_paper_id,P04
+Seema Aswani_COLLABORATED_WITH_Kabita Choudhary,has_paper_title,Automatic text summarization of scientific articles using transformers
+Seema Aswani_COLLABORATED_WITH_Kabita Choudhary,has_year,2024
+Seema Aswani,COLLABORATED_WITH,Sujala Shetty
+Seema Aswani_COLLABORATED_WITH_Sujala Shetty,has_paper_id,P04
+Seema Aswani_COLLABORATED_WITH_Sujala Shetty,has_paper_title,Automatic text summarization of scientific articles using transformers
+Seema Aswani_COLLABORATED_WITH_Sujala Shetty,has_year,2024
+Seema Aswani,COLLABORATED_WITH,Nasheen Nur
+Seema Aswani_COLLABORATED_WITH_Nasheen Nur,has_paper_id,P04
+Seema Aswani_COLLABORATED_WITH_Nasheen Nur,has_paper_title,Automatic text summarization of scientific articles using transformers
+Seema Aswani_COLLABORATED_WITH_Nasheen Nur,has_year,2024
+Kabita Choudhary,COLLABORATED_WITH,Sujala Shetty
+Kabita Choudhary_COLLABORATED_WITH_Sujala Shetty,has_paper_id,P04
+Kabita Choudhary_COLLABORATED_WITH_Sujala Shetty,has_paper_title,Automatic text summarization of scientific articles using transformers
+Kabita Choudhary_COLLABORATED_WITH_Sujala Shetty,has_year,2024
+Kabita Choudhary,COLLABORATED_WITH,Nasheen Nur
+Kabita Choudhary_COLLABORATED_WITH_Nasheen Nur,has_paper_id,P04
+Kabita Choudhary_COLLABORATED_WITH_Nasheen Nur,has_paper_title,Automatic text summarization of scientific articles using transformers
+Kabita Choudhary_COLLABORATED_WITH_Nasheen Nur,has_year,2024
+Sujala Shetty,COLLABORATED_WITH,Nasheen Nur
+Sujala Shetty_COLLABORATED_WITH_Nasheen Nur,has_paper_id,P04
+Sujala Shetty_COLLABORATED_WITH_Nasheen Nur,has_paper_title,Automatic text summarization of scientific articles using transformers
+Sujala Shetty_COLLABORATED_WITH_Nasheen Nur,has_year,2024
+Sanjivani Chandrashekhar Kachare,COLLABORATED_WITH,Manali Udaykumar Sawant
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manali Udaykumar Sawant,has_paper_id,P05
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manali Udaykumar Sawant,has_paper_title,Text Summarization Using Natural Language Processing 
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manali Udaykumar Sawant,has_year,2024
+Sanjivani Chandrashekhar Kachare,COLLABORATED_WITH,Manasi Suresh Yadav
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manasi Suresh Yadav,has_paper_id,P05
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manasi Suresh Yadav,has_paper_title,Text Summarization Using Natural Language Processing 
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Manasi Suresh Yadav,has_year,2024
+Sanjivani Chandrashekhar Kachare,COLLABORATED_WITH,Ms. Priyanka Rajendra Jadhav
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_paper_id,P05
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_paper_title,Text Summarization Using Natural Language Processing 
+Sanjivani Chandrashekhar Kachare_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_year,2024
+Manali Udaykumar Sawant,COLLABORATED_WITH,Manasi Suresh Yadav
+Manali Udaykumar Sawant_COLLABORATED_WITH_Manasi Suresh Yadav,has_paper_id,P05
+Manali Udaykumar Sawant_COLLABORATED_WITH_Manasi Suresh Yadav,has_paper_title,Text Summarization Using Natural Language Processing 
+Manali Udaykumar Sawant_COLLABORATED_WITH_Manasi Suresh Yadav,has_year,2024
+Manali Udaykumar Sawant,COLLABORATED_WITH,Ms. Priyanka Rajendra Jadhav
+Manali Udaykumar Sawant_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_paper_id,P05
+Manali Udaykumar Sawant_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_paper_title,Text Summarization Using Natural Language Processing 
+Manali Udaykumar Sawant_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_year,2024
+Manasi Suresh Yadav,COLLABORATED_WITH,Ms. Priyanka Rajendra Jadhav
+Manasi Suresh Yadav_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_paper_id,P05
+Manasi Suresh Yadav_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_paper_title,Text Summarization Using Natural Language Processing 
+Manasi Suresh Yadav_COLLABORATED_WITH_Ms. Priyanka Rajendra Jadhav,has_year,2024
+SUBASH VOLETI,COLLABORATED_WITH,CHAITAN RAJU
+SUBASH VOLETI_COLLABORATED_WITH_CHAITAN RAJU,has_paper_id,P06
+SUBASH VOLETI_COLLABORATED_WITH_CHAITAN RAJU,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+SUBASH VOLETI_COLLABORATED_WITH_CHAITAN RAJU,has_year,2020
+SUBASH VOLETI,COLLABORATED_WITH,TEJA RANI
+SUBASH VOLETI_COLLABORATED_WITH_TEJA RANI,has_paper_id,P06
+SUBASH VOLETI_COLLABORATED_WITH_TEJA RANI,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+SUBASH VOLETI_COLLABORATED_WITH_TEJA RANI,has_year,2020
+SUBASH VOLETI,COLLABORATED_WITH,MUGADA SWETHA
+SUBASH VOLETI_COLLABORATED_WITH_MUGADA SWETHA,has_paper_id,P06
+SUBASH VOLETI_COLLABORATED_WITH_MUGADA SWETHA,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+SUBASH VOLETI_COLLABORATED_WITH_MUGADA SWETHA,has_year,2020
+CHAITAN RAJU,COLLABORATED_WITH,TEJA RANI
+CHAITAN RAJU_COLLABORATED_WITH_TEJA RANI,has_paper_id,P06
+CHAITAN RAJU_COLLABORATED_WITH_TEJA RANI,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+CHAITAN RAJU_COLLABORATED_WITH_TEJA RANI,has_year,2020
+CHAITAN RAJU,COLLABORATED_WITH,MUGADA SWETHA
+CHAITAN RAJU_COLLABORATED_WITH_MUGADA SWETHA,has_paper_id,P06
+CHAITAN RAJU_COLLABORATED_WITH_MUGADA SWETHA,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+CHAITAN RAJU_COLLABORATED_WITH_MUGADA SWETHA,has_year,2020
+TEJA RANI,COLLABORATED_WITH,MUGADA SWETHA
+TEJA RANI_COLLABORATED_WITH_MUGADA SWETHA,has_paper_id,P06
+TEJA RANI_COLLABORATED_WITH_MUGADA SWETHA,has_paper_title,TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API
+TEJA RANI_COLLABORATED_WITH_MUGADA SWETHA,has_year,2020
+Bhuvan Shingade,COLLABORATED_WITH,Yash Matha
+Bhuvan Shingade_COLLABORATED_WITH_Yash Matha,has_paper_id,P07
+Bhuvan Shingade_COLLABORATED_WITH_Yash Matha,has_paper_title,A Survey of Text Summarization Using NLP 
+Bhuvan Shingade_COLLABORATED_WITH_Yash Matha,has_year,2025
+Bhuvan Shingade,COLLABORATED_WITH,Ved Kolambkar
+Bhuvan Shingade_COLLABORATED_WITH_Ved Kolambkar,has_paper_id,P07
+Bhuvan Shingade_COLLABORATED_WITH_Ved Kolambkar,has_paper_title,A Survey of Text Summarization Using NLP 
+Bhuvan Shingade_COLLABORATED_WITH_Ved Kolambkar,has_year,2025
+Bhuvan Shingade,COLLABORATED_WITH,Suyash Kasar
+Bhuvan Shingade_COLLABORATED_WITH_Suyash Kasar,has_paper_id,P07
+Bhuvan Shingade_COLLABORATED_WITH_Suyash Kasar,has_paper_title,A Survey of Text Summarization Using NLP 
+Bhuvan Shingade_COLLABORATED_WITH_Suyash Kasar,has_year,2025
+Bhuvan Shingade,COLLABORATED_WITH,Prof. Rohini Palve
+Bhuvan Shingade_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_id,P07
+Bhuvan Shingade_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_title,A Survey of Text Summarization Using NLP 
+Bhuvan Shingade_COLLABORATED_WITH_Prof. Rohini Palve,has_year,2025
+Yash Matha,COLLABORATED_WITH,Ved Kolambkar
+Yash Matha_COLLABORATED_WITH_Ved Kolambkar,has_paper_id,P07
+Yash Matha_COLLABORATED_WITH_Ved Kolambkar,has_paper_title,A Survey of Text Summarization Using NLP 
+Yash Matha_COLLABORATED_WITH_Ved Kolambkar,has_year,2025
+Yash Matha,COLLABORATED_WITH,Suyash Kasar
+Yash Matha_COLLABORATED_WITH_Suyash Kasar,has_paper_id,P07
+Yash Matha_COLLABORATED_WITH_Suyash Kasar,has_paper_title,A Survey of Text Summarization Using NLP 
+Yash Matha_COLLABORATED_WITH_Suyash Kasar,has_year,2025
+Yash Matha,COLLABORATED_WITH,Prof. Rohini Palve
+Yash Matha_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_id,P07
+Yash Matha_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_title,A Survey of Text Summarization Using NLP 
+Yash Matha_COLLABORATED_WITH_Prof. Rohini Palve,has_year,2025
+Ved Kolambkar,COLLABORATED_WITH,Suyash Kasar
+Ved Kolambkar_COLLABORATED_WITH_Suyash Kasar,has_paper_id,P07
+Ved Kolambkar_COLLABORATED_WITH_Suyash Kasar,has_paper_title,A Survey of Text Summarization Using NLP 
+Ved Kolambkar_COLLABORATED_WITH_Suyash Kasar,has_year,2025
+Ved Kolambkar,COLLABORATED_WITH,Prof. Rohini Palve
+Ved Kolambkar_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_id,P07
+Ved Kolambkar_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_title,A Survey of Text Summarization Using NLP 
+Ved Kolambkar_COLLABORATED_WITH_Prof. Rohini Palve,has_year,2025
+Suyash Kasar,COLLABORATED_WITH,Prof. Rohini Palve
+Suyash Kasar_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_id,P07
+Suyash Kasar_COLLABORATED_WITH_Prof. Rohini Palve,has_paper_title,A Survey of Text Summarization Using NLP 
+Suyash Kasar_COLLABORATED_WITH_Prof. Rohini Palve,has_year,2025
+Niharika Verma,COLLABORATED_WITH,Prof. Ashish Tiwari
+Niharika Verma_COLLABORATED_WITH_Prof. Ashish Tiwari,has_paper_id,P08
+Niharika Verma_COLLABORATED_WITH_Prof. Ashish Tiwari,has_paper_title,A Survey of Automatic Text Summarization
+Niharika Verma_COLLABORATED_WITH_Prof. Ashish Tiwari,has_year,2014
+G. Santhoshi,COLLABORATED_WITH,M Jyothi
+G. Santhoshi_COLLABORATED_WITH_M Jyothi,has_paper_id,P09
+G. Santhoshi_COLLABORATED_WITH_M Jyothi,has_paper_title,Research Paper Summarizer Using AI  
+G. Santhoshi_COLLABORATED_WITH_M Jyothi,has_year,2024
+G. Santhoshi,COLLABORATED_WITH,Kovvuri Ramya Sri
+G. Santhoshi_COLLABORATED_WITH_Kovvuri Ramya Sri,has_paper_id,P09
+G. Santhoshi_COLLABORATED_WITH_Kovvuri Ramya Sri,has_paper_title,Research Paper Summarizer Using AI  
+G. Santhoshi_COLLABORATED_WITH_Kovvuri Ramya Sri,has_year,2024
+G. Santhoshi,COLLABORATED_WITH,G. Hasika
+G. Santhoshi_COLLABORATED_WITH_G. Hasika,has_paper_id,P09
+G. Santhoshi_COLLABORATED_WITH_G. Hasika,has_paper_title,Research Paper Summarizer Using AI  
+G. Santhoshi_COLLABORATED_WITH_G. Hasika,has_year,2024
+G. Santhoshi,COLLABORATED_WITH,G. Varsha
+G. Santhoshi_COLLABORATED_WITH_G. Varsha,has_paper_id,P09
+G. Santhoshi_COLLABORATED_WITH_G. Varsha,has_paper_title,Research Paper Summarizer Using AI  
+G. Santhoshi_COLLABORATED_WITH_G. Varsha,has_year,2024
+G. Santhoshi,COLLABORATED_WITH,R. Snigdha
+G. Santhoshi_COLLABORATED_WITH_R. Snigdha,has_paper_id,P09
+G. Santhoshi_COLLABORATED_WITH_R. Snigdha,has_paper_title,Research Paper Summarizer Using AI  
+G. Santhoshi_COLLABORATED_WITH_R. Snigdha,has_year,2024
+M Jyothi,COLLABORATED_WITH,Kovvuri Ramya Sri
+M Jyothi_COLLABORATED_WITH_Kovvuri Ramya Sri,has_paper_id,P09
+M Jyothi_COLLABORATED_WITH_Kovvuri Ramya Sri,has_paper_title,Research Paper Summarizer Using AI  
+M Jyothi_COLLABORATED_WITH_Kovvuri Ramya Sri,has_year,2024
+M Jyothi,COLLABORATED_WITH,G. Hasika
+M Jyothi_COLLABORATED_WITH_G. Hasika,has_paper_id,P09
+M Jyothi_COLLABORATED_WITH_G. Hasika,has_paper_title,Research Paper Summarizer Using AI  
+M Jyothi_COLLABORATED_WITH_G. Hasika,has_year,2024
+M Jyothi,COLLABORATED_WITH,G. Varsha
+M Jyothi_COLLABORATED_WITH_G. Varsha,has_paper_id,P09
+M Jyothi_COLLABORATED_WITH_G. Varsha,has_paper_title,Research Paper Summarizer Using AI  
+M Jyothi_COLLABORATED_WITH_G. Varsha,has_year,2024
+M Jyothi,COLLABORATED_WITH,R. Snigdha
+M Jyothi_COLLABORATED_WITH_R. Snigdha,has_paper_id,P09
+M Jyothi_COLLABORATED_WITH_R. Snigdha,has_paper_title,Research Paper Summarizer Using AI  
+M Jyothi_COLLABORATED_WITH_R. Snigdha,has_year,2024
+Kovvuri Ramya Sri,COLLABORATED_WITH,G. Hasika
+Kovvuri Ramya Sri_COLLABORATED_WITH_G. Hasika,has_paper_id,P09
+Kovvuri Ramya Sri_COLLABORATED_WITH_G. Hasika,has_paper_title,Research Paper Summarizer Using AI  
+Kovvuri Ramya Sri_COLLABORATED_WITH_G. Hasika,has_year,2024
+Kovvuri Ramya Sri,COLLABORATED_WITH,G. Varsha
+Kovvuri Ramya Sri_COLLABORATED_WITH_G. Varsha,has_paper_id,P09
+Kovvuri Ramya Sri_COLLABORATED_WITH_G. Varsha,has_paper_title,Research Paper Summarizer Using AI  
+Kovvuri Ramya Sri_COLLABORATED_WITH_G. Varsha,has_year,2024
+Kovvuri Ramya Sri,COLLABORATED_WITH,R. Snigdha
+Kovvuri Ramya Sri_COLLABORATED_WITH_R. Snigdha,has_paper_id,P09
+Kovvuri Ramya Sri_COLLABORATED_WITH_R. Snigdha,has_paper_title,Research Paper Summarizer Using AI  
+Kovvuri Ramya Sri_COLLABORATED_WITH_R. Snigdha,has_year,2024
+G. Hasika,COLLABORATED_WITH,G. Varsha
+G. Hasika_COLLABORATED_WITH_G. Varsha,has_paper_id,P09
+G. Hasika_COLLABORATED_WITH_G. Varsha,has_paper_title,Research Paper Summarizer Using AI  
+G. Hasika_COLLABORATED_WITH_G. Varsha,has_year,2024
+G. Hasika,COLLABORATED_WITH,R. Snigdha
+G. Hasika_COLLABORATED_WITH_R. Snigdha,has_paper_id,P09
+G. Hasika_COLLABORATED_WITH_R. Snigdha,has_paper_title,Research Paper Summarizer Using AI  
+G. Hasika_COLLABORATED_WITH_R. Snigdha,has_year,2024
+G. Varsha,COLLABORATED_WITH,R. Snigdha
+G. Varsha_COLLABORATED_WITH_R. Snigdha,has_paper_id,P09
+G. Varsha_COLLABORATED_WITH_R. Snigdha,has_paper_title,Research Paper Summarizer Using AI  
+G. Varsha_COLLABORATED_WITH_R. Snigdha,has_year,2024

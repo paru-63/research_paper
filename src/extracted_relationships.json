@@ -1,0 +1,1752 @@
+{
+  "statistics": {
+    "AUTHORED": 34,
+    "PUBLISHED_IN": 9,
+    "HAS_KEYWORD": 36,
+    "BELONGS_TO_DOMAIN": 13,
+    "AFFILIATED_WITH": 49,
+    "CITES": 9,
+    "SHARES_TOPIC": 2,
+    "SHARES_DOMAIN": 1,
+    "COLLABORATED_WITH": 54
+  },
+  "total_relationships": 207,
+  "relationships": {
+    "AUTHORED": [
+      {
+        "source": "Mandira Bairagi",
+        "relation": "AUTHORED",
+        "target": "P01",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique"
+        }
+      },
+      {
+        "source": "Dr. Shalini R. Lihitkar",
+        "relation": "AUTHORED",
+        "target": "P01",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique"
+        }
+      },
+      {
+        "source": "Mrs. Abha Pathak",
+        "relation": "AUTHORED",
+        "target": "P02",
+        "properties": {
+          "year": 2025,
+          "paper_title": "SmartNews: AI-Powered News Summarize"
+        }
+      },
+      {
+        "source": "Trupti Pawar",
+        "relation": "AUTHORED",
+        "target": "P02",
+        "properties": {
+          "year": 2025,
+          "paper_title": "SmartNews: AI-Powered News Summarize"
+        }
+      },
+      {
+        "source": "Yogeshwari Pawar",
+        "relation": "AUTHORED",
+        "target": "P02",
+        "properties": {
+          "year": 2025,
+          "paper_title": "SmartNews: AI-Powered News Summarize"
+        }
+      },
+      {
+        "source": "Shreya pawar",
+        "relation": "AUTHORED",
+        "target": "P02",
+        "properties": {
+          "year": 2025,
+          "paper_title": "SmartNews: AI-Powered News Summarize"
+        }
+      },
+      {
+        "source": "Divakar Yadav",
+        "relation": "AUTHORED",
+        "target": "P03",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Automatic Text Summarization Methods: A Comprehensive Review"
+        }
+      },
+      {
+        "source": "Jalpa Desai",
+        "relation": "AUTHORED",
+        "target": "P03",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Automatic Text Summarization Methods: A Comprehensive Review"
+        }
+      },
+      {
+        "source": "Arun Kumar Yadav",
+        "relation": "AUTHORED",
+        "target": "P03",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Automatic Text Summarization Methods: A Comprehensive Review"
+        }
+      },
+      {
+        "source": "Seema Aswani",
+        "relation": "AUTHORED",
+        "target": "P04",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Automatic text summarization of scientific articles using transformers"
+        }
+      },
+      {
+        "source": "Kabita Choudhary",
+        "relation": "AUTHORED",
+        "target": "P04",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Automatic text summarization of scientific articles using transformers"
+        }
+      },
+      {
+        "source": "Sujala Shetty",
+        "relation": "AUTHORED",
+        "target": "P04",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Automatic text summarization of scientific articles using transformers"
+        }
+      },
+      {
+        "source": "Nasheen Nur",
+        "relation": "AUTHORED",
+        "target": "P04",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Automatic text summarization of scientific articles using transformers"
+        }
+      },
+      {
+        "source": "Sanjivani Chandrashekhar Kachare",
+        "relation": "AUTHORED",
+        "target": "P05",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Text Summarization Using Natural Language Processing "
+        }
+      },
+      {
+        "source": "Manali Udaykumar Sawant",
+        "relation": "AUTHORED",
+        "target": "P05",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Text Summarization Using Natural Language Processing "
+        }
+      },
+      {
+        "source": "Manasi Suresh Yadav",
+        "relation": "AUTHORED",
+        "target": "P05",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Text Summarization Using Natural Language Processing "
+        }
+      },
+      {
+        "source": "Ms. Priyanka Rajendra Jadhav",
+        "relation": "AUTHORED",
+        "target": "P05",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Text Summarization Using Natural Language Processing "
+        }
+      },
+      {
+        "source": "SUBASH VOLETI",
+        "relation": "AUTHORED",
+        "target": "P06",
+        "properties": {
+          "year": 2020,
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+        }
+      },
+      {
+        "source": "CHAITAN RAJU",
+        "relation": "AUTHORED",
+        "target": "P06",
+        "properties": {
+          "year": 2020,
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+        }
+      },
+      {
+        "source": "TEJA RANI",
+        "relation": "AUTHORED",
+        "target": "P06",
+        "properties": {
+          "year": 2020,
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+        }
+      },
+      {
+        "source": "MUGADA SWETHA",
+        "relation": "AUTHORED",
+        "target": "P06",
+        "properties": {
+          "year": 2020,
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API"
+        }
+      },
+      {
+        "source": "Bhuvan Shingade",
+        "relation": "AUTHORED",
+        "target": "P07",
+        "properties": {
+          "year": 2025,
+          "paper_title": "A Survey of Text Summarization Using NLP "
+        }
+      },
+      {
+        "source": "Yash Matha",
+        "relation": "AUTHORED",
+        "target": "P07",
+        "properties": {
+          "year": 2025,
+          "paper_title": "A Survey of Text Summarization Using NLP "
+        }
+      },
+      {
+        "source": "Ved Kolambkar",
+        "relation": "AUTHORED",
+        "target": "P07",
+        "properties": {
+          "year": 2025,
+          "paper_title": "A Survey of Text Summarization Using NLP "
+        }
+      },
+      {
+        "source": "Suyash Kasar",
+        "relation": "AUTHORED",
+        "target": "P07",
+        "properties": {
+          "year": 2025,
+          "paper_title": "A Survey of Text Summarization Using NLP "
+        }
+      },
+      {
+        "source": "Prof. Rohini Palve",
+        "relation": "AUTHORED",
+        "target": "P07",
+        "properties": {
+          "year": 2025,
+          "paper_title": "A Survey of Text Summarization Using NLP "
+        }
+      },
+      {
+        "source": "Niharika Verma",
+        "relation": "AUTHORED",
+        "target": "P08",
+        "properties": {
+          "year": 2014,
+          "paper_title": "A Survey of Automatic Text Summarization"
+        }
+      },
+      {
+        "source": "Prof. Ashish Tiwari",
+        "relation": "AUTHORED",
+        "target": "P08",
+        "properties": {
+          "year": 2014,
+          "paper_title": "A Survey of Automatic Text Summarization"
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "AUTHORED",
+        "target": "P09",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Research Paper Summarizer Using AI  "
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "AUTHORED",
+        "target": "P09",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Research Paper Summarizer Using AI  "
+        }
+      },
+      {
+        "source": "Kovvuri Ramya Sri",
+        "relation": "AUTHORED",
+        "target": "P09",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Research Paper Summarizer Using AI  "
+        }
+      },
+      {
+        "source": "G. Hasika",
+        "relation": "AUTHORED",
+        "target": "P09",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Research Paper Summarizer Using AI  "
+        }
+      },
+      {
+        "source": "G. Varsha",
+        "relation": "AUTHORED",
+        "target": "P09",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Research Paper Summarizer Using AI  "
+        }
+      },
+      {
+        "source": "R. Snigdha",
+        "relation": "AUTHORED",
+        "target": "P09",
+        "properties": {
+          "year": 2024,
+          "paper_title": "Research Paper Summarizer Using AI  "
+        }
+      }
+    ],
+    "PUBLISHED_IN": [
+      {
+        "source": "P01",
+        "relation": "PUBLISHED_IN",
+        "target": "IEEE Access",
+        "properties": {
+          "year": 2024,
+          "doi": " 10.1109/ACCESS.2025.3536205"
+        }
+      },
+      {
+        "source": "P02",
+        "relation": "PUBLISHED_IN",
+        "target": "International Journal on Advanced Computer Theory and Engineering",
+        "properties": {
+          "year": 2025,
+          "doi": "ISSN: 2319-2526"
+        }
+      },
+      {
+        "source": "P03",
+        "relation": "PUBLISHED_IN",
+        "target": "IEEE Access",
+        "properties": {
+          "year": 2024,
+          "doi": "10.1109/TCC.2025.3612322"
+        }
+      },
+      {
+        "source": "P04",
+        "relation": "PUBLISHED_IN",
+        "target": "Journal of Autonomous Intelligence",
+        "properties": {
+          "year": 2024,
+          "doi": " 10.32629/jai.v7i5.1331"
+        }
+      },
+      {
+        "source": "P05",
+        "relation": "PUBLISHED_IN",
+        "target": "IJCRT",
+        "properties": {
+          "year": 2024,
+          "doi": "ISSN: 2320-2882"
+        }
+      },
+      {
+        "source": "P06",
+        "relation": "PUBLISHED_IN",
+        "target": "International Research Journal of Engineering and Technology (IRJET)",
+        "properties": {
+          "year": 2020,
+          "doi": "e-ISSN: 2395-0056"
+        }
+      },
+      {
+        "source": "P07",
+        "relation": "PUBLISHED_IN",
+        "target": "SIRJANA JOURNAL",
+        "properties": {
+          "year": 2025,
+          "doi": "ISSN:2455-1058"
+        }
+      },
+      {
+        "source": "P08",
+        "relation": "PUBLISHED_IN",
+        "target": "International Journal of Engineering Research & Technology (IJERT)",
+        "properties": {
+          "year": 2014,
+          "doi": "ISSN: 2278-0181"
+        }
+      },
+      {
+        "source": "P09",
+        "relation": "PUBLISHED_IN",
+        "target": "International Research Journal on Advanced Engineering and Management",
+        "properties": {
+          "year": 2024,
+          "doi": "e ISSN: 2584-2854 "
+        }
+      }
+    ],
+    "HAS_KEYWORD": [
+      {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "Artificial intelligence",
+        "properties": {}
+      },
+      {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "Artificial Intelligence Tools",
+        "properties": {}
+      },
+      {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "Research communication",
+        "properties": {}
+      },
+      {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "Scholarly publication",
+        "properties": {}
+      },
+      {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "NLP",
+        "properties": {}
+      },
+      {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "evaluate summarization models using Python",
+        "properties": {}
+      },
+      {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Automatic text summarization",
+        "properties": {}
+      },
+      {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Natural Language Processing",
+        "properties": {}
+      },
+      {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Categorization of text summarization  system",
+        "properties": {}
+      },
+      {
+        "source": "P04",
+        "relation": "HAS_KEYWORD",
+        "target": "natural language processing; long document summarization; transformers; multi-headed attention; scientific article summarization",
+        "properties": {}
+      },
+      {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "NLP",
+        "properties": {}
+      },
+      {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "Text Summarization",
+        "properties": {}
+      },
+      {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "Text Rank",
+        "properties": {}
+      },
+      {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "OCR",
+        "properties": {}
+      },
+      {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "Open AI",
+        "properties": {}
+      },
+      {
+        "source": "P06",
+        "relation": "HAS_KEYWORD",
+        "target": "Text Summarization",
+        "properties": {}
+      },
+      {
+        "source": "P06",
+        "relation": "HAS_KEYWORD",
+        "target": "Text Rank Algorithm",
+        "properties": {}
+      },
+      {
+        "source": "P06",
+        "relation": "HAS_KEYWORD",
+        "target": "NLTK",
+        "properties": {}
+      },
+      {
+        "source": "P06",
+        "relation": "HAS_KEYWORD",
+        "target": "GTTS(Google Text To Speech) API",
+        "properties": {}
+      },
+      {
+        "source": "P06",
+        "relation": "HAS_KEYWORD",
+        "target": "Extractive Text Summarization",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "Machine Learning",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "Natural Language Processing(NLP)",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "Long term short memory(LSTM)",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "Abstractive Summarization",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "Extractive Summarization.",
+        "properties": {}
+      },
+      {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "abstraction-predicated summary",
+        "properties": {}
+      },
+      {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "automatic text summarization",
+        "properties": {}
+      },
+      {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "extraction summary",
+        "properties": {}
+      },
+      {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "feature extraction",
+        "properties": {}
+      },
+      {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "text reduction.",
+        "properties": {}
+      },
+      {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Natural Language Processing (NLP)",
+        "properties": {}
+      },
+      {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Highlighting Keywords",
+        "properties": {}
+      },
+      {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Read Aloud",
+        "properties": {}
+      },
+      {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Plagiarism",
+        "properties": {}
+      },
+      {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Images",
+        "properties": {}
+      },
+      {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Research.",
+        "properties": {}
+      }
+    ],
+    "BELONGS_TO_DOMAIN": [
+      {
+        "source": "P01",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Artificial Intelligence Tools",
+        "properties": {}
+      },
+      {
+        "source": "P02",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Natural Language Processing (NLP)",
+        "properties": {}
+      },
+      {
+        "source": "P03",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "NLP",
+        "properties": {}
+      },
+      {
+        "source": "P04",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Natural Language Processing",
+        "properties": {}
+      },
+      {
+        "source": "P04",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "CNN",
+        "properties": {}
+      },
+      {
+        "source": "P05",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "NLP",
+        "properties": {}
+      },
+      {
+        "source": "P05",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Open AI",
+        "properties": {}
+      },
+      {
+        "source": "P06",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "GTTS(Google Text To Speech) API",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Machine Learning",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Long term short memory(LSTM)",
+        "properties": {}
+      },
+      {
+        "source": "P07",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Natural Language Processing(NLP)",
+        "properties": {}
+      },
+      {
+        "source": "P08",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Automatic Text Summarization",
+        "properties": {}
+      },
+      {
+        "source": "P09",
+        "relation": "BELONGS_TO_DOMAIN",
+        "target": "Natural Language Toolkit (NLTK)",
+        "properties": {}
+      }
+    ],
+    "AFFILIATED_WITH": [
+      {
+        "source": "Mandira Bairagi",
+        "relation": "AFFILIATED_WITH",
+        "target": "Rashtrasant Tukadoji Maharaj Nagpur University",
+        "properties": {
+          "paper_id": "P01"
+        }
+      },
+      {
+        "source": "Dr. Shalini R. Lihitkar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Rashtrasant Tukadoji Maharaj Nagpur University",
+        "properties": {
+          "paper_id": "P01"
+        }
+      },
+      {
+        "source": "Mrs. Abha Pathak",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Mrs. Abha Pathak",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Trupti Pawar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Trupti Pawar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Yogeshwari Pawar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Yogeshwari Pawar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Shreya pawar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Shreya pawar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Patil College of Engineering and Innovation",
+        "properties": {
+          "paper_id": "P02"
+        }
+      },
+      {
+        "source": "Seema Aswani",
+        "relation": "AFFILIATED_WITH",
+        "target": "Birla Institute of Technology and Science",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "Seema Aswani",
+        "relation": "AFFILIATED_WITH",
+        "target": "Florida Institute of Technology",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "Kabita Choudhary",
+        "relation": "AFFILIATED_WITH",
+        "target": "Birla Institute of Technology and Science",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "Kabita Choudhary",
+        "relation": "AFFILIATED_WITH",
+        "target": "Florida Institute of Technology",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "Sujala Shetty",
+        "relation": "AFFILIATED_WITH",
+        "target": "Birla Institute of Technology and Science",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "Sujala Shetty",
+        "relation": "AFFILIATED_WITH",
+        "target": "Florida Institute of Technology",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "Nasheen Nur",
+        "relation": "AFFILIATED_WITH",
+        "target": "Birla Institute of Technology and Science",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "Nasheen Nur",
+        "relation": "AFFILIATED_WITH",
+        "target": "Florida Institute of Technology",
+        "properties": {
+          "paper_id": "P04"
+        }
+      },
+      {
+        "source": "SUBASH VOLETI",
+        "relation": "AFFILIATED_WITH",
+        "target": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "properties": {
+          "paper_id": "P06"
+        }
+      },
+      {
+        "source": "CHAITAN RAJU",
+        "relation": "AFFILIATED_WITH",
+        "target": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "properties": {
+          "paper_id": "P06"
+        }
+      },
+      {
+        "source": "TEJA RANI",
+        "relation": "AFFILIATED_WITH",
+        "target": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "properties": {
+          "paper_id": "P06"
+        }
+      },
+      {
+        "source": "MUGADA SWETHA",
+        "relation": "AFFILIATED_WITH",
+        "target": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "properties": {
+          "paper_id": "P06"
+        }
+      },
+      {
+        "source": "Bhuvan Shingade",
+        "relation": "AFFILIATED_WITH",
+        "target": "Terna Engineering College",
+        "properties": {
+          "paper_id": "P07"
+        }
+      },
+      {
+        "source": "Yash Matha",
+        "relation": "AFFILIATED_WITH",
+        "target": "Terna Engineering College",
+        "properties": {
+          "paper_id": "P07"
+        }
+      },
+      {
+        "source": "Ved Kolambkar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Terna Engineering College",
+        "properties": {
+          "paper_id": "P07"
+        }
+      },
+      {
+        "source": "Suyash Kasar",
+        "relation": "AFFILIATED_WITH",
+        "target": "Terna Engineering College",
+        "properties": {
+          "paper_id": "P07"
+        }
+      },
+      {
+        "source": "Prof. Rohini Palve",
+        "relation": "AFFILIATED_WITH",
+        "target": "Terna Engineering College",
+        "properties": {
+          "paper_id": "P07"
+        }
+      },
+      {
+        "source": "Niharika Verma",
+        "relation": "AFFILIATED_WITH",
+        "target": "Rajiv Gandhi Technical University Airport Road",
+        "properties": {
+          "paper_id": "P08"
+        }
+      },
+      {
+        "source": "Niharika Verma",
+        "relation": "AFFILIATED_WITH",
+        "target": "2 Vindhya Institute of Technology and Science Umrikheda",
+        "properties": {
+          "paper_id": "P08"
+        }
+      },
+      {
+        "source": "Prof. Ashish Tiwari",
+        "relation": "AFFILIATED_WITH",
+        "target": "Rajiv Gandhi Technical University Airport Road",
+        "properties": {
+          "paper_id": "P08"
+        }
+      },
+      {
+        "source": "Prof. Ashish Tiwari",
+        "relation": "AFFILIATED_WITH",
+        "target": "2 Vindhya Institute of Technology and Science Umrikheda",
+        "properties": {
+          "paper_id": "P08"
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and  Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and  Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "Kovvuri Ramya Sri",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and  Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "Kovvuri Ramya Sri",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "Kovvuri Ramya Sri",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Hasika",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and  Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Hasika",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Hasika",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Varsha",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and  Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Varsha",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "G. Varsha",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "R. Snigdha",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and  Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "R. Snigdha",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      },
+      {
+        "source": "R. Snigdha",
+        "relation": "AFFILIATED_WITH",
+        "target": "Narayanamma Institute of Technology and Science for Women",
+        "properties": {
+          "paper_id": "P09"
+        }
+      }
+    ],
+    "CITES": [
+      {
+        "source": "P01",
+        "relation": "CITES",
+        "target": "R001",
+        "properties": {
+          "citation_count": 8,
+          "cited_year": 2023
+        }
+      },
+      {
+        "source": "P02",
+        "relation": "CITES",
+        "target": "R002",
+        "properties": {
+          "citation_count": 0,
+          "cited_year": 2025
+        }
+      },
+      {
+        "source": "P03",
+        "relation": "CITES",
+        "target": "R003",
+        "properties": {
+          "citation_count": 25,
+          "cited_year": 2023
+        }
+      },
+      {
+        "source": "P04",
+        "relation": "CITES",
+        "target": "R004",
+        "properties": {
+          "citation_count": 2,
+          "cited_year": 2024
+        }
+      },
+      {
+        "source": "P05",
+        "relation": "CITES",
+        "target": "R005",
+        "properties": {
+          "citation_count": 3,
+          "cited_year": 2024
+        }
+      },
+      {
+        "source": "P06",
+        "relation": "CITES",
+        "target": "R006",
+        "properties": {
+          "citation_count": 10,
+          "cited_year": 2020
+        }
+      },
+      {
+        "source": "P07",
+        "relation": "CITES",
+        "target": "R007",
+        "properties": {
+          "citation_count": 2,
+          "cited_year": 2023
+        }
+      },
+      {
+        "source": "P08",
+        "relation": "CITES",
+        "target": "R008",
+        "properties": {
+          "citation_count": 15,
+          "cited_year": 2014
+        }
+      },
+      {
+        "source": "P9",
+        "relation": "CITES",
+        "target": "R009",
+        "properties": {
+          "citation_count": 1,
+          "cited_year": 2024
+        }
+      }
+    ],
+    "SHARES_TOPIC": [
+      {
+        "source": "P02",
+        "relation": "SHARES_TOPIC",
+        "target": "P05",
+        "properties": {
+          "shared_keyword": "NLP"
+        }
+      },
+      {
+        "source": "P05",
+        "relation": "SHARES_TOPIC",
+        "target": "P06",
+        "properties": {
+          "shared_keyword": "Text Summarization"
+        }
+      }
+    ],
+    "SHARES_DOMAIN": [
+      {
+        "source": "P03",
+        "relation": "SHARES_DOMAIN",
+        "target": "P05",
+        "properties": {
+          "shared_domain": "NLP"
+        }
+      }
+    ],
+    "COLLABORATED_WITH": [
+      {
+        "source": "Mandira Bairagi",
+        "relation": "COLLABORATED_WITH",
+        "target": "Dr. Shalini R. Lihitkar",
+        "properties": {
+          "paper_id": "P01",
+          "paper_title": "Revolutionizing Research Writing and Publishing by using AI-Powered Tools and Technique",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Mrs. Abha Pathak",
+        "relation": "COLLABORATED_WITH",
+        "target": "Trupti Pawar",
+        "properties": {
+          "paper_id": "P02",
+          "paper_title": "SmartNews: AI-Powered News Summarize",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Mrs. Abha Pathak",
+        "relation": "COLLABORATED_WITH",
+        "target": "Yogeshwari Pawar",
+        "properties": {
+          "paper_id": "P02",
+          "paper_title": "SmartNews: AI-Powered News Summarize",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Mrs. Abha Pathak",
+        "relation": "COLLABORATED_WITH",
+        "target": "Shreya pawar",
+        "properties": {
+          "paper_id": "P02",
+          "paper_title": "SmartNews: AI-Powered News Summarize",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Trupti Pawar",
+        "relation": "COLLABORATED_WITH",
+        "target": "Yogeshwari Pawar",
+        "properties": {
+          "paper_id": "P02",
+          "paper_title": "SmartNews: AI-Powered News Summarize",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Trupti Pawar",
+        "relation": "COLLABORATED_WITH",
+        "target": "Shreya pawar",
+        "properties": {
+          "paper_id": "P02",
+          "paper_title": "SmartNews: AI-Powered News Summarize",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Yogeshwari Pawar",
+        "relation": "COLLABORATED_WITH",
+        "target": "Shreya pawar",
+        "properties": {
+          "paper_id": "P02",
+          "paper_title": "SmartNews: AI-Powered News Summarize",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Divakar Yadav",
+        "relation": "COLLABORATED_WITH",
+        "target": "Jalpa Desai",
+        "properties": {
+          "paper_id": "P03",
+          "paper_title": "Automatic Text Summarization Methods: A Comprehensive Review",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Divakar Yadav",
+        "relation": "COLLABORATED_WITH",
+        "target": "Arun Kumar Yadav",
+        "properties": {
+          "paper_id": "P03",
+          "paper_title": "Automatic Text Summarization Methods: A Comprehensive Review",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Jalpa Desai",
+        "relation": "COLLABORATED_WITH",
+        "target": "Arun Kumar Yadav",
+        "properties": {
+          "paper_id": "P03",
+          "paper_title": "Automatic Text Summarization Methods: A Comprehensive Review",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Seema Aswani",
+        "relation": "COLLABORATED_WITH",
+        "target": "Kabita Choudhary",
+        "properties": {
+          "paper_id": "P04",
+          "paper_title": "Automatic text summarization of scientific articles using transformers",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Seema Aswani",
+        "relation": "COLLABORATED_WITH",
+        "target": "Sujala Shetty",
+        "properties": {
+          "paper_id": "P04",
+          "paper_title": "Automatic text summarization of scientific articles using transformers",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Seema Aswani",
+        "relation": "COLLABORATED_WITH",
+        "target": "Nasheen Nur",
+        "properties": {
+          "paper_id": "P04",
+          "paper_title": "Automatic text summarization of scientific articles using transformers",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Kabita Choudhary",
+        "relation": "COLLABORATED_WITH",
+        "target": "Sujala Shetty",
+        "properties": {
+          "paper_id": "P04",
+          "paper_title": "Automatic text summarization of scientific articles using transformers",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Kabita Choudhary",
+        "relation": "COLLABORATED_WITH",
+        "target": "Nasheen Nur",
+        "properties": {
+          "paper_id": "P04",
+          "paper_title": "Automatic text summarization of scientific articles using transformers",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Sujala Shetty",
+        "relation": "COLLABORATED_WITH",
+        "target": "Nasheen Nur",
+        "properties": {
+          "paper_id": "P04",
+          "paper_title": "Automatic text summarization of scientific articles using transformers",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Sanjivani Chandrashekhar Kachare",
+        "relation": "COLLABORATED_WITH",
+        "target": "Manali Udaykumar Sawant",
+        "properties": {
+          "paper_id": "P05",
+          "paper_title": "Text Summarization Using Natural Language Processing ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Sanjivani Chandrashekhar Kachare",
+        "relation": "COLLABORATED_WITH",
+        "target": "Manasi Suresh Yadav",
+        "properties": {
+          "paper_id": "P05",
+          "paper_title": "Text Summarization Using Natural Language Processing ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Sanjivani Chandrashekhar Kachare",
+        "relation": "COLLABORATED_WITH",
+        "target": "Ms. Priyanka Rajendra Jadhav",
+        "properties": {
+          "paper_id": "P05",
+          "paper_title": "Text Summarization Using Natural Language Processing ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Manali Udaykumar Sawant",
+        "relation": "COLLABORATED_WITH",
+        "target": "Manasi Suresh Yadav",
+        "properties": {
+          "paper_id": "P05",
+          "paper_title": "Text Summarization Using Natural Language Processing ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Manali Udaykumar Sawant",
+        "relation": "COLLABORATED_WITH",
+        "target": "Ms. Priyanka Rajendra Jadhav",
+        "properties": {
+          "paper_id": "P05",
+          "paper_title": "Text Summarization Using Natural Language Processing ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Manasi Suresh Yadav",
+        "relation": "COLLABORATED_WITH",
+        "target": "Ms. Priyanka Rajendra Jadhav",
+        "properties": {
+          "paper_id": "P05",
+          "paper_title": "Text Summarization Using Natural Language Processing ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "SUBASH VOLETI",
+        "relation": "COLLABORATED_WITH",
+        "target": "CHAITAN RAJU",
+        "properties": {
+          "paper_id": "P06",
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+          "year": 2020
+        }
+      },
+      {
+        "source": "SUBASH VOLETI",
+        "relation": "COLLABORATED_WITH",
+        "target": "TEJA RANI",
+        "properties": {
+          "paper_id": "P06",
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+          "year": 2020
+        }
+      },
+      {
+        "source": "SUBASH VOLETI",
+        "relation": "COLLABORATED_WITH",
+        "target": "MUGADA SWETHA",
+        "properties": {
+          "paper_id": "P06",
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+          "year": 2020
+        }
+      },
+      {
+        "source": "CHAITAN RAJU",
+        "relation": "COLLABORATED_WITH",
+        "target": "TEJA RANI",
+        "properties": {
+          "paper_id": "P06",
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+          "year": 2020
+        }
+      },
+      {
+        "source": "CHAITAN RAJU",
+        "relation": "COLLABORATED_WITH",
+        "target": "MUGADA SWETHA",
+        "properties": {
+          "paper_id": "P06",
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+          "year": 2020
+        }
+      },
+      {
+        "source": "TEJA RANI",
+        "relation": "COLLABORATED_WITH",
+        "target": "MUGADA SWETHA",
+        "properties": {
+          "paper_id": "P06",
+          "paper_title": "TEXT SUMMARIZATION USING NATURAL LANGUAGE PROCESSING AND GOOGLE TEXT TO SPEECH API",
+          "year": 2020
+        }
+      },
+      {
+        "source": "Bhuvan Shingade",
+        "relation": "COLLABORATED_WITH",
+        "target": "Yash Matha",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Bhuvan Shingade",
+        "relation": "COLLABORATED_WITH",
+        "target": "Ved Kolambkar",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Bhuvan Shingade",
+        "relation": "COLLABORATED_WITH",
+        "target": "Suyash Kasar",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Bhuvan Shingade",
+        "relation": "COLLABORATED_WITH",
+        "target": "Prof. Rohini Palve",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Yash Matha",
+        "relation": "COLLABORATED_WITH",
+        "target": "Ved Kolambkar",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Yash Matha",
+        "relation": "COLLABORATED_WITH",
+        "target": "Suyash Kasar",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Yash Matha",
+        "relation": "COLLABORATED_WITH",
+        "target": "Prof. Rohini Palve",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Ved Kolambkar",
+        "relation": "COLLABORATED_WITH",
+        "target": "Suyash Kasar",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Ved Kolambkar",
+        "relation": "COLLABORATED_WITH",
+        "target": "Prof. Rohini Palve",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Suyash Kasar",
+        "relation": "COLLABORATED_WITH",
+        "target": "Prof. Rohini Palve",
+        "properties": {
+          "paper_id": "P07",
+          "paper_title": "A Survey of Text Summarization Using NLP ",
+          "year": 2025
+        }
+      },
+      {
+        "source": "Niharika Verma",
+        "relation": "COLLABORATED_WITH",
+        "target": "Prof. Ashish Tiwari",
+        "properties": {
+          "paper_id": "P08",
+          "paper_title": "A Survey of Automatic Text Summarization",
+          "year": 2014
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "COLLABORATED_WITH",
+        "target": "M Jyothi",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "COLLABORATED_WITH",
+        "target": "Kovvuri Ramya Sri",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "COLLABORATED_WITH",
+        "target": "G. Hasika",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "COLLABORATED_WITH",
+        "target": "G. Varsha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "G. Santhoshi",
+        "relation": "COLLABORATED_WITH",
+        "target": "R. Snigdha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "COLLABORATED_WITH",
+        "target": "Kovvuri Ramya Sri",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "COLLABORATED_WITH",
+        "target": "G. Hasika",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "COLLABORATED_WITH",
+        "target": "G. Varsha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "M Jyothi",
+        "relation": "COLLABORATED_WITH",
+        "target": "R. Snigdha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Kovvuri Ramya Sri",
+        "relation": "COLLABORATED_WITH",
+        "target": "G. Hasika",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Kovvuri Ramya Sri",
+        "relation": "COLLABORATED_WITH",
+        "target": "G. Varsha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "Kovvuri Ramya Sri",
+        "relation": "COLLABORATED_WITH",
+        "target": "R. Snigdha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "G. Hasika",
+        "relation": "COLLABORATED_WITH",
+        "target": "G. Varsha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "G. Hasika",
+        "relation": "COLLABORATED_WITH",
+        "target": "R. Snigdha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      },
+      {
+        "source": "G. Varsha",
+        "relation": "COLLABORATED_WITH",
+        "target": "R. Snigdha",
+        "properties": {
+          "paper_id": "P09",
+          "paper_title": "Research Paper Summarizer Using AI  ",
+          "year": 2024
+        }
+      }
+    ]
+  }
+}
